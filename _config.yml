@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Blog pessoal
 locale:           en_US
-url:              
+url:              //marcelomesmo.github.io
 
 
 # Jekyll configuration
@@ -26,13 +26,16 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: Marcelo de Barros Barbosa
+  avatar: foto-icone.png
+  bio: | 
+    26. Desenvolvedor Groovy. (noob) Game Designer. Professor no IFRN desde 2013. 
+  
+    Han atirou primeiro.
+  email: marcelo.barbosa (at) ifrn (dot) edu (dot) br
   disqus-shortname: 
   twitter: #username
-  facebook: #username
+  facebook: #mdbarrosb
   google:
     plus: #username
     analytics: 
@@ -40,15 +43,15 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: #marcelomesmo
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: #mbbarbosa
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: #attentionwho
   dribbble: #username
   youtube: #username
   soundcloud: #username
