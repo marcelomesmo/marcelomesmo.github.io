@@ -8,11 +8,11 @@ comments: true
 
 Repositório de aulas.
 
-> ## Jogos IFRN
+> ## Desenvolvimento de Jogos IFRN
 
 #### Ementa de Curso
 
-* Técnico em Desenvolvimento de Jogos
+* Técnico em Desenvolvimento de Jogos Digitais
 * Ementa: [Ementa](http://marcelomesmo.github.io)
 
 
