@@ -28,12 +28,10 @@ kramdown:
 owner:
   name: Marcelo de Barros Barbosa
   avatar: foto-icone.png
-  bio: |
-    26. Desenvolvedor Groovy. Profº de Desenvolvimento de Jogos Digitais no IFRN.
-    (noob) Game Designer.
-    Han atirou primeiro.
-    teste \n
-    teste
+  bio: >
+    26. Desenvolvedor Groovy. Profº de Desenvolvimento de Jogos Digitais no IFRN.  
+    (noob) Game D.  
+    Han atirou primeiro.  
     
   email: marcelo.barbosa (at) ifrn (dot) edu (dot) br
   disqus-shortname: 
