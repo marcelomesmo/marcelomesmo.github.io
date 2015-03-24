@@ -7,12 +7,13 @@ tags: [engines, motores de jogos, frameworks]
 comments: true
 ---
 
-Se você está com pressa pule para {Resumo}.
-Se você deseja saber mais veja {Tópicos avançados}.
-
-Muitos desenvolvedores, principalmente os iniciantes, esbarram numa grande dificuldade na hora de escolher qual tecnologia utilizar para desenvolver seus jogos.
+Se você está com pressa pule para {Resumo}.  
+  Se você deseja saber mais veja {Tópicos avançados}.  
+  
+Muitos desenvolvedores, principalmente os iniciantes, esbarram numa grande dificuldade na hora de escolher qual tecnologia utilizar para desenvolver seus jogos.  
 
 Aqueles com maior conhecimento em programação tendem a escolher dentre as *engines* disponíveis mais adequadas para sua linguagem preferida; por outro lado, os desenvolvedores mais astuciosos buscam aprender novas linguagens para se adequarem ao mercado; enquanto os que possuem um conhecimento mais limitado em programação se agarram a frameworks visuais com a promessa de desenvolvimento rápido e fácil.
+{: text-align: center }
 
 ### Mas afinal, qual o objetivo de uma Engine?
 
@@ -28,7 +29,7 @@ Em geral, ao trabalhar com um framework o desenvolvedor não lida diretamente co
 
 <figure>
   <a href="/images/unreal-blueprints.jpg"><img src="/images/unreal-blueprints.jpg"></a>
-  <figcaption align="center">Blueprints no Unreal Engine.</figcaption>
+  <figcaption text-align="center">Blueprints no Unreal Engine.</figcaption>
 </figure>
 
 Umas das principais características de um framework é a distribuição multiplataforma, permitindo que o desenvolvedor crie o seu jogo apenas uma vez e publique em várias das plataformas disponíveis no mercado. Como é o caso do Unity 3D, que permite exportar um jogo para mais de 21 plataformas diferentes, dentre elas: iOS, Android, PS4, Xbox One e WiiU.
