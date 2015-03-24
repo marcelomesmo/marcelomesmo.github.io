@@ -8,9 +8,9 @@ comments: true
 
 Repositório de aulas.
 
-## Jogos IFRN
+> ## Jogos IFRN
 
-### Ementa de Curso
+#### Ementa de Curso
 
 * Técnico em Desenvolvimento de Jogos
 * Ementa: [Ementa](http://marcelomesmo.github.io)
@@ -18,13 +18,13 @@ Repositório de aulas.
 
 ## Conteúdo de Aulas
 
-### Fundamentos de Lógica e Algoritmos
+#### Fundamentos de Lógica e Algoritmos
 
 * Objetivo do curso é ..
 * Material: [Slides](http://marcelomesmo.github.io).
 * Referências: 
 
-### Conceito de Jogos Digitais
+#### Conceito de Jogos Digitais
 
 * Objetivo do curso é ..
 * Material: [Slides](http://marcelomesmo.github.io).
@@ -33,13 +33,13 @@ Repositório de aulas.
 
 ## Palestras
 
-### Palestra: Desenvolvimento de Jogos Independentes
+#### Palestra: Desenvolvimento de Jogos Independentes
 
 * Objetivo do curso é ..
 * Material: [Slides](http://marcelomesmo.github.io).
 * Referências: 
 
-### Palestra: De 8-bits ao Giga, História dos Videogames Modernos
+#### Palestra: De 8-bits ao Giga, História dos Videogames Modernos
 
 * Objetivo do curso é ..
 * Material: [Slides](http://marcelomesmo.github.io).
@@ -48,10 +48,10 @@ Repositório de aulas.
 
 ## Recomendações
 
-### Quadrinhos
+#### Quadrinhos
 
-### Filmes e Séries
+#### Filmes e Séries
 
-### YouTube
+#### YouTube
 
-### Sites
+#### Sites

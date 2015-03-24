@@ -6,8 +6,8 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-Professor do IFRN desde 2013.
-Professor de Desenvolvimento de Jogos no IFRN campus Ceará Mirim.
+Professor do IFRN desde 2013.  
+  Professor de Desenvolvimento de Jogos Digitais no IFRN campus Ceará Mirim.
 
 ## Interesses:
 
