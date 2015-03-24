@@ -56,7 +56,6 @@ De uma forma geral, quando o tempo gasto codificando os sistemas que você preci
 
 Por outro lado, caso seu jogo tenha características muito específicas, seja muito simples de codificar ou, por ventura, suas habilidades de desenvolvimento não sejam um problema, então talvez seja interessante deixar os frameworks de lado e pensar em utilizar uma engine própria ou alguma das várias já existentes.
 
-[imagem unity, unreal ou ambas]
 <figure>
   <a href="/images/unity-1.png"><img src="/images/unity-1.png"></a>
   <figcaption>Unity 3D.</figcaption>
