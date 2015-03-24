@@ -3,10 +3,6 @@ layout: page
 title: Projetos
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Projetos desenvolvidos."
-image:
-  feature: capa-projetos.jpg
-  credit: 
-  creditlink: 
 ---
 
 {% include _toc.html %}
@@ -68,3 +64,4 @@ Found a bug or aren't quite sure how something works? By all means Ping me on Tw
 ## License
 
 This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
+

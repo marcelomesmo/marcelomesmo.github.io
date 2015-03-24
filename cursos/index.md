@@ -4,10 +4,6 @@ title: Cursos
 tags: [cursos]
 modified: 2015-03-02T20:53:07.573882-04:00
 comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: Marcelo
-  creditlink: http://marcelomesmo.github.io
 ---
 
 Página dedicada aos cursos ministrados.
@@ -27,6 +23,3 @@ Página dedicada aos cursos ministrados.
 * Template
 * Template
 * Template
-
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
