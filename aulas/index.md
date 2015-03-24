@@ -8,7 +8,7 @@ comments: true
 
 Repositório de aulas.
 
-## Jogos IFRN
+> ## Jogos IFRN
 
 #### Ementa de Curso
 
@@ -16,7 +16,7 @@ Repositório de aulas.
 * Ementa: [Ementa](http://marcelomesmo.github.io)
 
 
-## Conteúdo de Aulas
+> ## Conteúdo de Aulas
 
 #### Fundamentos de Lógica e Algoritmos
 
@@ -31,7 +31,7 @@ Repositório de aulas.
 * Referências: 
 
 
-## Palestras
+> ## Palestras
 
 #### Palestra: Desenvolvimento de Jogos Independentes
 
@@ -46,7 +46,7 @@ Repositório de aulas.
 * Referências: 
 
 
-## Recomendações
+> ## Recomendações
 
 #### Quadrinhos
 

@@ -48,7 +48,7 @@ Infelizmente algumas, dentre as quais:
 **4. Não são de sua propriedade.** Geralmente não são gratuitas e cobram royalties sobre os jogos desenvolvidos. Além disso, por serem um sistema terceirizado, se existe um bug na engine – a não ser que o framework seja opensource – você não poderá consertá-lo.
 
 <figure>
-  <a href="/images/construct-2.jpg"><img src="/images/construct-2.jpg"></a>
+  <a href="/images/construct-2.jpg"><img src="/images/construct-2.jpg" = 200x200></a>
   <figcaption>Construct 2 para desenvolvimentos de jogos 2D.</figcaption>
 </figure>
 
