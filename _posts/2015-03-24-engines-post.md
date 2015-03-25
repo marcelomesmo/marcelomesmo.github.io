@@ -13,7 +13,6 @@ Se você está com pressa pule para {Resumo}.
 Muitos desenvolvedores, principalmente os iniciantes, esbarram numa grande dificuldade na hora de escolher qual tecnologia utilizar para desenvolver seus jogos.  
 
 Aqueles com maior conhecimento em programação tendem a escolher dentre as *engines* disponíveis mais adequadas para sua linguagem preferida; por outro lado, os desenvolvedores mais astuciosos buscam aprender novas linguagens para se adequarem ao mercado; enquanto os que possuem um conhecimento mais limitado em programação se agarram a frameworks visuais com a promessa de desenvolvimento rápido e fácil.
-{: text-align: center }
 
 ### Mas afinal, qual o objetivo de uma Engine?
 
@@ -50,7 +49,7 @@ Infelizmente algumas, dentre as quais:
 
 <figure>
   <a href="/images/construct-2.jpg"><img src="/images/construct-2.jpg"></a>
-  -><figcaption>Construct 2 para desenvolvimentos de jogos 2D.</figcaption><-
+  <figcaption>Construct 2 para desenvolvimentos de jogos 2D.</figcaption>
 </figure>
 
 De uma forma geral, quando o tempo gasto codificando os sistemas que você precisa é muito maior que seu deadline, ou se você tem mais habilidades com design e arte do que com código, utilizar uma framework pode ser uma ótima ideia. 
