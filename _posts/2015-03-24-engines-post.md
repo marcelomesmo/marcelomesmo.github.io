@@ -8,6 +8,8 @@ comments: true
 ---
 
 Se você está com pressa pule para {Resumo}.  
+[Resumo](#resumindo)
+[Resumo](#resumo)  
   Se você deseja saber mais veja {Tópicos avançados}.  
   
 Muitos desenvolvedores, principalmente os iniciantes, esbarram numa grande dificuldade na hora de escolher qual tecnologia utilizar para desenvolver seus jogos.  
@@ -157,8 +159,10 @@ Se você tem conhecimento para construir sua própria engine logo de cara, entã
 
 Você naturalmente vai terminar com uma engine em mãos depois de alguns poucos projetos. Além disso, com o tempo você terminará estes projetos cada vez mais rápido, justamente porque você está deixando de se embananar com coisas desnecessárias e tornando o processo de produção de jogos mais dinâmico e iterativo.
 
+### Resumindo
 
 ### Resumindo, devo construir minha própria engine ou não?
+{:#resumo}
 
 No fim das contas, se você está se perguntando isso, então a resposta provavelmente é: **não**.
 

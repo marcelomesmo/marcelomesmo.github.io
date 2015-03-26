@@ -50,8 +50,26 @@ Repositório de aulas.
 
 #### Quadrinhos
 
+<figure>
+  <a href="   "><img src="/images/oots-logo.png"></a>
+</figure>
+
+<figure>
+  <a href="   "><img src="/images/    -logo.png"></a>
+</figure>
+
+<figure>
+  <a href="   "><img src="/images/    -logo.png"></a>
+</figure>
+
+<figure>
+  <a href="   "><img src="/images/    -logo.png"></a>
+</figure>
+
 #### Filmes e Séries
 
 #### YouTube
 
 #### Sites
+
+
