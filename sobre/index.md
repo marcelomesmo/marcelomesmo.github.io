@@ -17,9 +17,12 @@ Professor do IFRN desde 2013.
 
 ## Atualmente utilizando:
 
-* Groovy [GGTS](https://grails.org/products/ggts)
-* Slick2D [Slick](http://slick.ninjacave.com/)
-* libGDX [libGDX](http://libgdx.badlogicgames.com/)
-* Construct 2 [Construct](https://www.scirra.com/)
+* [Groovy GGTS](https://grails.org/products/ggts)
+* [Sublime 2](http://www.sublimetext.com/)
+* [Slick2D](http://slick.ninjacave.com/)
+* [libGDX](http://libgdx.badlogicgames.com/)
+* [Construct 2](https://www.scirra.com/)  
+    
+    
 
 <a markdown="0" href="http://lattes.cnpq.br/3092841355862576" class="btn">Currículo Lattes	</a>
