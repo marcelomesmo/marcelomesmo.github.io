@@ -8,7 +8,7 @@ comments: true
 ---
 
 *Se está com pressa vá para [Resumo](#resumo).*  
-  *Se deseja saber mais veja [Tópicos avançados](#avançados).*  
+  *Se deseja saber mais veja [Tópicos avançados](#avancados).*  
   
 Muitos desenvolvedores, principalmente os iniciantes, esbarram numa grande dificuldade na hora de escolher qual tecnologia utilizar para desenvolver seus jogos.  
 
@@ -107,7 +107,11 @@ A escolha de uma engine é uma decisão muito subjetiva, apenas você pode deter
 * Qual a **situação futura** deste middleware, seja engine ou framework: se é uma ferramenta completa ou incompleta, frequentemente atualizada ou descontinuada, etc.
 * Que tipo de **suporte a ferramentas** este middleware oferece ou não. Principalmente para ajudar a acelerar o desenvolvimento.
 
-Algumas opções disponíveis são:
+Algumas opções disponíveis:
+
+<figure>
+  <a href="https://www.libsdl.org/"><img src="/images/sdl-logo.jpg"></a>
+</figure>
 
 <figure>
   <a href="https://cocos2d-x.org/"><img src="/images/cocos2d-logo.jpg"></a>
@@ -125,12 +129,8 @@ Algumas opções disponíveis são:
   <a href="http://www.lwjgl.org/"><img src="/images/lwjgl-logo.jpg"></a>
 </figure>
 
-<figure>
-  <a href="https://www.libsdl.org/"><img src="/images/sdl-logo.jpg"></a>
-</figure>
-
 ### [Tópicos avançados] Aprendizado ou time to market?
-{:#avançados}
+{:#avancados}
 
 > Desenvolver uma engine é um processo iterativo e trabalhoso.
 
@@ -139,7 +139,7 @@ Desenvolver sua própria engine é uma forma de entender como as coisas funciona
 Muitos desenvolvedores não gostam ou não estão acostumadas a ler o trabalho de outros programadores, especialmente quando se trata de projetos grandes e mal documentados. Voltamos novamente a síndrome do não foi feito aqui: algumas pessoas simplesmente acham mais divertido e prático escrever suas próprias ferramentas do que sentar e ter que lidar com o código de outros.
 
 <figure>
-  <a href="/images/tf2.jpg"><img src="/images/tf2.jpg"></a>
+  <a href="/images/tf2.jpg"><img src="/images/teamf2.jpg"></a>
 </figure>
 
 > Evite utilizar um engine ou framework se seu objetivo principal é aprender pela experiência de implementar os conceitos que são resolvidos pela biblioteca.

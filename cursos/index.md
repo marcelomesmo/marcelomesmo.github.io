@@ -18,7 +18,7 @@ Página dedicada aos cursos ministrados.
 	[GwtBox2D](http://gwtbox2d.appspot.com/)
 * Extras:
 
-## Ideia 2
+## Template 2
 
 * Template
 * Template

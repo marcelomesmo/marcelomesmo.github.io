@@ -51,25 +51,71 @@ Repositório de aulas.
 #### Quadrinhos
 
 <figure>
-  <a href="   "><img src="/images/oots-logo.png"></a>
+  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots1.jpg"></a>
 </figure>
 
 <figure>
-  <a href="   "><img src="/images/    -logo.png"></a>
+  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots2.jpg"></a>
 </figure>
 
 <figure>
-  <a href="   "><img src="/images/    -logo.png"></a>
+  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots3.jpg"></a>
 </figure>
 
 <figure>
-  <a href="   "><img src="/images/    -logo.png"></a>
+  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots4.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://xkcd.com/"><img src="/images/recomenda/xkcd.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://www.nerfnow.com/"><img src="/images/recomenda/nerfnow.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://www.awkwardzombie.com/"><img src="/images/recomenda/awkzombie.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://www.awkwardzombie.com/"><img src="/images/recomenda/awkzombie2.jpg"></a>
 </figure>
 
 #### Filmes e Séries
+
+<figure>
+  <a href="http://www.rocketjump.com/category/vghs"><img src="/images/recomenda/serie-vghs.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://buy.indiegamethemovie.com/"><img src="/images/recomenda/movie-indiegame.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://supergamejam.com/"><img src="/images/recomenda/movie-supergamejam.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://www.freetoplaythemovie.com/pt/"><img src="/images/recomenda/movie-freetoplay.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://www.videogamesthemovie.com/"><img src="/images/recomenda/movie-vg.jpg"></a>
+</figure>
 
 #### YouTube
 
 #### Sites
 
+<figure>
+  <a href="http://www.newgrounds.com/"><img src="/images/recomenda/newgrounds.jpg"></a>
+</figure>
 
+<figure>
+  <a href="http://kotaku.com/"><img src="/images/recomenda/kotaku.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://kotaku.com/"><img src="/images/recomenda/kotaku2.jpg"></a>
+</figure>
