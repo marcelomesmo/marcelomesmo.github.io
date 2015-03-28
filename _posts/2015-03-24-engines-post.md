@@ -110,23 +110,23 @@ A escolha de uma engine é uma decisão muito subjetiva, apenas você pode deter
 Algumas opções disponíveis são:
 
 <figure>
-  <a href="https://cocos2d-x.org/"><img src="/images/cocos2dx-logo.png"></a>
+  <a href="https://cocos2d-x.org/"><img src="/images/cocos2d-logo.jpg"></a>
 </figure>
 
 <figure>
-  <a href="http://libgdx.badlogicgames.com/"><img src="/images/libgdx-logo.png"></a>
+  <a href="http://libgdx.badlogicgames.com/"><img src="/images/libgdx-logo.jpg"></a>
 </figure>
 
 <figure>
-  <a href="http://slick.ninjacave.com/"><img src="/images/slick2d-logo2.png"></a>
+  <a href="http://slick.ninjacave.com/"><img src="/images/slick2d-logo.jpg"></a>
 </figure>
 
 <figure>
-  <a href="http://www.lwjgl.org/"><img src="/images/lwjgl-logo.png"></a>
+  <a href="http://www.lwjgl.org/"><img src="/images/lwjgl-logo.jpg"></a>
 </figure>
 
 <figure>
-  <a href="https://www.libsdl.org/"><img src="/images/sdl-logo.png"></a>
+  <a href="https://www.libsdl.org/"><img src="/images/sdl-logo.jpg"></a>
 </figure>
 
 ### [Tópicos avançados] Aprendizado ou time to market?
