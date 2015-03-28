@@ -51,19 +51,7 @@ Repositório de aulas.
 #### Quadrinhos
 
 <figure>
-  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots1.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots2.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots3.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots4.jpg"></a>
+  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots.jpg"></a>
 </figure>
 
 <figure>
@@ -76,10 +64,6 @@ Repositório de aulas.
 
 <figure>
   <a href="http://www.awkwardzombie.com/"><img src="/images/recomenda/awkzombie.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.awkwardzombie.com/"><img src="/images/recomenda/awkzombie2.jpg"></a>
 </figure>
 
 #### Filmes e Séries
@@ -117,5 +101,5 @@ Repositório de aulas.
 </figure>
 
 <figure>
-  <a href="http://kotaku.com/"><img src="/images/recomenda/kotaku2.jpg"></a>
+  <a href="http://alvanista.com/"><img src="/images/recomenda/alvanista.jpg"></a>
 </figure>
