@@ -48,24 +48,6 @@ Repositório de aulas.
 
 > ## Recomendações
 
-#### Quadrinhos
-
-<figure>
-  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://xkcd.com/"><img src="/images/recomenda/xkcd.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.nerfnow.com/"><img src="/images/recomenda/nerfnow.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.awkwardzombie.com/"><img src="/images/recomenda/awkzombie.jpg"></a>
-</figure>
-
 #### Filmes e Séries
 
 <figure>
@@ -86,6 +68,24 @@ Repositório de aulas.
 
 <figure>
   <a href="http://www.videogamesthemovie.com/"><img src="/images/recomenda/movie-vg.jpg"></a>
+</figure>
+
+#### Quadrinhos
+
+<figure>
+  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://www.nerfnow.com/"><img src="/images/recomenda/nerfnow.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://xkcd.com/"><img src="/images/recomenda/xkcd.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://www.awkwardzombie.com/"><img src="/images/recomenda/awkzombie.jpg"></a>
 </figure>
 
 #### YouTube
