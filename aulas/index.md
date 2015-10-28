@@ -20,33 +20,30 @@ Repositório de aulas.
 
 #### Fundamentos de Lógica e Algoritmos
 
-* Objetivo do curso é ..
-* Material: [Slides](http://marcelomesmo.github.io).
-* Referências: 
+* Objetivo do curso é apresentar conceitos de lógica e técnicas para construção de algoritmos em Portugol para VisuAlg.
+* Material: [Slides](https://www.dropbox.com/sh/9hhrttrd2rs4syh/AAA_3gGLO_rhdlpkD-aB0sVga?dl=0).
 
-#### Conceito de Jogos Digitais
+#### Projeto de Interface do Usuário para Jogos Digitais
 
-* Objetivo do curso é ..
-* Material: [Slides](http://marcelomesmo.github.io).
-* Referências: 
-
+* Objetivo do curso é apresentar métodos e técnicas para construção de interfaces para jogos digitais.
+* Material: [Slides](https://www.dropbox.com/sh/3qydl1fyhmmpo3n/AAAiG06cN67qVI2OT2ETC5RZa?dl=0).
+* Projeto 1:
+* Projeto 2:
 
 > ## Palestras
 
 #### Palestra: Desenvolvimento de Jogos Independentes
 
-* Objetivo do curso é ..
-* Material: [Slides](http://marcelomesmo.github.io).
-* Referências: 
+* Apresentação sobre Desenvolvimento de Jogos Independentes realizada como parte do minicurso de Introdução ao Desenvolvimento de Jogos Digitais utilizando Construct 2.
+* Material: [Slides](https://www.dropbox.com/s/9dezeen93xwa8qi/Desenvolvimento%20de%20Jogos%20Independentes.pdf?dl=0).
 
 #### Palestra: De 8-bits ao Giga, História dos Videogames Modernos
 
-* Objetivo do curso é ..
+* Apresentação sobre ..
 * Material: [Slides](http://marcelomesmo.github.io).
-* Referências: 
 
 
-> ## Recomendações
+> ## Arte e Jogos
 
 #### Filmes e Séries
 
@@ -98,8 +95,4 @@ Repositório de aulas.
 
 <figure>
   <a href="http://kotaku.com/"><img src="/images/recomenda/kotaku.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://alvanista.com/"><img src="/images/recomenda/alvanista.jpg"></a>
 </figure>

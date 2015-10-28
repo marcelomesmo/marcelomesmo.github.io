@@ -27,7 +27,7 @@ As frameworks para desenvolvimento de jogos são ferramentas que combinam uma en
 Em geral, ao trabalhar com um framework o desenvolvedor não lida diretamente com o código da engine. Essas ferramentas trabalham com um ambiente de manipulação drag-and-drop que torna a interação mais agradável para o usuário e utilizam scripts interpretados que são posteriormente transformados em código como, por exemplo, é o caso dos blueprints da engine Unreal.
 
 <figure>
-  <a href="/images/unreal-blueprints.jpg"><img src="/images/unreal-blueprints.jpg"></a>
+  <a href="/images/engines/unreal-blueprints.jpg"><img src="/images/engines/unreal-blueprints.jpg"></a>
   <figcaption text-align="center">Blueprints no Unreal Engine.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Infelizmente algumas, dentre as quais:
 **4. Não são de sua propriedade.** Geralmente não são gratuitas e cobram royalties sobre os jogos desenvolvidos. Além disso, por serem um sistema terceirizado, se existe um bug na engine – a não ser que o framework seja opensource – você não poderá consertá-lo.
 
 <figure>
-  <a href="/images/construct-2.jpg"><img src="/images/construct-2.jpg"></a>
+  <a href="/images/engines/construct-2.jpg"><img src="/images/engines/construct-2.jpg"></a>
   <figcaption>Construct 2 para desenvolvimentos de jogos 2D.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ De uma forma geral, quando o tempo gasto codificando os sistemas que você preci
 Por outro lado, caso seu jogo tenha características muito específicas, seja muito simples de codificar ou, por ventura, suas habilidades de desenvolvimento não sejam um problema, então talvez seja interessante deixar os frameworks de lado e pensar em utilizar uma engine própria ou alguma das várias já existentes.
 
 <figure>
-  <a href="/images/unity-2.jpg"><img src="/images/unity-2.jpg"></a>
+  <a href="/images/engines/unity-2.jpg"><img src="/images/engines/unity-2.jpg"></a>
   <figcaption>Unity 3D.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ A princípio, por mais óbvio que pareça, as pessoas constroem suas próprias e
 Como o caso do Unreal, a engine surgiu do jogo de tiro de mesmo nome (futuramente Unreal Tournament). Os desenvolvedores decidiram criar uma engine própria em vez de utilizar uma existente e ao longo dos anos foram aprimorando seu produto até obtermos a engine como conhecemos hoje.
 
 <figure>
-  <a href="/images/unreal-tournament.jpg"><img src="/images/unreal-tournament.jpg"></a>
+  <a href="/images/engines/unreal-tournament.jpg"><img src="/images/engines/unreal-tournament.jpg"></a>
   <figcaption>Unreal Tournament (1999).</figcaption>
 </figure>
 
@@ -110,23 +110,23 @@ A escolha de uma engine é uma decisão muito subjetiva, apenas você pode deter
 Algumas opções disponíveis:
 
 <figure>
-  <a href="https://www.libsdl.org/"><img src="/images/sdl-logo.jpg"></a>
+  <a href="https://www.libsdl.org/"><img src="/images/engines/sdl-logo.jpg"></a>
 </figure>
 
 <figure>
-  <a href="https://cocos2d-x.org/"><img src="/images/cocos2d-logo.jpg"></a>
+  <a href="https://cocos2d-x.org/"><img src="/images/engines/cocos2d-logo.jpg"></a>
 </figure>
 
 <figure>
-  <a href="http://libgdx.badlogicgames.com/"><img src="/images/libgdx-logo.jpg"></a>
+  <a href="http://libgdx.badlogicgames.com/"><img src="/images/engines/libgdx-logo.jpg"></a>
 </figure>
 
 <figure>
-  <a href="http://slick.ninjacave.com/"><img src="/images/slick2d-logo.jpg"></a>
+  <a href="http://slick.ninjacave.com/"><img src="/images/engines/slick2d-logo.jpg"></a>
 </figure>
 
 <figure>
-  <a href="http://www.lwjgl.org/"><img src="/images/lwjgl-logo.jpg"></a>
+  <a href="http://www.lwjgl.org/"><img src="/images/engines/lwjgl-logo.jpg"></a>
 </figure>
 
 ### [Tópicos avançados] Aprendizado ou time to market?
@@ -139,7 +139,7 @@ Desenvolver sua própria engine é uma forma de entender como as coisas funciona
 Muitos desenvolvedores não gostam ou não estão acostumadas a ler o trabalho de outros programadores, especialmente quando se trata de projetos grandes e mal documentados. Voltamos novamente a síndrome do não foi feito aqui: algumas pessoas simplesmente acham mais divertido e prático escrever suas próprias ferramentas do que sentar e ter que lidar com o código de outros.
 
 <figure>
-  <a href="/images/tf2.jpg"><img src="/images/teamf2.jpg"></a>
+  <a href="/images/engines/tf2.jpg"><img src="/images/engines/teamf2.jpg"></a>
 </figure>
 
 > Evite utilizar um engine ou framework se seu objetivo principal é aprender pela experiência de implementar os conceitos que são resolvidos pela biblioteca.
@@ -151,7 +151,7 @@ No entanto, escrever, por exemplo, uma biblioteca gráfica do zero – utilizand
 Se você tem conhecimento para construir sua própria engine logo de cara, então provavelmente você também pode utilizar uma engine já feita e reestruturar o backend para que se adéque as suas necessidades. A parte difícil é não ficar preso escrevendo infraestruturas e apenas escrever o que você absolutamente precisa para resolver seu problema.
 
 <figure>
-  <a href="/images/wow.jpg"><img src="/images/wow.jpg"></a>
+  <a href="/images/engines/wow.jpg"><img src="/images/engines/wow.jpg"></a>
 </figure>
 
 > Construa seu jogo, permita que suas características/necessidades específicas determine as funcionalidades implementadas pelo código que você vai escrever, e escreva o código com reusabilidade e uma boa arquitetura em mente.
