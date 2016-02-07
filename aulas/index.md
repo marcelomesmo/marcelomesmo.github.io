@@ -27,7 +27,7 @@ Repositório de aulas.
 
 * Objetivo do curso é apresentar métodos e técnicas para construção de interfaces para jogos digitais.
 * Material: [Slides](https://www.dropbox.com/sh/3qydl1fyhmmpo3n/AAAiG06cN67qVI2OT2ETC5RZa?dl=0).
-* Projeto 1:
+* Projeto 1: [Doc](https://www.dropbox.com/s/wdgngeu50y4crai/Projeto%20I%20-%20Construcao%20de%20Controle%20de%20Fliperama.pdf?dl=0)
 * Projeto 2:
 
 > ## Palestras
