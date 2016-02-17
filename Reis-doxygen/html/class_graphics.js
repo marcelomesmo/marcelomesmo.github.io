@@ -1,0 +1,28 @@
+var class_graphics =
+[
+    [ "begin", "class_graphics.html#abef3dbf06790193110a257fd6eecf0e3", null ],
+    [ "drawCircle", "class_graphics.html#a7bd9af32b94feeb6ce0441f9e2159b46", null ],
+    [ "drawEllipse", "class_graphics.html#ab7521b07dd1f6c1c636a81fb31cfe602", null ],
+    [ "drawFilledEllipse", "class_graphics.html#ad89eae50917d4e89d0337ad05b36fbe4", null ],
+    [ "drawLine", "class_graphics.html#acbe4ced44cc20aab83cc93ae3daccd76", null ],
+    [ "drawPixel", "class_graphics.html#a79df823458e4de484b722c97a4b260df", null ],
+    [ "drawRect", "class_graphics.html#a3f3168777570a87d8d262d2ec432116d", null ],
+    [ "drawString", "class_graphics.html#ade679fc48f2f5132216650cc8265920c", null ],
+    [ "drawString", "class_graphics.html#ade23866502544bf2f81afd51b6f0a085", null ],
+    [ "drawString", "class_graphics.html#a4934aaeabc1bd9feae5c2a21e27c282b", null ],
+    [ "end", "class_graphics.html#a7c839a322ebd22e37946ac95d5202980", null ],
+    [ "free", "class_graphics.html#ad62fb198452a3e639cb348258f52044e", null ],
+    [ "getBgColor", "class_graphics.html#a0ecc338e3cce051d2fa32f02bb3916c2", null ],
+    [ "getColor", "class_graphics.html#a23cdac65f81b15bb7fd5055164cafa64", null ],
+    [ "getHeight", "class_graphics.html#a29371e6dc9c5d6af7809ca0a21260a13", null ],
+    [ "getWidth", "class_graphics.html#ad2ca70da4a43ae64866f83f0121cdf83", null ],
+    [ "init", "class_graphics.html#ab3adcff8bebc4bed527456e8cea4bc91", null ],
+    [ "reset", "class_graphics.html#a30bacd02ab4cf30cff50a72c1a6a75fd", null ],
+    [ "setBgColor", "class_graphics.html#a23d3b30bcba85c921a9512426875db1a", null ],
+    [ "setBgColor", "class_graphics.html#ac9298dc11039c7cdd3aad68a09271b87", null ],
+    [ "setBgColor", "class_graphics.html#acd6029975264329b5d45f05fa4c4f8a4", null ],
+    [ "setColor", "class_graphics.html#a7a633ff02db0d6a8177b80d7c29ef823", null ],
+    [ "setColor", "class_graphics.html#a6468b7bf691b01231eae00ddc08316b1", null ],
+    [ "setColor", "class_graphics.html#a74d38c8ca83d486a436593942e491343", null ],
+    [ "setFont", "class_graphics.html#a2859b75da6a7771693c7933f12d1efbd", null ]
+];

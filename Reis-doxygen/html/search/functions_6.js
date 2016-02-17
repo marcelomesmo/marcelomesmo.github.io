@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['getbgcolor',['getBgColor',['../class_graphics.html#a0ecc338e3cce051d2fa32f02bb3916c2',1,'Graphics']]],
+  ['getcolor',['getColor',['../class_graphics.html#a23cdac65f81b15bb7fd5055164cafa64',1,'Graphics']]],
+  ['getfont',['getFont',['../class_font.html#ab09b305fc639093e2670bddf5dcbc423',1,'Font']]],
+  ['getfontstyle',['getFontStyle',['../class_font.html#a35aa1dcc3a3092e79178df7bd8bc35c6',1,'Font']]],
+  ['getheight',['getHeight',['../class_graphics.html#a29371e6dc9c5d6af7809ca0a21260a13',1,'Graphics']]],
+  ['getid',['getID',['../class_game_state.html#a63a2c40acc3b1223c16b77ee1312ec60',1,'GameState']]],
+  ['getleftanalogdirx',['getLeftAnalogDirX',['../class_input.html#a4ab2aeb01513688828281ef3d0dc4650',1,'Input']]],
+  ['getleftanalogdiry',['getLeftAnalogDirY',['../class_input.html#ab7dcac77c00798d93dd85082f8e02a54',1,'Input']]],
+  ['getmousex',['getMouseX',['../class_input.html#a2ae6bf4f1badcbc177777163c8aa0e10',1,'Input']]],
+  ['getmousey',['getMouseY',['../class_input.html#ab4ab9de00a882310b8d0ae0311a75244',1,'Input']]],
+  ['getnumcontrollers',['getNumControllers',['../class_input.html#a65108231bc7c8a99c96e3e95d288e748',1,'Input']]],
+  ['getrendertype',['getRenderType',['../class_font.html#a066b2575ece877e84bbae0aaadde807f',1,'Font']]],
+  ['getrightanalogdirx',['getRightAnalogDirX',['../class_input.html#a7b5931a322fd389f8ded4d614b201b32',1,'Input']]],
+  ['getrightanalogdiry',['getRightAnalogDirY',['../class_input.html#aa299771c895dc728d553451cccbe01b5',1,'Input']]],
+  ['getsensibility',['getSensibility',['../class_input.html#a4e0bbf1942f127c9db281a69c60efed6',1,'Input']]],
+  ['getticks',['getTicks',['../class_timer.html#a3e33f5331f91ef210ac3b45b200eac91',1,'Timer']]],
+  ['getwidth',['getWidth',['../class_graphics.html#ad2ca70da4a43ae64866f83f0121cdf83',1,'Graphics']]]
+];
