@@ -13,6 +13,7 @@ HEEG (Heuristic Evaluation for Educational Games) é uma heurística de usabilid
 A HEEG é baseada em outras heurísticas populares, como a **HEP** e a **PLAY**, e pode ser aplicada para identificar rapidamente problemas e melhorias em Jogos Digitais. A HEEG foi utilizada em jogos do projeto [GamEdu](http://gamedu.net/) na UFRN e serve como ponto inicial para o processo de testes de usabilidade, design e gameplay em jogos.
 
 #### Download: [Planilha HEEG](https://www.dropbox.com/s/oa2994znbaklmev/HEEG.pdf?dl=0)
+
 #### Mais informações: [Artigo](http://sbgames.org/sbgames2015/anaispdf/computacao-short/147521.pdf)
 
 
@@ -27,6 +28,7 @@ MuSSE é uma ferramenta desenvolvida para gerar arquivos XML com metadados das S
 MuSSE (Multi-sized Sprite Sheet meta-data Exporter) é baseado em um algoritmo de detecção visual de regiões ([Blob detection](https://en.wikipedia.org/wiki/Blob_detection)) que extrai informações de posição relativa (x, y) e tamanho (altura e largura) de Sprites individuais em um Sprite Sheet. Essas informações são então organizadas em um documento XML customizado.
 
 #### Download: [Repositório](https://github.com/marcelomesmo/MuSSE)
+
 #### Mais informações: [Artigo](http://www.sbgames.org/sbgames2015/anaispdf/computacao-full/147508.pdf)
 
 
@@ -54,6 +56,7 @@ Jogo desenvolvido na Global Game Jam 2016.
 A GGJ é um evento anual para desenvolvimento de jogos em 48h. TOC é um jogo de plataforma feito nas carreiras, em menos de 24h*, com ajuda da minha irmã. ;)
 
 #### Site: [TOC - GGJ2016](http://globalgamejam.org/2016/games/toc-0)
+
 #### Link Direto: [Jogue aqui](http://marcelomesmo.github.io/TOC/)
 Aperte ESPAÇO para atirar. Setas para mover.
 Aperte R para reiniciar o jogo.
@@ -74,7 +77,4 @@ Utilizando um kit de controle genérico Sanwa, adaptamos e desenvolvemos também
 #### Mais informações:
 
 [Em Breve - Configurando Raspberry Pi 2 com Retropie]()
-[Em Breve - Video]()
-
 [Em Breve - Montando controle USB genérico]()
-[Em Breve - Video]()  
