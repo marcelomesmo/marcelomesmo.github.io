@@ -13,7 +13,7 @@ Repositório de aulas.
 #### Ementa de Curso
 
 * Técnico em Desenvolvimento de Jogos Digitais
-* Ementa: [Ementa](http://marcelomesmo.github.io)
+* Ementa: [Ementa - Em breve]()
 
 
 > ## Conteúdo de Aulas
@@ -37,10 +37,7 @@ Repositório de aulas.
 * Apresentação sobre Desenvolvimento de Jogos Independentes realizada como parte do minicurso de Introdução ao Desenvolvimento de Jogos Digitais utilizando Construct 2.
 * Material: [Slides](https://www.dropbox.com/s/9dezeen93xwa8qi/Desenvolvimento%20de%20Jogos%20Independentes.pdf?dl=0).
 
-#### Palestra: De 8-bits ao Giga, História dos Videogames Modernos
-
-* Apresentação sobre ..
-* Material: [Slides](http://marcelomesmo.github.io).
+#### Palestra: De 8-bits ao Giga, História dos Videogames Modernos  
 
 
 > ## Arte e Jogos
