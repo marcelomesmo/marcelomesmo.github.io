@@ -6,7 +6,7 @@ excerpt: "Projetos desenvolvidos."
 ---
 ![HEEG](/images/projetos/heeg.png)
 
-> ## HEEG
+## HEEG
 
 #### Download: [Planilha HEEG](https://www.dropbox.com/s/oa2994znbaklmev/HEEG.pdf?dl=0)
 
@@ -15,10 +15,11 @@ HEEG (Heuristic Evaluation for Educational Games) é uma heurística de usabilid
 A HEEG é baseada em outras heurísticas populares, como a **HEP** e a **PLAY**, e pode ser aplicada para identificar rapidamente problemas e melhorias em Jogos Digitais. A HEEG foi utilizada em jogos do projeto [GamEdu](http://gamedu.net/) na UFRN e serve como ponto inicial para o processo de testes de usabilidade, design e gameplay em jogos.
 
 #### Mais informações: [Artigo](http://sbgames.org/sbgames2015/anaispdf/computacao-short/147521.pdf)
+
 <br>
 ![MuSSE](/images/projetos/musse.png)
 
-> ## MuSSE
+## MuSSE
 
 #### Download: [Repositório](https://github.com/marcelomesmo/MuSSE)
 
@@ -31,7 +32,7 @@ MuSSE (Multi-sized Sprite Sheet meta-data Exporter) é baseado em um algoritmo d
 <br>
 ![Reis](/images/projetos/reis.png)
 
-> ## Reis
+## Reis
 
 #### Download: [Repositório](https://github.com/marcelomesmo/Reis)
 
@@ -42,7 +43,7 @@ Atualmente está em refatoração. Você pode acompanhar o processo aqui [link i
 <br>
 ![TOC](/images/projetos/toc.png)
 
-> ## TOC
+## TOC
 
 #### Site: [TOC - GGJ2016](http://globalgamejam.org/2016/games/toc-0)
 
@@ -57,7 +58,7 @@ Aperte R para reiniciar o jogo.
 <br>
 ![RetroPie](/images/projetos/retropie.png)
 
-> ## Fliperama com Retropie
+## Fliperama com Retropie
 
 Fliperama com RetroPie é um projeto desenvolvido em conjunto com meus alunos do IFRN para montagem de aparelhos de Fliperama (Arcades) utilizando placas [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) e controles genéricos [Sanwa](http://www.focusattack.com/sanwa-jlf-tprg-8ayt-sk-silent-microswitch-joystick/).  
 
