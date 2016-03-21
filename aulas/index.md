@@ -12,8 +12,8 @@ Repositório de aulas.
 
 #### Ementa de Curso
 
-* Técnico em Desenvolvimento de Jogos Digitais
-* Ementa: [Ementa - Em breve]()
+* Técnico em Desenvolvimento de Jogos Digitais. Reelaboração da ementa de curso.
+* Ementa: Ainda não disponível.
 
 
 > ## Conteúdo de Aulas
@@ -23,12 +23,17 @@ Repositório de aulas.
 * Objetivo do curso é apresentar conceitos de lógica e técnicas para construção de algoritmos em Portugol para VisuAlg.
 * Material: [Slides](https://www.dropbox.com/sh/9hhrttrd2rs4syh/AAA_3gGLO_rhdlpkD-aB0sVga?dl=0).
 
+#### Programação Orientada a Objetos para Jogos Digitais
+
+* Objetivo do curso é apresentar conceitos de POO e técnicas para construção de Jogos Digitais em C++ e SDL.
+* Material: Ainda não disponível.
+
 #### Projeto de Interface do Usuário para Jogos Digitais
 
 * Objetivo do curso é apresentar métodos e técnicas para construção de interfaces para jogos digitais.
 * Material: [Slides](https://www.dropbox.com/sh/3qydl1fyhmmpo3n/AAAiG06cN67qVI2OT2ETC5RZa?dl=0).
-* Projeto 1: [Doc](https://www.dropbox.com/s/wdgngeu50y4crai/Projeto%20I%20-%20Construcao%20de%20Controle%20de%20Fliperama.pdf?dl=0)
-* Projeto 2:
+* Projeto 1: [Doc](https://www.dropbox.com/s/wdgngeu50y4crai/Projeto%20I%20-%20Construcao%20de%20Controle%20de%20Fliperama.pdf?dl=0).
+* Projeto 2: [Doc](https://www.dropbox.com/s/bsxvmbtes9yow0e/Projeto%20II%20-%20Exposicao%20e%20Mostra%20de%20Maquetes.pdf?dl=0).
 
 > ## Palestras
 
@@ -92,4 +97,8 @@ Repositório de aulas.
 
 <figure>
   <a href="http://kotaku.com/"><img src="/images/recomenda/kotaku.jpg"></a>
+</figure>
+
+<figure>
+  <a href="http://stackoverflow.com/"><img src="/images/recomenda/stackoverflow.jpg"></a>
 </figure>
