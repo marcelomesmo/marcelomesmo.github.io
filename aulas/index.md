@@ -25,8 +25,8 @@ Repositório de aulas.
 
 #### Programação Orientada a Objetos para Jogos Digitais
 
-* Objetivo do curso é apresentar conceitos de POO e técnicas para construção de Jogos Digitais em C++ e SDL.
-* Material: Ainda não disponível.
+* Objetivo do curso é apresentar conceitos de POO e técnicas para construção de Jogos Digitais em C++ e SDL.  
+* Material: [Slides](https://www.dropbox.com/sh/4sw67zrctoo2rkr/AAA4Iaf309P_ZOzUYNqu2f1aa?dl=0)
 
 #### Projeto de Interface do Usuário para Jogos Digitais
 
