@@ -16,7 +16,7 @@ Oficina de Criação de Jogos Digitais.
 
 #### 2017
 
-Tema 1 :  
+#### Tema 1 :  
 
 | Alunos | Jogo | Prêmios
 | :-------------  | :-------------  | :---: |
@@ -25,9 +25,9 @@ Tema 1 :
 | Nome do aluno 3  
   Nome do aluno 4 | Projeto de Jogo 2 |  |
 
-Tema 2 :  
-Tema 3 :  
-Tema 4 :  
+#### Tema 2 :  
+#### Tema 3 :  
+#### Tema 4 :  
 
 #### 2018
 
