@@ -19,7 +19,7 @@ Oficina de Criação de Jogos Digitais.
 Tema 1 :  
 
 | Alunos | Jogo | Prêmios
-| -------------  | -------------  | --- |
+| :-------------  | :-------------  | :---: |
 | Nome do aluno 1  
   Nome do aluno 2 | Projeto de Jogo 1 |  |
 | Nome do aluno 3  
