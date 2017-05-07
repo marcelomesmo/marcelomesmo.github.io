@@ -18,6 +18,26 @@ Repositório de aulas.
 
 > ## Conteúdo de Aulas
 
+#### Oficina de Criação
+
+* Objetivo do curso é (sic) Desenvolver um jogo para cada tema proposto. Os temas serão apresentados bimestralmente.
+* Material: [Slides](https://www.dropbox.com/sh/hgfpv689b49r0yl/AADpIAa__B4RsM4WMV1ky9yra?dl=0).
+* Temas: [Página](http://marcelomesmo.github.io/aulas/temas).
+
+#### Motores de Jogos - Unity
+
+* Objetivo do curso é (sic) .
+* Material: [Slides](https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0).
+* Download: [Unity](https://store.unity.com/pt).
+* Tutoriais: [Unity](https://unity3d.com/pt/learn/tutorials).
+
+#### Projeto de Interface do Usuário para Jogos Digitais
+
+* Objetivo do curso é apresentar métodos e técnicas para construção de interfaces para jogos digitais.
+* Material: [Slides](https://www.dropbox.com/sh/3qydl1fyhmmpo3n/AAAiG06cN67qVI2OT2ETC5RZa?dl=0).
+* Projeto 1: [Doc](https://www.dropbox.com/s/wdgngeu50y4crai/Projeto%20I%20-%20Construcao%20de%20Controle%20de%20Fliperama.pdf?dl=0).
+* Projeto 2: [Doc](https://www.dropbox.com/s/bsxvmbtes9yow0e/Projeto%20II%20-%20Exposicao%20e%20Mostra%20de%20Maquetes.pdf?dl=0).
+
 #### Fundamentos de Lógica e Algoritmos
 
 * Objetivo do curso é apresentar conceitos de lógica e técnicas para construção de algoritmos em Portugol para VisuAlg.
@@ -27,14 +47,7 @@ Repositório de aulas.
 
 * Objetivo do curso é apresentar conceitos de POO e técnicas para construção de Jogos Digitais em C++ e SDL.  
 * Material: [Slides](https://www.dropbox.com/sh/4sw67zrctoo2rkr/AAA4Iaf309P_ZOzUYNqu2f1aa?dl=0)  
-* Códigos usados em Sala: [Projeto GitHub](https://github.com/marcelomesmo/POOAulas)  
-
-#### Projeto de Interface do Usuário para Jogos Digitais
-
-* Objetivo do curso é apresentar métodos e técnicas para construção de interfaces para jogos digitais.
-* Material: [Slides](https://www.dropbox.com/sh/3qydl1fyhmmpo3n/AAAiG06cN67qVI2OT2ETC5RZa?dl=0).
-* Projeto 1: [Doc](https://www.dropbox.com/s/wdgngeu50y4crai/Projeto%20I%20-%20Construcao%20de%20Controle%20de%20Fliperama.pdf?dl=0).
-* Projeto 2: [Doc](https://www.dropbox.com/s/bsxvmbtes9yow0e/Projeto%20II%20-%20Exposicao%20e%20Mostra%20de%20Maquetes.pdf?dl=0).
+* Códigos usados em Sala: [Pacote](https://www.dropbox.com/s/5qa01dvbxmod4kk/POOAulas.rar?dl=0)  
 
 > ## Palestras
 
