@@ -16,28 +16,18 @@ Oficina de Criação de Jogos Digitais.
 
 #### 2017
 
-Tema 1 :
-Tema 2 :
-Tema 3 :
-Tema 4 :
+Tema 1 :  
 
 | Alunos | Jogo | Prêmios
-| --- | --- | --- |
+| -------------  | -------------  | --- |
 | Nome do aluno 1  
   Nome do aluno 2 | Projeto de Jogo 1 |  |
 | Nome do aluno 3  
   Nome do aluno 4 | Projeto de Jogo 2 |  |
 
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
-+---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - tasty            |
-+---------------+---------------+--------------------+
-
+Tema 2 :  
+Tema 3 :  
+Tema 4 :  
 
 #### 2018
 
