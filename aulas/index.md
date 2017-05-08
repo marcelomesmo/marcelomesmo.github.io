@@ -18,11 +18,11 @@ Repositório de aulas.
 
 > ## Conteúdo de Aulas
 
-#### Oficina de Criação
+#### Oficina de Criação de Jogos Digitais
 
-* Objetivo do curso é (sic) Desenvolver um jogo para cada tema proposto. Os temas serão apresentados bimestralmente.
+* Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, como o Construct 2. Durante a oficina são apresentados, bimestralmente, vários temas. Estes temas devem servir de base para o desenvolvimento dos jogos: levando em conta as limitações de tempo, as especificações de estilo e a criatividade do aluno.
 * Material: [Slides](https://www.dropbox.com/sh/hgfpv689b49r0yl/AADpIAa__B4RsM4WMV1ky9yra?dl=0).
-* Temas: [Página](http://marcelomesmo.github.io/aulas/temas).
+* Temas: [Página](http://marcelomesmo.github.io/aulas/temas/).
 
 #### Motores de Jogos - Unity
 
