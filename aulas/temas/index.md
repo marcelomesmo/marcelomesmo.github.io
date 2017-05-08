@@ -18,7 +18,7 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 Jogos 3º ano Matutino  
 
-| Alunos | Jogo | Prêmios
+| Alunos | Jogo | Prêmios |
 | :-------------  | :-------------  | :---: |
 | Jeovana Hoshana dos Santos  
   Karine da Silva Melo | Projeto de Jogo 2 [link]() |  |
@@ -54,15 +54,43 @@ Jogos 3º ano Matutino
 
 Jogos 3º ano Vespertino  
 
-| Alunos | Jogo | Prêmios
-| :-------------  | :-------------  | :---: |
-| Nome do aluno 1  
-  Nome do aluno 2 | Projeto de Jogo 1 [link]() |  |
-| Nome do aluno 3  
-  Nome do aluno 4 | Projeto de Jogo 2 [link]() |  |
-
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:---:|
+| Vitor Manoel  
+  Quemuel | Projeto de Jogo 1 [link]() |  |
+| Alvaro  
+  Elber | Projeto de Jogo 2 [link]() |  |
+| Tereza  
+  Cibele | Projeto de Jogo 2 [link]() |  |
+| João Thiago  
+  Amanda | Projeto de Jogo 2 [link]() |  |
+| Karla  
+  Juliana | Projeto de Jogo 2 [link]() |  |
+| Elielton  
+  Victor Rodrigues | Projeto de Jogo 2 [link]() |  |
+| Sâmia  
+  Julia | Projeto de Jogo 2 [link]() |  |
+| Joziele  
+  Maria Luiza | Projeto de Jogo 2 [link]() |  |
+| Jadsamia  
+  Karol | Projeto de Jogo 2 [link]() |  |
+| Rafaela  
+  Islane | Projeto de Jogo 2 [link]() |  |
+| Erikson  
+  José Luiz | Projeto de Jogo 2 [link]() |  |
+| Hildelitan  
+  Alessandra | Projeto de Jogo 2 [link]() |  |
+| Caio  
+  Savio | Projeto de Jogo 2 [link]() |  |
+| Lucas  
+  Thayna | Projeto de Jogo 2 [link]() |  |
+| Bruna  
+  Matheus | Projeto de Jogo 2 [link]() |  |
+  
 #### Tema 2 :  
+
 #### Tema 3 :  
+
 #### Tema 4 :  
 
 > ## 2018
