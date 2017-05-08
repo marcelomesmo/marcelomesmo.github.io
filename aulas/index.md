@@ -20,13 +20,13 @@ Repositório de aulas.
 
 #### Oficina de Criação de Jogos Digitais
 
-* Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, como o Construct 2. Durante a oficina são apresentados, bimestralmente, vários temas. Estes temas devem servir de base para o desenvolvimento dos jogos: levando em conta as limitações de tempo, as especificações de estilo e a criatividade do aluno.
+* Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, como o Construct 2. Durante a oficina são apresentados vários temas. Estes temas devem servir de base para o desenvolvimento dos jogos: levando em conta as limitações de tempo, as especificações de estilo e a criatividade do aluno.
 * Material: [Slides](https://www.dropbox.com/sh/hgfpv689b49r0yl/AADpIAa__B4RsM4WMV1ky9yra?dl=0).
 * Temas: [Página](http://marcelomesmo.github.io/aulas/temas/).
 
 #### Motores de Jogos - Unity
 
-* Objetivo do curso é (sic) .
+* Objetivo do curso é apresentar ao aluno motores de jogos de alto esforço, como o Unity 3D. O Unity é uma ferramenta para criação de jogos 2D e 3D que utiliza a linguagem C#.
 * Material: [Slides](https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0).
 * Download: [Unity](https://store.unity.com/pt).
 * Tutoriais: [Unity](https://unity3d.com/pt/learn/tutorials).
