@@ -12,9 +12,7 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
   <a title="Prêmios"><img src="/images/oficina/premios.png"></a>
 </figure>
 
-> ## Projetos
-
-#### 2017
+> ## 2017
 
 #### Tema 1 :  
 
@@ -29,8 +27,8 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 #### Tema 3 :  
 #### Tema 4 :  
 
-#### 2018
+> ## 2018
 
 
-#### 2019
+> ## 2019
 
