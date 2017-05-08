@@ -20,53 +20,36 @@ Jogos 3º ano Matutino
 
 | Alunos | Jogo | Prêmios
 | :-------------  | :-------------  | :---: |
-|   
-  Jeovana Hoshana dos Santos  
+| Jeovana Hoshana dos Santos  
   Karine da Silva Melo | Projeto de Jogo 2 [link]() |  |
-|   
-  Leonardo Felipe Barreto  
+| Leonardo Felipe Barreto  
   Tan Hua Yu | Projeto de Jogo 2 [link]() |  |
-| 
-Jose Victor Ferreira | Projeto de Jogo 2 [link]() |  |
-| 
-Thaynan Medeiros  
+| Jose Victor Ferreira | Projeto de Jogo 2 [link]() |  |
+| Thaynan Medeiros  
   Maria Eduarda de Lima | Projeto de Jogo 2 [link]() |  |
-| 
-Maria Ruthillena  
+| Maria Ruthillena  
   Byanka Santos Cavalcante | Projeto de Jogo 2 [link]() |  |
-| 
-Matheus Costa  
+| Matheus Costa  
   Tailson Ferreira | Projeto de Jogo 2 [link]() |  |
-| 
-Emanuelli Carine  
+| Emanuelli Carine  
   Maria Beatriz Nogueira | Projeto de Jogo 2 [link]() |  |
-| 
-Iara Machado Menezes  
+| Iara Machado Menezes  
   Alexsandro Alves dos Santos | Projeto de Jogo 2 [link]() |  |
-| 
-Elícia Porpino   
+| Elícia Porpino   
   Maria Alice | Projeto de Jogo 2 [link]() |  |
-| 
-Beatriz Rodrigues  
+| Beatriz Rodrigues  
   Wesley Moreno | Projeto de Jogo 2 [link]() |  |
-| 
-João Pedro Oliveira  
+| João Pedro Oliveira  
   Mychellangello Ruttyelly | Projeto de Jogo 2 [link]() |  |
-| 
-Franklin Mateus Mendonça  
+| Franklin Mateus Mendonça  
   Arnóbio de Souza Duarte | Projeto de Jogo 2 [link]() |  |
-| 
-Julio Cesar Oliveira  
+| Julio Cesar Oliveira  
   Arthur Soares | Projeto de Jogo 2 [link]() |  |
-| 
-Jordana Silveira Gomes | Projeto de Jogo 2 [link]() |  |
-| 
-Guilherme Eglé Pegado | Projeto de Jogo 2 [link]() |  |
-| 
-Matheus Ricardo  
+| Jordana Silveira Gomes | Projeto de Jogo 2 [link]() |  |
+| Guilherme Eglé Pegado | Projeto de Jogo 2 [link]() |  |
+| Matheus Ricardo  
   Felipe Barboza | Projeto de Jogo 2 [link]() |  |
-| 
-Lucas Emmanuell  
+| Lucas Emmanuell  
   João Victor da Silva | Projeto de Jogo 2 [link]() |  |
 
 Jogos 3º ano Vespertino  
