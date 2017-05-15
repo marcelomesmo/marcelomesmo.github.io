@@ -18,16 +18,23 @@ Repositório de aulas.
 
 > ## Conteúdo de Aulas
 
+#### Conceitos de Jogos Digitais
+
+* Objetivo do curso é apresentar os conceitos básicos de um jogo digital (história, características e terminologias) e introduzir ao aluno os papéis do profissional no mercado e as áreas envolvidas no desenvolvimento de um jogo digital.
+* Material: [Slides](https://www.dropbox.com/sh/tksgwecyu288fz3/AAAhVMHr5YxjtLwx2BVrLwTMa?dl=0).
+
 #### Oficina de Criação de Jogos Digitais
 
-* Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, como o Construct 2. Durante a oficina são apresentados vários temas. Estes temas devem servir de base para o desenvolvimento dos jogos: levando em conta as limitações de tempo, as especificações de estilo e a criatividade do aluno.
+* Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, como o Construct 2. Durante a oficina são apresentados vários temas. Estes temas devem servir de base para o desenvolvimento dos jogos, levando em conta: as limitações de tempo, as especificações de gênero e a criatividade do aluno.
 * Material: [Slides](https://www.dropbox.com/sh/hgfpv689b49r0yl/AADpIAa__B4RsM4WMV1ky9yra?dl=0).
 * Projetos: [Grupos](http://marcelomesmo.github.io/aulas/temas/).
 
-#### Motores de Jogos - Unity
+#### Motores de Jogos II
 
-* Objetivo do curso é apresentar ao aluno motores de jogos de alto esforço, como o Unity 3D. O Unity é uma ferramenta para criação de jogos 2D e 3D que utiliza a linguagem C#.
+* Objetivo do curso é apresentar ao aluno conceitos avançados de motores de baixo esforço (como geração procedural, I.A. em jogos e multijogador) e introduzir motores de jogos de alto esforço, como o Unity 3D. As técnicas de jogos em motores de baixo esforço serão estudadas utilizando Construct 2, como continuidade da disciplina: Motores de Jogos I. Na segunda etapa, será apresentada a Unity: uma ferramenta para criação de jogos 2D e 3D que utiliza a linguagem C#.
 * Material: [Slides](https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0).
+* Download: [Construct2](https://www.scirra.com/).
+* Tutoriais: [Construct2](https://www.scirra.com/tutorials).
 * Download: [Unity](https://store.unity.com/pt).
 * Tutoriais: [Unity](https://unity3d.com/pt/learn/tutorials).
 
