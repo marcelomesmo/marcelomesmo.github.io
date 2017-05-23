@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1495541927,
+	"version": 1495543702,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,8 @@
 		"images/sprite4-sheet0.png",
 		"images/inimigo1-sheet0.png",
 		"images/mudarlado-sheet0.png",
+		"media/pol-magical-sun-short.m4a",
+		"media/pol-magical-sun-short.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

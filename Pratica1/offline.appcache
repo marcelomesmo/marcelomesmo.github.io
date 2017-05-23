@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1495541927
+#1495543702
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -18,6 +18,8 @@ images/sprite3-sheet0.png
 images/sprite4-sheet0.png
 images/inimigo1-sheet0.png
 images/mudarlado-sheet0.png
+media/pol-magical-sun-short.m4a
+media/pol-magical-sun-short.ogg
 icon-16.png
 icon-32.png
 icon-114.png
