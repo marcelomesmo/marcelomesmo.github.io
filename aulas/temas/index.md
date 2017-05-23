@@ -46,7 +46,9 @@ Jogos 3º ano Matutino
 | Julio Cesar  
   Arthur | Jogo1 [link]() |  |
 | Jordana | Jogo1 [link]() |  |
-| Guilherme | Jogo1 [link]() |  |
+| Guilherme  
+  João Kennedy  
+  Jefferson | Jogo1 [link]() |  |
 | Matheus Ricardo  
   Felipe | Jogo1 [link]() |  |
 | Lucas  
