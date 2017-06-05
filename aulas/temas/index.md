@@ -21,18 +21,19 @@ Jogos 3º ano Matutino
 | Alunos | Jogo | Prêmios |
 | :-------------  | :-------------  | :---: |
 | Hoshana  
-  Karine | Jogo1 [link]() |  |
+  Karine | United Hungag [link]() |  |
 | Leonardo  
-  Tan Hua Yu | Jogo1 [link]() |  |
-| Jose Victor | Jogo1 [link]() |  |
+  Tan Hua Yu | Guerreiros da Escandinávia [link]() |  |
+| Jose Victor  
+Jordana | Permita-se [link]() |  |
 | Thaynan  
-  Maria Eduarda | Jogo1 [link]() |  |
+  Maria Eduarda | BFR: Black Friday Run [link]() |  |
 | Ruth 
-  Byanka | Jogo1 [link]() |  |
+  Byanka | Modando a Cultura Canarinha [link]() |  |
 | Matheus Costa  
   Tailson | Jogo1 [link]() |  |
 | Emanuelli  
-  Maria Beatriz | Jogo1 [link]() |  |
+  Maria Beatriz | Guerreiro da Floresta [link]() |  |
 | Iara  
   Alexsandro | Jogo1 [link]() |  |
 | Elícia   
@@ -40,19 +41,18 @@ Jogos 3º ano Matutino
 | Beatriz  
   Wesley | Jogo1 [link]() |  |
 | João Pedro  
-  Mychellangello | Jogo1 [link]() |  |
+  Mychellangello | Balder [link]() |  |
 | Franklin  
-  Arnóbio | Jogo1 [link]() |  |
+  Arnóbio | Explore [link]() |  |
 | Julio Cesar  
   Arthur | Jogo1 [link]() |  |
-| Jordana | Jogo1 [link]() |  |
 | Guilherme  
   João Kennedy  
   Jefferson | Jogo1 [link]() |  |
 | Matheus Ricardo  
   Felipe | Jogo1 [link]() |  |
 | Lucas  
-  João Victor | Jogo1 [link]() |  |
+  João Victor | Bom apetite? [link]() |  |
 
 Jogos 3º ano Vespertino  
 
