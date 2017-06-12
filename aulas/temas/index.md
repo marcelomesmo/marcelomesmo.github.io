@@ -19,7 +19,7 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 Jogos 3º ano Matutino  
 
 | Alunos | Jogo | Prêmios |
-|:------------- |:-------------------------|:---:|
+|:------------- |:-------------|:---:|
 | Hoshana  
   Karine | United Hungag [link](https://jeovanahoshana.github.io/UnitedHungag) |  |
 | Leonardo  
@@ -46,8 +46,7 @@ Jordana | Permita-se [link](https://zevictor.github.io/Permita-se) |  |
   Arnóbio | Explore [link](https://ThewordKh.github.io/Explore) |  |
 | Julio Cesar  
   Arthur | Animal Skills [link](https://reiarthursr.github.io/Animal%20Skills) |  |
-| Guilherme  
-  João Kennedy  
+| Guilherme, João Kennedy  
   Jefferson | Faster than Song [link](https://GuiEgle.github.io/Run1) |  |
 | Matheus Ricardo  
   Felipe | Oficina [link](https://theusricardo.github.io/Oficina) |  |
