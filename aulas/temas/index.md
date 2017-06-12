@@ -19,7 +19,7 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 Jogos 3º ano Matutino  
 
 | Alunos | Jogo | Prêmios |
-|:------------- |:-------------|:---:|  
+|:------------- |:-------------|:---:|
 | Hoshana  
   Karine | United Hungag [link](https://jeovanahoshana.github.io/UnitedHungag) |  |  
 | Leonardo  
@@ -36,7 +36,7 @@ Jordana | Permita-se [link](https://zevictor.github.io/Permita-se) |  |
   Maria Beatriz | Guerreiro da Floresta [link](https://EmanuelliCarine.github.io/GuerreiroDaFloresta1) |  |  
 | Iara  
   Alexsandro | Elo Perdido [link](https://Alex-alves.github.io/JogoOficial) |  |  
-| Elícia   
+| Elícia  
   Maria Alice | Folclorecult [link](https://Eliciaa.github.io/Folclorecult) |  |  
 | Beatriz  
   Wesley | $ [link](https://wesleylandia.github.io/$) |  |  
