@@ -19,7 +19,7 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 Jogos 3º ano Matutino  
 
 | Alunos | Jogo | Prêmios |
-| :-------------  | :-------------  | :---: |
+|:------------- |:-------------|:---:|
 | Hoshana  
   Karine | United Hungag [link](https://jeovanahoshana.github.io/UnitedHungag) |  |  
 | Leonardo  
