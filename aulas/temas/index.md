@@ -64,7 +64,7 @@ Jogos 3º ano Vespertino
 | Alvaro  
   Elber | [Super Chef](https://AlvaroMD2016.github.io/Super%20Chef) |  |
 | Tereza  
-  Cibele | [Diference](https://.github.io/) |  |
+  Cibele | [Difference](https://rey13lokona.github.io/difference/) |  |
 | João Thiago  
   Amanda | [Aplistia](https://Joaothiago06.github.io/Aplistia_) |  |
 | Karla  
