@@ -18,7 +18,7 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 Jogos 3º ano Matutino  
 
-> Clique no nome do jogo para acessar.
+*Clique no nome do jogo para acessar.*
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
@@ -60,35 +60,35 @@ Jogos 3º ano Vespertino
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
 | Vitor Manoel  
-  Quemuel | Jogo1 []() |  |
+  Quemuel | [A Caça ao Mito](https://vitin157.github.io/A%20caça%20ao%20mito) |  |
 | Alvaro  
-  Elber | Jogo1 []() |  |
+  Elber | [Super Chef](https://AlvaroMD2016.github.io/Super%20Chef) |  |
 | Tereza  
-  Cibele | Jogo1 []() |  |
+  Cibele | [Diference](https://.github.io/) |  |
 | João Thiago  
-  Amanda | Jogo1 []() |  |
+  Amanda | [Aplistia](https://Joaothiago06.github.io/Aplistia_) |  |
 | Karla  
-  Juliana | Jogo1 []() |  |
+  Juliana | [Protetores da Floresta](https://karlagabriella.github.io/Protetores%20da%20Floresta) |  |
 | Elielton  
-  Victor Rodrigues | Jogo1 []() |  |
+  Victor Rodrigues | [Akili](https://elielton90.github.io/Akili) |  |
 | Sâmia  
-  Julia | Jogo1 []() |  |
+  Julia | [Attack on Demon](https://samiakarima.github.io/AttackonDemon) |  |
 | Joziele  
-  Maria Luiza | Jogo1 []() |  |
+  Maria Luiza | [Cacique](https://maalu.github.io/Cacique) |  |
 | Jadsamia  
-  Karol | Jogo1 []() |  |
+  Karol | [Go Corn Go](https://jadsamiamedeiros.github.io/GoCornGo) |  |
 | Rafaela  
-  Islane | Jogo1 []() |  |
+  Islane | [Rais, o Guerreiro](https://rafaelapaivva.github.io/Rais) |  |
 | Erikson  
-  José Luiz | Jogo1 []() |  |
+  José Luiz | [Pyramid Escape](https://eriksonnicacio.github.io/Pyramid%20Escape) |  |
 | Hildelitan  
-  Alessandra | Jogo1 []() |  |
+  Alessandra | [O Rei do Cangaço](https://alessandrats.github.io/Lampiao) |  |
 | Caio  
-  Savio | Jogo1 []() |  |
+  Savio | [An Indian Day](https://caioms.github.io/indio) |  |
 | Lucas  
-  Thayna | Jogo1 []() |  |
+  Thayna | [The Snake Woman](https://lucasrevoredo.github.io/SnakeWoman) |  |
 | Bruna  
-  Matheus | Jogo1 []() |  |
+  Matheus | [Nordeste Adventure](https://mathaugust.github.io/NordesteAdventure) |  |
   
 #### Tema 2 : ?
 
