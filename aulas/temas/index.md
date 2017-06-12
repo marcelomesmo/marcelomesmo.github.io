@@ -21,38 +21,38 @@ Jogos 3º ano Matutino
 | Alunos | Jogo | Prêmios |
 | :-------------  | :-------------  | :---: |
 | Hoshana  
-  Karine | United Hungag [link](.github.io/) |  |
+  Karine | United Hungag [link](https://jeovanahoshana.github.io/UnitedHungag) |  |  
 | Leonardo  
-  Tan Hua Yu | Guerreiros da Escandinávia [link]() |  |
+  Tan Hua Yu | Guerreiros da Escandinávia [link](https://tanhuayu.github.io/Viking) |  |  
 | Jose Victor  
-Jordana | Permita-se [link]() |  |
+Jordana | Permita-se [link](https://zevictor.github.io/Permita-se) |  |  
 | Thaynan  
-  Maria Eduarda | BFR: Black Friday Run [link]() |  |
+  Maria Eduarda | BFR: Black Friday Run [link](FALTOU) |  |  
 | Ruth 
-  Byanka | Largada para Liberdade [link]() |  |
+  Byanka | Largada para Liberdade [link](https://cavalcantebya.github.io/Oficina1) |  |  
 | Matheus Costa  
-  Tailson | Jogo1 [link]() |  |
+  Tailson | Dracul [link](https://tayllson.github.io/Dracul1) |  |  
 | Emanuelli  
-  Maria Beatriz | Guerreiro da Floresta [link]() |  |
+  Maria Beatriz | Guerreiro da Floresta [link](https://EmanuelliCarine.github.io/GuerreiroDaFloresta1) |  |  
 | Iara  
-  Alexsandro | Jogo1 [link]() |  |
+  Alexsandro | Elo Perdido [link](https://Alex-alves.github.io/JogoOficial) |  |  
 | Elícia   
-  Maria Alice | Jogo1 [link]() |  |
+  Maria Alice | Folclorecult [link](https://Eliciaa.github.io/Folclorecult) |  |  
 | Beatriz  
-  Wesley | Jogo1 [link]() |  |
+  Wesley | $ [link](https://wesleylandia.github.io/$) |  |  
 | João Pedro  
-  Mychellangello | Balder [link]() |  |
+  Mychellangello | Balder [link](https://bixcoito.github.io/Balder) |  |  
 | Franklin  
-  Arnóbio | Explore [link]() |  |
+  Arnóbio | Explore [link](https://ThewordKh.github.io/Explore) |  |  
 | Julio Cesar  
-  Arthur | Animal Skills [link](https://reiarthursr.github.io/Animal%20Skills) |  |
+  Arthur | Animal Skills [link](https://reiarthursr.github.io/Animal%20Skills) |  |  
 | Guilherme  
   João Kennedy  
-  Jefferson | Jogo1 [link]() |  |
+  Jefferson | Faster than Song [link](https://GuiEgle.github.io/Run1) |  |  
 | Matheus Ricardo  
-  Felipe | Jogo1 [link]() |  |
+  Felipe | Oficina [link](https://theusricardo.github.io/Oficina) |  |  
 | Lucas  
-  João Victor | Bom apetite? [link]() |  |
+  João Victor | Bom apetite? [link](https://Lucas-Manolo.github.io/Bom%20Apetite!) |  |  
 
 Jogos 3º ano Vespertino  
 
