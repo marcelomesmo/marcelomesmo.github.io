@@ -21,7 +21,7 @@ Jogos 3º ano Matutino
 | Alunos | Jogo | Prêmios |
 | :-------------  | :-------------  | :---: |
 | Hoshana  
-  Karine | United Hungag [link]() |  |
+  Karine | United Hungag [link](.github.io/) |  |
 | Leonardo  
   Tan Hua Yu | Guerreiros da Escandinávia [link]() |  |
 | Jose Victor  
@@ -29,7 +29,7 @@ Jordana | Permita-se [link]() |  |
 | Thaynan  
   Maria Eduarda | BFR: Black Friday Run [link]() |  |
 | Ruth 
-  Byanka | Modando a Cultura Canarinha [link]() |  |
+  Byanka | Largada para Liberdade [link]() |  |
 | Matheus Costa  
   Tailson | Jogo1 [link]() |  |
 | Emanuelli  
@@ -45,7 +45,7 @@ Jordana | Permita-se [link]() |  |
 | Franklin  
   Arnóbio | Explore [link]() |  |
 | Julio Cesar  
-  Arthur | Jogo1 [link]() |  |
+  Arthur | Animal Skills [link](reiarthursr.github.io/Animal%20Skills) |  |
 | Guilherme  
   João Kennedy  
   Jefferson | Jogo1 [link]() |  |
