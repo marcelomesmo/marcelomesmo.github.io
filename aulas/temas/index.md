@@ -45,7 +45,7 @@ Jordana | Permita-se [link]() |  |
 | Franklin  
   Arnóbio | Explore [link]() |  |
 | Julio Cesar  
-  Arthur | Animal Skills [link](reiarthursr.github.io/Animal%20Skills) |  |
+  Arthur | Animal Skills [link](https://reiarthursr.github.io/Animal%20Skills) |  |
 | Guilherme  
   João Kennedy  
   Jefferson | Jogo1 [link]() |  |
