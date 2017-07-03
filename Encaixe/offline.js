@@ -1,9 +1,5 @@
 ﻿{
-<<<<<<< HEAD
-	"version": 1499092217,
-=======
-	"version": 1498798124,
->>>>>>> ebf8b7687f6c2d1cebd0b915af3fa680af6d8b14
+	"version": 1499095517,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,18 +19,10 @@
 		"images/menu_3_topo-sheet0.png",
 		"images/logotapioca-sheet0.png",
 		"images/logobebe-sheet0.png",
-<<<<<<< HEAD
 		"images/logobebe-sheet1.png",
 		"images/fimegito-sheet0.png",
 		"images/iconecrianca-sheet0.png",
 		"images/clique-sheet0.png",
-=======
-		"images/fimegito-sheet0.png",
-		"images/iconecrianca-sheet0.png",
-		"images/clique-sheet0.png",
-		"images/clique-sheet1.png",
-		"images/clique-sheet2.png",
->>>>>>> ebf8b7687f6c2d1cebd0b915af3fa680af6d8b14
 		"images/loadimage-sheet0.png",
 		"images/artbgleao-sheet0.png",
 		"images/fillleao-sheet0.png",
@@ -54,25 +42,8 @@
 		"images/setadir-sheet0.png",
 		"images/iconesom-sheet0.png",
 		"images/iconesom-sheet1.png",
-<<<<<<< HEAD
 		"images/artbgjapao-sheet0.png",
 		"images/fimmenino-sheet0.png",
-=======
-		"images/artbgbarco-sheet0.png",
-		"images/artbgcachorro-sheet0.png",
-		"images/artbgjapao-sheet0.png",
-		"images/fimmenino-sheet0.png",
-		"images/fimcachorro-sheet0.png",
-		"images/fimbarco-sheet0.png",
-		"images/imagembarco-sheet0.png",
-		"images/imagembarco-sheet1.png",
-		"images/imagembarco-sheet2.png",
-		"images/fillbarco-sheet0.png",
-		"images/imagemcachorro-sheet0.png",
-		"images/imagemcachorro-sheet1.png",
-		"images/fillcachorro-sheet0.png",
-		"images/artfloatbarco-sheet0.png",
->>>>>>> ebf8b7687f6c2d1cebd0b915af3fa680af6d8b14
 		"images/imagemjapao-sheet0.png",
 		"images/filljapao-sheet0.png",
 		"images/artfloatjapao-sheet0.png",
@@ -80,7 +51,6 @@
 		"media/efeito_tapa.ogg",
 		"media/efeito_crianca.m4a",
 		"media/efeito_crianca.ogg",
-<<<<<<< HEAD
 		"media/efeito_leao.m4a",
 		"media/efeito_leao.ogg",
 		"media/efeito_cavalo.m4a",
@@ -93,27 +63,6 @@
 		"media/bg fase 6.ogg",
 		"media/bg_calmo.m4a",
 		"media/bg_calmo.ogg",
-=======
-		"media/bg_calmo.m4a",
-		"media/bg_calmo.ogg",
-		"media/mysterious_calm.ogg",
-		"media/lion roar loud.m4a",
-		"media/lion roar loud.ogg",
-		"media/calm town.ogg",
-		"media/horse whinny.m4a",
-		"media/horse whinny.ogg",
-		"media/bg japao.ogg",
-		"media/arrr.m4a",
-		"media/arrr.ogg",
-		"media/barco bg.ogg",
-		"media/160093__jorickhoofd__dog-bark-2.m4a",
-		"media/160093__jorickhoofd__dog-bark-2.ogg",
-		"media/woods.m4a",
-		"media/woods.ogg",
-		"media/34207__cajo__birds-01.m4a",
-		"media/34207__cajo__birds-01.ogg",
-		"media/a lucid dream.ogg",
->>>>>>> ebf8b7687f6c2d1cebd0b915af3fa680af6d8b14
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
