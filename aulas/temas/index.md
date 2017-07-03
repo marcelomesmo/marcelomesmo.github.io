@@ -31,7 +31,7 @@ Jogos 3º ano Matutino
 | Jose Victor  
 Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Thaynan  
-  Maria Eduarda | [BFR: Black Friday Run](FALTOU) |  |
+  Maria Eduarda | [BFR: Black Friday Run](https://ThaynanMedeiros.github.io/BFR/) |  |
 | Ruth 
   Byanka | [Largada para Liberdade](https://cavalcantebya.github.io/Oficina1) |  |
 | Matheus Costa  
