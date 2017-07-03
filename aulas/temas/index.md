@@ -16,6 +16,8 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 #### Tema 1 : Cultura (plataforma)
 
+Jogo do Professor: [Encaixe](https://marcelomesmo.github.io/Encaixe)
+
 Jogos 3º ano Matutino  
 
 *Clique no nome do jogo para acessar.*
@@ -37,7 +39,7 @@ Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Emanuelli  
   Maria Beatriz | [Guerreiro da Floresta](https://EmanuelliCarine.github.io/GuerreiroDaFloresta1) |  |
 | Iara  
-  Alexsandro | [Elo Perdido](https://Alex-alves.github.io/JogoOficial) |  |
+  Alexsandro | [O Elo Perdido](https://Alex-alves.github.io/OEloPerdido) |  |
 | Elícia  
   Maria Alice | [Folclorecult](https://Eliciaa.github.io/Folclorecult) |  |
 | Beatriz  
