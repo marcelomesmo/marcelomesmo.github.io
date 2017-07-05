@@ -35,7 +35,7 @@ Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Ruth 
   Byanka | [Largada para Liberdade](https://cavalcantebya.github.io/Oficina1) |  |
 | Matheus Costa  
-  Tailson | [Dracul](https://tayllson.github.io/Dracul1) |  |
+  Tailson | [Dracul](https://maathps.github.io/dracul) |  |
 | Emanuelli  
   Maria Beatriz | [Guerreiro da Floresta](https://EmanuelliCarine.github.io/GuerreiroDaFloresta1) |  |
 | Iara  
@@ -47,13 +47,13 @@ Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | João Pedro  
   Mychellangello | [Balder](https://bixcoito.github.io/Balder) |  |
 | Franklin  
-  Arnóbio | [Explore](https://ThewordKh.github.io/Explore) |  |
+  Arnóbio | [Explore](https://ThewordKh.github.io/ExploreGame) |  |
 | Julio Cesar  
   Arthur | [Animal Skills](https://reiarthursr.github.io/Animal%20Skills) |  |
 | Guilherme, João Kennedy  
   Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |  |
 | Matheus Ricardo  
-  Felipe | [Oficina](https://theusricardo.github.io/Oficina) |  |
+  Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |  |
 | Lucas  
   João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) |  |
 
