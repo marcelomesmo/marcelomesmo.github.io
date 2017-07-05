@@ -51,7 +51,7 @@ Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Julio Cesar  
   Arthur | [Animal Skills](https://reiarthursr.github.io/Animal%20Skills) |  |
 | Guilherme, João Kennedy  
-  Jefferson | [Faster than Song](https://GuiEgle.github.io/Run1) |  |
+  Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |  |
 | Matheus Ricardo  
   Felipe | [Oficina](https://theusricardo.github.io/Oficina) |  |
 | Lucas  
@@ -82,9 +82,9 @@ Jogos 3º ano Vespertino
 | Rafaela  
   Islane | [Rais, o Guerreiro](https://rafaelapaivva.github.io/Rais) |  |
 | Erikson  
-  José Luiz | [Pyramid Escape](https://eriksonnicacio.github.io/Pyramid%20Escape) |  |
+  José Luiz | [Pyramid Escape](https://jldifrn.github.io/PyramidEscapeOficial/) |  |
 | Hildelitan  
-  Alessandra | [O Rei do Cangaço](https://alessandrats.github.io/Lampiao) |  |
+  Alessandra | [O Rei do Cangaço](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/) |  |
 | Caio  
   Savio | [An Indian Day](https://caioms.github.io/indio) |  |
 | Lucas  
