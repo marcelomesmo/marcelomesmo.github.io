@@ -78,7 +78,7 @@ Jogos 3º ano Vespertino
 | Joziele  
   Maria Luiza | [Cacique](https://maalu.github.io/Cacique) |  |
 | Jadsamia  
-  Karol | [Go Corn Go](https://jadsamiamedeiros.github.io/GoCornGo) |  |
+  Karol | [Go Corn Go](https://jadsamiamedeiros.github.io/GoCornGoOriginal/) |  |
 | Rafaela  
   Islane | [Rais, o Guerreiro](https://rafaelapaivva.github.io/Rais) |  |
 | Erikson  
