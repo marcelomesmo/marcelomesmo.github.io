@@ -16,6 +16,8 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 #### Tema 1 : Cultura (plataforma)
 
+Jogo do Professor: [Encaixe](https://marcelomesmo.github.io/Encaixe)
+
 Jogos 3º ano Matutino  
 
 *Clique no nome do jogo para acessar.*
@@ -29,15 +31,15 @@ Jogos 3º ano Matutino
 | Jose Victor  
 Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Thaynan  
-  Maria Eduarda | [BFR: Black Friday Run](FALTOU) |  |
+  Maria Eduarda | [BFR: Black Friday Run](https://ThaynanMedeiros.github.io/BFR/) |  |
 | Ruth 
   Byanka | [Largada para Liberdade](https://cavalcantebya.github.io/Oficina1) |  |
 | Matheus Costa  
-  Tailson | [Dracul](https://tayllson.github.io/Dracul1) |  |
+  Tailson | [Dracul](https://maathps.github.io/dracul) |  |
 | Emanuelli  
   Maria Beatriz | [Guerreiro da Floresta](https://EmanuelliCarine.github.io/GuerreiroDaFloresta1) |  |
 | Iara  
-  Alexsandro | [Elo Perdido](https://Alex-alves.github.io/JogoOficial) |  |
+  Alexsandro | [O Elo Perdido](https://Alex-alves.github.io/OEloPerdido) |  |
 | Elícia  
   Maria Alice | [Folclorecult](https://Eliciaa.github.io/Folclorecult) |  |
 | Beatriz  
@@ -45,13 +47,13 @@ Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | João Pedro  
   Mychellangello | [Balder](https://bixcoito.github.io/Balder) |  |
 | Franklin  
-  Arnóbio | [Explore](https://ThewordKh.github.io/Explore) |  |
+  Arnóbio | [Explore](https://ThewordKh.github.io/ExploreGame) |  |
 | Julio Cesar  
   Arthur | [Animal Skills](https://reiarthursr.github.io/Animal%20Skills) |  |
 | Guilherme, João Kennedy  
-  Jefferson | [Faster than Song](https://GuiEgle.github.io/Run1) |  |
+  Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |  |
 | Matheus Ricardo  
-  Felipe | [Oficina](https://theusricardo.github.io/Oficina) |  |
+  Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |  |
 | Lucas  
   João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) |  |
 
@@ -76,13 +78,13 @@ Jogos 3º ano Vespertino
 | Joziele  
   Maria Luiza | [Cacique](https://maalu.github.io/Cacique) |  |
 | Jadsamia  
-  Karol | [Go Corn Go](https://jadsamiamedeiros.github.io/GoCornGo) |  |
+  Karol | [Go Corn Go](https://jadsamiamedeiros.github.io/GoCornGoOriginal/) |  |
 | Rafaela  
   Islane | [Rais, o Guerreiro](https://rafaelapaivva.github.io/Rais) |  |
 | Erikson  
-  José Luiz | [Pyramid Escape](https://eriksonnicacio.github.io/Pyramid%20Escape) |  |
+  José Luiz | [Pyramid Escape](https://jldifrn.github.io/PyramidEscapeOficial/) |  |
 | Hildelitan  
-  Alessandra | [O Rei do Cangaço](https://alessandrats.github.io/Lampiao) |  |
+  Alessandra | [O Rei do Cangaço](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/) |  |
 | Caio  
   Savio | [An Indian Day](https://caioms.github.io/indio) |  |
 | Lucas  
