@@ -23,7 +23,7 @@ Jogos 3º ano Matutino
 *Clique no nome do jogo para acessar.*
 
 | Alunos | Jogo | Prêmios |
-|:------------- |:-------------|:-------------:|
+|:------------- |:-------------|:-------------|
 | Hoshana <br> Karine | [United Hungag](https://jeovanahoshana.github.io/UnitedHungag) |  |
 | Leonardo <br> Tan Hua Yu | [Guerreiros da Escandinávia](https://tanhuayu.github.io/Viking) | <figure><a title="Melhor Jogo"><img src="/images/oficina/melhor.png"></a></figure> |
 | Jose Victor <br> Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
