@@ -23,13 +23,11 @@ Jogos 3º ano Matutino
 *Clique no nome do jogo para acessar.*
 
 | Alunos | Jogo | Prêmios |
-|:------------- |:-------------|:-------------|
+|:------------- |:-------------|:-------------:|
 | Hoshana  
   Karine | [United Hungag](https://jeovanahoshana.github.io/UnitedHungag) |  |
 | Leonardo  
-  Tan Hua Yu | [Guerreiros da Escandinávia](https://tanhuayu.github.io/Viking) | <figure>
-  <a title="Melhor Jogo"><img src="/images/oficina/melhor.png"></a>
-</figure> |
+  Tan Hua Yu | [Guerreiros da Escandinávia](https://tanhuayu.github.io/Viking) | <figure><a title="Melhor Jogo"><img src="/images/oficina/melhor.png"></a></figure> |
 | Jose Victor  
 Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Thaynan  
@@ -47,9 +45,7 @@ Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Beatriz  
   Wesley | [$](https://wesleylandia.github.io/$) |  |
 | João Pedro  
-  Mychellangello | [Balder](https://bixcoito.github.io/Balder) | <figure>
-  <a title="Melhor Arte"><img src="/images/oficina/arte.png"></a>
-</figure> |
+  Mychellangello | [Balder](https://bixcoito.github.io/Balder) | <figure><a title="Melhor Arte"><img src="/images/oficina/arte.png"></a></figure> |
 | Franklin  
   Arnóbio | [Explore](https://ThewordKh.github.io/ExploreGame) |  |
 | Julio Cesar  
@@ -59,12 +55,7 @@ Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Matheus Ricardo  
   Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |  |
 | Lucas  
-  João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | <figure>
-  <a title="Melhor Mecânica"><img src="/images/oficina/mecanica.png"></a>
-</figure>  
-<figure>
-  <a title="Melhor Uso do Tema"><img src="/images/oficina/criatividade.png"></a>
-</figure> |
+  João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | <figure><a title="Melhor Mecânica"><img src="/images/oficina/mecanica.png"></a></figure><figure><a title="Melhor Uso do Tema"><img src="/images/oficina/criatividade.png"></a></figure> |
 
 Jogos 3º ano Vespertino  
 
@@ -81,29 +72,19 @@ Jogos 3º ano Vespertino
 | Karla  
   Juliana | [Protetores da Floresta](https://karlagabriella.github.io/Protetores%20da%20Floresta) |  |
 | Elielton  
-  Victor Rodrigues | [Akili](https://elielton90.github.io/Akili) | <figure>
-  <a title="Melhor Uso do Tema"><img src="/images/oficina/criatividade.png"></a>
-</figure> |
+  Victor Rodrigues | [Akili](https://elielton90.github.io/Akili) | <figure><a title="Melhor Uso do Tema"><img src="/images/oficina/criatividade.png"></a></figure> |
 | Sâmia  
-  Julia | [Attack on Demon](https://samiakarima.github.io/AttackonDemon) | <figure>
-  <a title="Melhor Arte"><img src="/images/oficina/arte.png"></a>
-</figure> |
+  Julia | [Attack on Demon](https://samiakarima.github.io/AttackonDemon) | <figure><a title="Melhor Arte"><img src="/images/oficina/arte.png"></a></figure> |
 | Joziele  
   Maria Luiza | [Cacique](https://maalu.github.io/Cacique) |  |
 | Jadsamia  
-  Karol | [Go Corn Go](https://jadsamiamedeiros.github.io/GoCornGoOriginal/) | <figure>
-  <a title="Melhor Mecânica"><img src="/images/oficina/mecanica.png"></a>
-</figure> |
+  Karol | [Go Corn Go](https://jadsamiamedeiros.github.io/GoCornGoOriginal/) | <figure><a title="Melhor Mecânica"><img src="/images/oficina/mecanica.png"></a></figure> |
 | Rafaela  
   Islane | [Rais, o Guerreiro](https://rafaelapaivva.github.io/Rais) |  |
 | Erikson  
-  José Luiz | [Pyramid Escape](https://jldifrn.github.io/PyramidEscapeOficial/) | <figure>
-  <a title="Melhor Jogo"><img src="/images/oficina/melhor.png"></a>
-</figure> |
+  José Luiz | [Pyramid Escape](https://jldifrn.github.io/PyramidEscapeOficial/) | <figure><a title="Melhor Jogo"><img src="/images/oficina/melhor.png"></a></figure> |
 | Hildelitan  
-  Alessandra | [O Rei do Cangaço](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/) | <figure>
-  <a title="Destaque"><img src="/images/oficina/mencao.png"></a>
-</figure> |
+  Alessandra | [O Rei do Cangaço](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/) | <figure><a title="Destaque"><img src="/images/oficina/mencao.png"></a></figure> |
 | Caio  
   Savio | [An Indian Day](https://caioms.github.io/indio) |  |
 | Lucas  
