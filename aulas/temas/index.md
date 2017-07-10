@@ -23,7 +23,7 @@ Jogos 3º ano Matutino
 *Clique no nome do jogo para acessar.*
 
 | Alunos | Jogo | Prêmios |
-|:------------- |:-------------|:---:|
+|:------------- |:-------------|:-------------|
 | Hoshana  
   Karine | [United Hungag](https://jeovanahoshana.github.io/UnitedHungag) |  |
 | Leonardo  
