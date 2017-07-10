@@ -16,7 +16,7 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 #### Tema 1 : Cultura (plataforma)
 
-Jogo do Professor: [Encaixe](https://marcelomesmo.github.io/Encaixe)
+Jogo do Professor: [Encaixe](https://marcelomesmo.github.io/jogos/Encaixe)
 
 Jogos 3º ano Matutino  
 
