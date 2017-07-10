@@ -389,7 +389,7 @@ textarea {
 /**
  * Remove most spacing between table cells.
  */
-/**
+
 table {
     border-collapse: collapse;
     border-spacing: 0;
@@ -397,12 +397,11 @@ table {
     width: 100%; /* make full width */
 }
 
+/**
 table, th, td {
     border: 1px solid black;
-}
+}*/
 
 th, td {
     border-bottom: 1px solid #ddd;
 }
-
-*/
