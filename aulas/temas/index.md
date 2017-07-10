@@ -9,7 +9,7 @@ comments: true
 Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, como o Construct 2. Durante a oficina são apresentados vários temas. Estes temas devem servir de base para o desenvolvimento dos jogos: levando em conta as limitações de tempo, as especificações de estilo e a criatividade do aluno.    
 
 <figure>
-  <a title="Prêmios"><img src="/images/oficina/premios.png"></a>
+  <a title="Prêmios"><img src="/images/oficina/premios2.png"></a>
 </figure>
 
 > ## 2017
@@ -27,7 +27,9 @@ Jogos 3º ano Matutino
 | Hoshana  
   Karine | [United Hungag](https://jeovanahoshana.github.io/UnitedHungag) |  |
 | Leonardo  
-  Tan Hua Yu | [Guerreiros da Escandinávia](https://tanhuayu.github.io/Viking) |  |
+  Tan Hua Yu | [Guerreiros da Escandinávia](https://tanhuayu.github.io/Viking) | <figure>
+  <a title="Melhor Jogo"><img src="/images/oficina/melhor.png"></a>
+</figure> |
 | Jose Victor  
 Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Thaynan  
@@ -45,7 +47,9 @@ Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Beatriz  
   Wesley | [$](https://wesleylandia.github.io/$) |  |
 | João Pedro  
-  Mychellangello | [Balder](https://bixcoito.github.io/Balder) |  |
+  Mychellangello | [Balder](https://bixcoito.github.io/Balder) | <figure>
+  <a title="Melhor Arte"><img src="/images/oficina/arte.png"></a>
+</figure> |
 | Franklin  
   Arnóbio | [Explore](https://ThewordKh.github.io/ExploreGame) |  |
 | Julio Cesar  
@@ -55,7 +59,12 @@ Jordana | [Permita-se](https://zevictor.github.io/Permita-se) |  |
 | Matheus Ricardo  
   Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |  |
 | Lucas  
-  João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) |  |
+  João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | <figure>
+  <a title="Melhor Mecânica"><img src="/images/oficina/mecanica.png"></a>
+</figure>  
+<figure>
+  <a title="Melhor Uso do Tema"><img src="/images/oficina/criatividade.png"></a>
+</figure> |
 
 Jogos 3º ano Vespertino  
 
@@ -72,19 +81,29 @@ Jogos 3º ano Vespertino
 | Karla  
   Juliana | [Protetores da Floresta](https://karlagabriella.github.io/Protetores%20da%20Floresta) |  |
 | Elielton  
-  Victor Rodrigues | [Akili](https://elielton90.github.io/Akili) |  |
+  Victor Rodrigues | [Akili](https://elielton90.github.io/Akili) | <figure>
+  <a title="Melhor Uso do Tema"><img src="/images/oficina/criatividade.png"></a>
+</figure> |
 | Sâmia  
-  Julia | [Attack on Demon](https://samiakarima.github.io/AttackonDemon) |  |
+  Julia | [Attack on Demon](https://samiakarima.github.io/AttackonDemon) | <figure>
+  <a title="Melhor Arte"><img src="/images/oficina/arte.png"></a>
+</figure> |
 | Joziele  
   Maria Luiza | [Cacique](https://maalu.github.io/Cacique) |  |
 | Jadsamia  
-  Karol | [Go Corn Go](https://jadsamiamedeiros.github.io/GoCornGoOriginal/) |  |
+  Karol | [Go Corn Go](https://jadsamiamedeiros.github.io/GoCornGoOriginal/) | <figure>
+  <a title="Melhor Mecânica"><img src="/images/oficina/mecanica.png"></a>
+</figure> |
 | Rafaela  
   Islane | [Rais, o Guerreiro](https://rafaelapaivva.github.io/Rais) |  |
 | Erikson  
-  José Luiz | [Pyramid Escape](https://jldifrn.github.io/PyramidEscapeOficial/) |  |
+  José Luiz | [Pyramid Escape](https://jldifrn.github.io/PyramidEscapeOficial/) | <figure>
+  <a title="Melhor Jogo"><img src="/images/oficina/melhor.png"></a>
+</figure> |
 | Hildelitan  
-  Alessandra | [O Rei do Cangaço](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/) |  |
+  Alessandra | [O Rei do Cangaço](https://alessandrats.github.io/O%20Rei%20do%20Cangaco/) | <figure>
+  <a title="Destaque"><img src="/images/oficina/mencao.png"></a>
+</figure> |
 | Caio  
   Savio | [An Indian Day](https://caioms.github.io/indio) |  |
 | Lucas  
