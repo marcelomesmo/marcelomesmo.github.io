@@ -396,3 +396,12 @@ table {
     margin-bottom: 1.5em;
     width: 100%; /* make full width */
 }
+
+/**
+table, th, td {
+    border: 1px solid black;
+}*/
+
+th, td {
+    border-bottom: 1px solid #ddd;
+}
