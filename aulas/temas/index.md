@@ -78,7 +78,7 @@ Jogos 3º ano Matutino
 | Wesley <br> Tan Hao Yu | [Mistério da Casa 60](https://wesleylandia.github.io/Oficina2) |  |
 | Julio <br> Tailson | [Adventure Runner](https://cesarabc45.github.io/AdventureRunner) |  |
 | João Pedro <br> Matheus Costa | [Hybrid Child](https://maathps.github.io/projecthibrid) |  |
-| Lucas <br> João Vitor | [30segundos](https://lucas-manolo.github.io/30Segundos) |  |
+| Lucas <br> João Vitor | [30segundos](https://lucas-manolo.github.io/30%20Segundos) |  |
 | Leonardo <br> Arnóbio | [CASO 1070](https://leonardofelipe.github.io/CASO1070) |  |
 | Manu <br> Matheus Ricardo | [CakeBoss](https://emanuellicarine.github.io/CakeBoss) |  |
 | Beatriz <br> Jordana | [Fonokids](https://jordanag.github.io/fonokids) |  |
@@ -92,23 +92,23 @@ Jogos 3º ano Vespertino
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
-| Lucas <br> Matheus  | [Nome](https://link.github.io/nome) |  |
-| Joziele <br> Islanne  | [Nome](https://link.github.io/nome) |  |
-| Maria Luiza <br> Rafaela  | [Nome](https://link.github.io/nome) |  |
-| Tereza <br> Juliana  | [Nome](https://link.github.io/nome) |  |
-| Cibele <br> Karla  | [Nome](https://link.github.io/nome) |  |
-| Álvaro <br> Caio  | [Nome](https://link.github.io/nome) |  |
-| Hildelitan <br> Alessandra  | [Nome](https://link.github.io/nome) |  |
-| João Thiago <br> Julia  | [Nome](https://link.github.io/nome) |  |
-| Vitor Manoel <br> Elber  | [Nome](https://link.github.io/nome) |  |
-| Thayná <br> Bruna  | [Nome](https://link.github.io/nome) |  |
-| Elieton <br> José Luiz  | [Nome](https://link.github.io/nome) |  |
-| Victor Rodrigues <br> Erikson   | [Nome](https://link.github.io/nome) |  |
-| Karol <br> Jade  | [Nome](https://link.github.io/nome) |  |
+| Lucas <br> Matheus  | [Run Juliana Run](https://lucasrevoredo.github.io/RunJulianaRun) |  |
+| Joziele <br> Islanne  | [Domination](https://Joozi.github.io/Domination) |  |
+| Maria Luiza <br> Rafaela  | [Sky or Hell](https://Maalu.github.io/SkyOrHell) |  |
+| Tereza <br> Juliana  | [Ventania](https://JulianaBL.github.io/Ventania) |  |
+| Cibele <br> Karla  | [El Cuerpo](https://karlagabriella.github.io/El%20Cuerpo) |  |
+| Álvaro <br> Caio  | [Fuga das Vacas](https://AlvaroMD2016.github.io/Fuga%20das%20Vacas) |  |
+| Hildelitan <br> Alessandra  | [Discovery Space](https://AlessandraTS.github.io/DiscoverySpace) |  |
+| João Thiago <br> Julia  | [Alienzista](https://joaothiago06.github.io/Alienzista) |  |
+| Vitor Manoel <br> Elber  | [History of Soccer](https://vitin157.github.io/HistoryofSoccer) |  |
+| Thayná <br> Bruna  | [Brutha](https://brunitxia.github.io/Pirata) |  |
+| Elieton <br> José Luiz  | [Servidor de Mensagens](https://jldifrn.github.io/ServidorDeMensagens) |  |
+| Victor Rodrigues <br> Erikson   | [Express Mensager](https://eriksonnicacio.github.io/New%20Project) |  |
+| Karol <br> Jade  | [Desvendando](https://jadsamiamedeiros.github.io/Desvendando) |  |
 | Quemuel | [Nome](https://link.github.io/nome) |  |
-| Amanda | [Nome](https://link.github.io/nome) |  |
+| Amanda | [42](https://amanda13.github.io/Jogo) |  |
 | Savio | [Nome](https://link.github.io/nome) |  |
-| Sâmia | [Nome](https://link.github.io/nome) |  |
+| Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
 #### Tema 3 : ? 
 
