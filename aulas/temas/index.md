@@ -16,8 +16,6 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 #### Tema 1 : Cultura (plataforma)
 
-Jogo do Professor: [Encaixe](https://marcelomesmo.github.io/jogos/Encaixe)
-
 Jogos 3º ano Matutino  
 
 *Clique no nome do jogo para acessar.*
@@ -61,7 +59,56 @@ Jogos 3º ano Vespertino
 | Lucas <br> Thayna | [The Snake Woman](https://lucasrevoredo.github.io/SnakeWoman) |  |
 | Bruna <br> Matheus | [Nordeste Adventure](https://mathaugust.github.io/NordesteAdventure) |  |
   
-#### Tema 2 : ?
+#### Tema 2 : Mensagem (Clique e Toque)  
+  
+Jogo do Professor:
+
+Jogos 3º ano Matutino  
+
+*Clique no nome do jogo para acessar.*
+
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:-------------|
+| José Victor <br> Karine | [Nome](https://link.github.io/nome) |  |
+| Franklin <br> Mychellangello | [Nome](https://link.github.io/nome) |  |
+| Maria Beatriz <br> Maria Eduarda | [Nome](https://link.github.io/nome) |  |
+| Guilherme <br> Arthur | [Nome](https://link.github.io/nome) |  |
+| Elícia <br> Thaynan | [Nome](https://link.github.io/nome) |  |
+| Jefferson <br> Felipe | [Nome](https://link.github.io/nome) |  |
+| Wesley <br> Tan Hao Yu | [Nome](https://link.github.io/nome) |  |
+| Julio <br> Tailson | [Nome](https://link.github.io/nome) |  |
+| João Pedro <br> Matheus Costa | [Nome](https://link.github.io/nome) |  |
+| Lucas <br> João Vitor | [Nome](https://link.github.io/nome) |  |
+| Leonardo <br> Arnóbio | [Nome](https://link.github.io/nome) |  |
+| Manu <br> Matheus Ricardo | [Nome](https://link.github.io/nome) |  |
+| Beatriz <br> Jordana | [Nome](https://link.github.io/nome) |  |
+| Byanka <br> Ruth | [Nome](https://link.github.io/nome) |  |
+| Kennedy | [Nome](https://link.github.io/nome) |  |
+| Alexsandro | [Nome](https://link.github.io/nome) |  |
+| Iara | [Nome](https://link.github.io/nome) |  |
+| Maria Alice | [Nome](https://link.github.io/nome) |  |
+
+Jogos 3º ano Vespertino  
+
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:-------------|
+| Lucas <br> Matheus  | [Nome](https://link.github.io/nome) |  |
+| Joziele <br> Islanne  | [Nome](https://link.github.io/nome) |  |
+| Maria Luiza <br> Rafaela  | [Nome](https://link.github.io/nome) |  |
+| Tereza <br> Juliana  | [Nome](https://link.github.io/nome) |  |
+| Cibele <br> Karla  | [Nome](https://link.github.io/nome) |  |
+| Álvaro <br> Caio  | [Nome](https://link.github.io/nome) |  |
+| Hildelitan <br> Alessandra  | [Nome](https://link.github.io/nome) |  |
+| João Thiago <br> Julia  | [Nome](https://link.github.io/nome) |  |
+| Vitor Manoel <br> Elber  | [Nome](https://link.github.io/nome) |  |
+| Thayná <br> Bruna  | [Nome](https://link.github.io/nome) |  |
+| Elieton <br> José Luiz  | [Nome](https://link.github.io/nome) |  |
+| Victor Rodrigues <br> Erikson   | [Nome](https://link.github.io/nome) |  |
+| Karol <br> Jade  | [Nome](https://link.github.io/nome) |  |
+| Quemuel | [Nome](https://link.github.io/nome) |  |
+| Amanda | [Nome](https://link.github.io/nome) |  |
+| Savio | [Nome](https://link.github.io/nome) |  |
+| Sâmia | [Nome](https://link.github.io/nome) |  |
 
 #### Tema 3 : ? 
 
