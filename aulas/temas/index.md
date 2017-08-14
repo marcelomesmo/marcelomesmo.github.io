@@ -69,24 +69,24 @@ Jogos 3º ano Matutino
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
-| José Victor <br> Karine | [Nome](https://link.github.io/nome) |  |
-| Franklin <br> Mychellangello | [Nome](https://link.github.io/nome) |  |
-| Maria Beatriz <br> Maria Eduarda | [Nome](https://link.github.io/nome) |  |
-| Guilherme <br> Arthur | [Nome](https://link.github.io/nome) |  |
-| Elícia <br> Thaynan | [Nome](https://link.github.io/nome) |  |
-| Jefferson <br> Felipe | [Nome](https://link.github.io/nome) |  |
-| Wesley <br> Tan Hao Yu | [Nome](https://link.github.io/nome) |  |
-| Julio <br> Tailson | [Nome](https://link.github.io/nome) |  |
-| João Pedro <br> Matheus Costa | [Nome](https://link.github.io/nome) |  |
-| Lucas <br> João Vitor | [Nome](https://link.github.io/nome) |  |
-| Leonardo <br> Arnóbio | [Nome](https://link.github.io/nome) |  |
-| Manu <br> Matheus Ricardo | [Nome](https://link.github.io/nome) |  |
-| Beatriz <br> Jordana | [Nome](https://link.github.io/nome) |  |
-| Byanka <br> Ruth | [Nome](https://link.github.io/nome) |  |
-| Kennedy | [Nome](https://link.github.io/nome) |  |
-| Alexsandro | [Nome](https://link.github.io/nome) |  |
+| José Victor <br> Karine | [Love&Code](https://zevictor.github.io/Love&Code) |  |
+| Franklin <br> Mychellangello | [Carta: Uma Jornada Frágil](https://Mychellangello.github.io/Papel) |  |
+| Maria Beatriz <br> Maria Eduarda | [FitFood](https://mrbtrzmoraes.github.io/FitFood) |  |
+| Guilherme <br> Arthur | [Running Explorator](https://reiarthursr.github.io/RunningExplorator) |  |
+| Elícia <br> Thaynan | [Quem tem boca vai a Roma](https://thaynanmedeiros.github.io/QTBVAR2) |  |
+| Jefferson <br> Felipe | [A missão do Mensageiro](https://jefferson141.github.io/A%20missão%20do%20Mensageiro) |  |
+| Wesley <br> Tan Hao Yu | [Mistério da Casa 60](https://wesleylandia.github.io/Oficina2) |  |
+| Julio <br> Tailson | [Adventure Runner](https://cesarabc45.github.io/AdventureRunner) |  |
+| João Pedro <br> Matheus Costa | [Hybrid Child](https://maathps.github.io/projecthibrid) |  |
+| Lucas <br> João Vitor | [30segundos](https://lucas-manolo.github.io/30Segundos) |  |
+| Leonardo <br> Arnóbio | [CASO 1070](https://leonardofelipe.github.io/CASO1070) |  |
+| Manu <br> Matheus Ricardo | [CakeBoss](https://emanuellicarine.github.io/CakeBoss) |  |
+| Beatriz <br> Jordana | [Fonokids](https://jordanag.github.io/fonokids) |  |
+| Byanka <br> Ruth | [Musacher](https://ruthimaria01.github.io/musacher) |  |
+| Kennedy | [Delivery if you can](https://kkenedy.github.io/New%20project) |  |
+| Alexsandro | [Acerte o Desafio](https://alex-alves.github.io/AOD) |  |
 | Iara | [Nome](https://link.github.io/nome) |  |
-| Maria Alice | [Nome](https://link.github.io/nome) |  |
+| Maria Alice | [Recicle](https://Alicinhaa.github.io/Recicle) |  |
 
 Jogos 3º ano Vespertino  
 
