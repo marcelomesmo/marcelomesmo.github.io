@@ -16,8 +16,6 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 #### Tema 1 : Cultura (plataforma)
 
-Jogo do Professor: [Encaixe](https://marcelomesmo.github.io/jogos/Encaixe)
-
 Jogos 3º ano Matutino  
 
 *Clique no nome do jogo para acessar.*
@@ -61,7 +59,56 @@ Jogos 3º ano Vespertino
 | Lucas <br> Thayna | [The Snake Woman](https://lucasrevoredo.github.io/SnakeWoman) |  |
 | Bruna <br> Matheus | [Nordeste Adventure](https://mathaugust.github.io/NordesteAdventure) |  |
   
-#### Tema 2 : ?
+#### Tema 2 : Mensagem (Clique e Toque)  
+  
+Jogo do Professor:
+
+Jogos 3º ano Matutino  
+
+*Clique no nome do jogo para acessar.*
+
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:-------------|
+| José Victor <br> Karine | [Love&Code](https://zevictor.github.io/Love&Code) |  |
+| Franklin <br> Mychellangello | [Carta: Uma Jornada Frágil](https://Mychellangello.github.io/Papel) |  |
+| Maria Beatriz <br> Maria Eduarda | [FitFood](https://mrbtrzmoraes.github.io/FitFood) |  |
+| Guilherme <br> Arthur | [Running Explorator](https://reiarthursr.github.io/RunningExplorator) |  |
+| Elícia <br> Thaynan | [Quem tem boca vai a Roma](https://thaynanmedeiros.github.io/QTBVAR2) |  |
+| Jefferson <br> Felipe | [A missão do Mensageiro](https://jefferson141.github.io/A%20missão%20do%20Mensageiro) |  |
+| Wesley <br> Tan Hao Yu | [Mistério da Casa 60](https://wesleylandia.github.io/Oficina2) |  |
+| Julio <br> Tailson | [Adventure Runner](https://cesarabc45.github.io/AdventureRunner) |  |
+| João Pedro <br> Matheus Costa | [Hybrid Child](https://maathps.github.io/projecthibrid) |  |
+| Lucas <br> João Vitor | [30segundos](https://lucas-manolo.github.io/30%20Segundos) |  |
+| Leonardo <br> Arnóbio | [CASO 1070](https://leonardofelipe.github.io/CASO1070) |  |
+| Manu <br> Matheus Ricardo | [CakeBoss](https://emanuellicarine.github.io/CakeBoss) |  |
+| Beatriz <br> Jordana | [Fonokids](https://jordanag.github.io/fonokids) |  |
+| Byanka <br> Ruth | [Musacher](https://ruthimaria01.github.io/musacher) |  |
+| Kennedy | [Delivery if you can](https://kkenedy.github.io/New%20project) |  |
+| Alexsandro | [Acerte o Desafio](https://alex-alves.github.io/AOD) |  |
+| Iara | [Nome](https://link.github.io/nome) |  |
+| Maria Alice | [Recicle](https://Alicinhaa.github.io/Recicle) |  |
+
+Jogos 3º ano Vespertino  
+
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:-------------|
+| Lucas <br> Matheus  | [Run Juliana Run](https://lucasrevoredo.github.io/RunJulianaRun) |  |
+| Joziele <br> Islanne  | [Domination](https://Joozi.github.io/Domination) |  |
+| Maria Luiza <br> Rafaela  | [Sky or Hell](https://Maalu.github.io/SkyOrHell) |  |
+| Tereza <br> Juliana  | [Ventania](https://JulianaBL.github.io/Ventania) |  |
+| Cibele <br> Karla  | [El Cuerpo](https://karlagabriella.github.io/El%20Cuerpo) |  |
+| Álvaro <br> Caio  | [Fuga das Vacas](https://AlvaroMD2016.github.io/Fuga%20das%20Vacas) |  |
+| Hildelitan <br> Alessandra  | [Discovery Space](https://AlessandraTS.github.io/DiscoverySpace) |  |
+| João Thiago <br> Julia  | [Alienzista](https://joaothiago06.github.io/Alienzista) |  |
+| Vitor Manoel <br> Elber  | [History of Soccer](https://vitin157.github.io/HistoryofSoccer) |  |
+| Thayná <br> Bruna  | [Brutha](https://brunitxia.github.io/Pirata) |  |
+| Elieton <br> José Luiz  | [Servidor de Mensagens](https://jldifrn.github.io/ServidorDeMensagens) |  |
+| Victor Rodrigues <br> Erikson   | [Express Mensager](https://eriksonnicacio.github.io/New%20Project) |  |
+| Karol <br> Jade  | [Desvendando](https://jadsamiamedeiros.github.io/Desvendando) |  |
+| Quemuel | [Nome](https://link.github.io/nome) |  |
+| Amanda | [42](https://amanda13.github.io/Jogo) |  |
+| Savio | [Nome](https://link.github.io/nome) |  |
+| Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
 #### Tema 3 : ? 
 
