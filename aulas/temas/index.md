@@ -67,23 +67,23 @@ Jogos 3º ano Matutino
   
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
-| José Victor <br> Karine | [Love&Code](https://zevictor.github.io/Love&Code) |  |
-| Franklin <br> Mychellangello | [Carta: Uma Jornada Frágil](https://Mychellangello.github.io/Carta%20uma%20jornada%20frágil) |  |
+| José Victor <br> Karine | [Love&Code](https://zevictor.github.io/Love&Code) | <figure><a title="Melhor Jogo"><img src="/images/oficina/melhor.png"></a></figure> |
+| Franklin <br> Mychellangello | [Carta: Uma Jornada Frágil](https://Mychellangello.github.io/Carta%20uma%20jornada%20frágil) | <figure><a title="Destaque"><img src="/images/oficina/mencao.png"></a></figure> |
 | Maria Beatriz <br> Maria Eduarda | [FitFood](https://mrbtrzmoraes.github.io/FitFood) |  |
-| Guilherme <br> Arthur | [Running Explorator](https://guiegle.github.io/GameR) |  |
+| Guilherme <br> Arthur | [Running Explorator](https://guiegle.github.io/GameR) | <figure><a title="Destaque"><img src="/images/oficina/mencao.png"></a></figure> |
 | Elícia <br> Thaynan | [Quem tem boca vai a Roma](https://thaynanmedeiros.github.io/QTBVAR2) |  |
 | Jefferson <br> Felipe | [A missão do Mensageiro](https://jefferson141.github.io/A%20missão%20do%20Mensageiro) |  |
-| Wesley <br> Tan Hao Yu | [Mistério da Casa 60](https://wesleylandia.github.io/Oficina2) |  |
-| Julio <br> Tailson | [Adventure Runner](https://cesarabc45.github.io/AdventuriRunner) |  |
+| Wesley <br> Tan Hao Yu | [Mistério da Casa 60](https://wesleylandia.github.io/Oficina2) | <figure><a title="Melhor Mecânica"><img src="/images/oficina/mecanica.png"></a></figure> |
+| Julio <br> Tailson | [Adventuri Runner](https://cesarabc45.github.io/AdventuriRunner) |  |
 | João Pedro <br> Matheus Costa | [Hybrid Child](https://maathps.github.io/projecthibrid) |  |
-| Lucas <br> João Vitor | [30segundos](https://lucas-manolo.github.io/30%20Segundos) |  |
-| Leonardo <br> Arnóbio | [CASO 1070](https://leonardofelipe.github.io/CASO1070) |  |
+| Lucas <br> João Vitor | [30segundos](https://lucas-manolo.github.io/Óculos%20que%20tudo%20vê) | <figure><a title="Destaque"><img src="/images/oficina/mencao.png"></a></figure> |
+| Leonardo <br> Arnóbio | [CASO 1070](https://leonardofelipe.github.io/CASO1070) | <figure><a title="Melhor Uso do Tema"><img src="/images/oficina/criatividade.png"></a></figure> |
 | Manu <br> Matheus Ricardo | [CakeBoss](https://emanuellicarine.github.io/CakeBoss) |  |
 | Beatriz <br> Jordana | [Fonokids](https://jordanag.github.io/FonoKids2) |  |
 | Byanka <br> Ruth | [Musacher](https://ruthimaria01.github.io/musacher) |  |
 | Kennedy | [Delivery if you can](https://kkenedy.github.io/Entregue%20se%20puder) |  |
 | Alexsandro | [Acerte o Desafio](https://alex-alves.github.io/AOD) |  |
-| Iara | [Nome](https://link.github.io/nome) |  |
+| Iara | [SEM LINK](https://link.github.io/nome) |  |
 | Maria Alice | [Recicle](https://Alicinhaa.github.io/Recicle) |  |
 
 Jogos 3º ano Vespertino  
@@ -94,18 +94,17 @@ Jogos 3º ano Vespertino
 | Joziele <br> Islanne  | [Domination](https://Joozi.github.io/Domination) |  |
 | Maria Luiza <br> Rafaela  | [Sky or Hell](https://Maalu.github.io/JogoSkyOrHelll) |  |
 | Tereza <br> Juliana  | [Ventania](https://JulianaBL.github.io/Ventania) |  |
-| Cibele <br> Karla  | [El Cuerpo](https://karlagabriella.github.io/El%20Cuerpo) |  |
-| Álvaro <br> Caio  | [Fuga das Vacas](https://AlvaroMD2016.github.io/Fuga%20das%20Vacas) |  |
-| Hildelitan <br> Alessandra  | [Discovery Space](https://AlessandraTS.github.io/DiscoverySpace) |  |
+| Cibele <br> Karla  | [El Cuerpo](https://karlagabriella.github.io/El%20Cuerpo) | <figure><a title="Melhor Uso do Tema"><img src="/images/oficina/criatividade.png"></a></figure> |
+| Álvaro <br> Caio  | [Fuga das Vacas](https://AlvaroMD2016.github.io/Fuga%20das%20Vacas) | <figure><a title="Melhor Jogo"><img src="/images/oficina/melhor.png"></a></figure> |
+| Hildelitan <br> Alessandra  | [Discovery Space](https://AlessandraTS.github.io/DiscoverySpace) | <figure><a title="Destaque"><img src="/images/oficina/mencao.png"></a></figure> |
 | João Thiago <br> Julia  | [Alienzista](https://joaothiago06.github.io/Alienzistaaaa) |  |
 | Vitor Manoel <br> Elber  | [History of Soccer](https://vitin157.github.io/HistoryofSoccer) |  |
 | Thayná <br> Bruna  | [Brutha](https://brunitxia.github.io/pirata) |  |
-| Elieton <br> José Luiz  | [Servidor de Mensagens](https://jldifrn.github.io/ServidorDeMensagens) |  |
-| Victor Rodrigues <br> Erikson   | [Express Mensager](https://eriksonnicacio.github.io/New%20project) |  |
+| Elieton <br> José Luiz  | [Servidor de Mensagens](https://jldifrn.github.io/ServidorDeMensagens) | <figure><a title="Destaque"><img src="/images/oficina/mencao.png"></a></figure> |
+| Victor Rodrigues <br> Erikson   | [Express Mensager](https://eriksonnicacio.github.io/New%20project) | <figure><a title="Destaque"><img src="/images/oficina/mencao.png"></a></figure> |
 | Karol <br> Jade  | [Musibox](https://jadsamiamedeiros.github.io/Musibox) |  |
-| Quemuel | [Nome](https://link.github.io/nome) |  |
 | Amanda | [42](https://amanda13.github.io/Jogo) |  |
-| Savio | [Nome](https://link.github.io/nome) |  |
+| Savio | [SEM LINK](https://link.github.io/nome) |  |
 | Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
 #### Tema 3 : ? 
