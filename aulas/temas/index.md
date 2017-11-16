@@ -107,7 +107,42 @@ Jogos 3º ano Vespertino
 | Savio | [SEM LINK](https://link.github.io/nome) |  |
 | Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
-#### Tema 3 : ? 
+#### Tema 3 : Livre  
+  
+Jogos 3º ano Matutino  
+
+*Clique no nome do jogo para acessar.*  
+  
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:-------------|
+
+| Kennedy <br> Jefferson <br> Julio Cesar | [link](https://) | |
+| Guilherme <br> Franklin <br> Mychellangelo | | |
+| Karine <br> Zé Victor <br> Arnóbio | [link](https://) | |
+| Iara <br> Matheus Costa <br> Alexsandro | [link](https://) | |
+| Leonardo <br> Wesley <br> Yu | [link](https://) | |
+| Maria Eduarda <br> Maria Beatriz <br> Thaynan | [link](https://) | |
+| Emmanuelli <br> João Pedro <br> Matheus Ricardo | [link](https://) | |
+| Tailson <br> Felipe <br> Arthur | [link](https://) | |
+| Jordana <br> Beatriz <br> Byanka | [link](https://) | |
+| Maria Alice <br> Elicia <br> Ruth | [link](https://) | |
+| Lucas <br> João Victor | [link](https://) | |
+  
+Jogos 3º ano Vespertino  
+
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:-------------|
+| Caio <br> Álvaro <br> Sâmia | | |
+| Vitor Manoel <br> Elber <br> Elielton | | |
+| Cibele <br> Juliana <br> Karla | | |
+| Alessandra <br> Hildelitan <br> Karolina | | | 
+| Tereza <br> Amanda <br> Julia | | | 
+| Bruna <br> Thayná <br> João Thiago | | | 
+| Jade <br> Rafaela <br> Islanne | | |
+| Maria Luiza <br> Joziele <br> Sávio | | |
+| José Luiz <br> Erikson <br> Victor Rodrigues | | |
+| Lucas <br> Matheus | | |
+  
 
 #### Tema 4 : ?
   

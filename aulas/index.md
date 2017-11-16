@@ -52,7 +52,7 @@ Repositório de aulas.
 
 #### Programação Orientada a Objetos para Jogos Digitais
 
-* Objetivo do curso é apresentar conceitos de POO e técnicas para construção de Jogos Digitais em C++ e SDL.  
+* Objetivo do curso é apresentar conceitos de POO e técnicas para construção de Jogos Digitais em C++.  
 * Material: [Slides](https://www.dropbox.com/sh/4sw67zrctoo2rkr/AAA4Iaf309P_ZOzUYNqu2f1aa?dl=0)  
 * Códigos usados em Sala: [Pacote](https://www.dropbox.com/s/5qa01dvbxmod4kk/POOAulas.rar?dl=0)  
 
@@ -64,62 +64,3 @@ Repositório de aulas.
 * Material: [Slides](https://www.dropbox.com/s/9dezeen93xwa8qi/Desenvolvimento%20de%20Jogos%20Independentes.pdf?dl=0).
 
 #### Palestra: De 8-bits ao Giga, História dos Videogames Modernos  
-
-
-> ## Arte e Jogos
-
-#### Filmes e Séries
-
-<figure>
-  <a href="http://www.rocketjump.com/category/vghs"><img src="/images/recomenda/serie-vghs.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://buy.indiegamethemovie.com/"><img src="/images/recomenda/movie-indiegame.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://supergamejam.com/"><img src="/images/recomenda/movie-supergamejam.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.freetoplaythemovie.com/pt/"><img src="/images/recomenda/movie-freetoplay.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.videogamesthemovie.com/"><img src="/images/recomenda/movie-vg.jpg"></a>
-</figure>
-
-#### Quadrinhos
-
-<figure>
-  <a href="http://www.giantitp.com/comics/oots.html"><img src="/images/recomenda/oots.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.nerfnow.com/"><img src="/images/recomenda/nerfnow.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://xkcd.com/"><img src="/images/recomenda/xkcd.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://www.awkwardzombie.com/"><img src="/images/recomenda/awkzombie.jpg"></a>
-</figure>
-
-#### YouTube
-
-#### Sites
-
-<figure>
-  <a href="http://www.newgrounds.com/"><img src="/images/recomenda/newgrounds.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://kotaku.com/"><img src="/images/recomenda/kotaku.jpg"></a>
-</figure>
-
-<figure>
-  <a href="http://stackoverflow.com/"><img src="/images/recomenda/stackoverflow.jpg"></a>
-</figure>

@@ -16,7 +16,7 @@ Aqueles com maior conhecimento em programação tendem a escolher dentre as *eng
 
 ### Mas afinal, qual o objetivo de uma Engine?
 
-De forma concisa: facilitar a programação, principalmente na manipulação gráfica de mais baixo nível, em questões de manipulação dos elementos do jogo ou no tratamento de mecânicas físicas (como movimentação, colisão, etc).
+De forma concisa: facilitar a programação, principalmente na manipulação gráfica de mais baixo nível, em questões de gestão dos elementos do jogo ou no tratamento de mecânicas físicas (como movimentação, colisão, etc).
 
 O principal intuito de uma engine, ou no português motor de jogo, é desenvolver uma boa base para que o programador perca menos tempo com estruturas de programação (sic) e se preocupe mais com as propriedades da lógica do seu programa. Em outras palavras: se preocupe mais com o design e narrativa do seu jogo e menos com otimização de gráficos e elaboração de algoritmos.
 

@@ -3,11 +3,8 @@
 - title: Sobre
   url: /sobre/
 
-- title: Projetos
-  url: /projetos/
-
-- title: Cursos
-  url: /cursos/
+#- title: Portfolio
+#  url: /portfolio/
 
 - title: Aulas
   url: /aulas/
