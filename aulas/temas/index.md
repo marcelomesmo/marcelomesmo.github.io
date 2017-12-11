@@ -104,7 +104,7 @@ Jogos 3º ano Vespertino
 | Victor Rodrigues <br> Erikson   | [Express Mensager](https://eriksonnicacio.github.io/New%20project) | <figure><a title="Destaque"><img src="/images/oficina/mencao.png"></a></figure> |
 | Karol <br> Jade  | [Musibox](https://jadsamiamedeiros.github.io/Musibox) |  |
 | Amanda | [42](https://amanda13.github.io/Jogo) |  |
-| Savio | [SEM LINK](https://link.github.io/nome) |  |
+| Savio | [SEM LINK]() |  |
 | Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
 #### Tema 3 : Livre  
@@ -116,32 +116,32 @@ Jogos 3º ano Matutino
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
 
-| Kennedy <br> Jefferson <br> Julio Cesar | [link](https://) | |
-| Guilherme <br> Franklin <br> Mychellangelo | | |
-| Karine <br> Zé Victor <br> Arnóbio | [link](https://) | |
-| Iara <br> Matheus Costa <br> Alexsandro | [link](https://) | |
-| Leonardo <br> Wesley <br> Yu | [link](https://) | |
-| Maria Eduarda <br> Maria Beatriz <br> Thaynan | [link](https://) | |
-| Emmanuelli <br> João Pedro <br> Matheus Ricardo | [link](https://) | |
-| Tailson <br> Felipe <br> Arthur | [link](https://) | |
-| Jordana <br> Beatriz <br> Byanka | [link](https://) | |
-| Maria Alice <br> Elicia <br> Ruth | [link](https://) | |
-| Lucas <br> João Victor | [link](https://) | |
+| Kennedy <br> Jefferson <br> Julio Cesar | [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/) | |
+| Guilherme <br> Franklin <br> Mychellangelo | [The Darkness Ascension](https://mychellangello.github.io/tdaf) | |
+| Karine <br> Zé Victor <br> Arnóbio | [Capacete Branco](https://zevictor.github.io/CapWhite/) | |
+| Iara <br> Matheus Costa <br> Alexsandro | [SEM LINK]() | |
+| Leonardo <br> Wesley <br> Yu | [Warriors War](https://leonardofelipe.github.io/Jogo3B/) | |
+| Maria Eduarda <br> Maria Beatriz <br> Thaynan | [Potengi: o Quiz](https://mrbtrzmoraes.github.io/Quiz1/) | |
+| Emmanuelli <br> João Pedro <br> Matheus Ricardo | [Pokemon vs Humans](https://bixcoito.github.io/Pokemon/) | |
+| Tailson <br> Felipe <br> Arthur | [Mundo Robô](https://reiarthursr.github.io/Mundo%20Rob%C3%B4/) | |
+| Jordana <br> Beatriz <br> Byanka | [Que País é esse?](https://cavalcantebya.github.io/quepaiseesse) | |
+| Maria Alice <br> Elicia <br> Ruth | [PerGame](https://eliciaa.github.io/Pergame) | |
+| Lucas <br> João Victor | [Invoke](https://lucas-manolo.github.io/Invoke) | |
   
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
-| Caio <br> Álvaro <br> Sâmia | | |
-| Vitor Manoel <br> Elber <br> Elielton | | |
-| Cibele <br> Juliana <br> Karla | | |
-| Alessandra <br> Hildelitan <br> Karolina | | | 
-| Tereza <br> Amanda <br> Julia | | | 
-| Bruna <br> Thayná <br> João Thiago | | | 
-| Jade <br> Rafaela <br> Islanne | | |
-| Maria Luiza <br> Joziele <br> Sávio | | |
-| José Luiz <br> Erikson <br> Victor Rodrigues | | |
-| Lucas <br> Matheus | | |
+| Caio <br> Álvaro <br> Sâmia | [Elements](https://alvaromd2016.github.io/Elements/) | |
+| Vitor Manoel <br> Elber <br> Elielton | [PUM](https://elielton90.github.io/PUM/) | |
+| Cibele <br> Juliana <br> Karla | [LAbyrinth Food Chain](https://julianabl.github.io/LabyrinthFoodChain/) | |
+| Alessandra <br> Hildelitan <br> Karolina | [Cancun`s Temple](https://alessandrats.github.io/CancunsTemple/) | | 
+| Tereza <br> Amanda <br> Julia | [The Journey](https://amanda13.github.io/TheJourney/) | | 
+| Bruna <br> Thayná <br> João Thiago | [Carol com C](https://joaothiago06.github.io/CarolcomC/) | | 
+| Jade <br> Rafaela <br> Islanne | [Random Quiz](https://jadsamiamedeiros.github.io/randomquiz/) | |
+| Maria Luiza <br> Joziele <br> Sávio | [Time IF](https://ortegagamer.github.io/GAMES/TimeIF/) | |
+| José Luiz <br> Erikson <br> Victor Rodrigues | [Ardenas Retake](https://jldifrn.github.io/ArdenasRetake/) | |
+| Lucas <br> Matheus | [SEM LINK]() | |
   
 
 #### Tema 4 : ?
