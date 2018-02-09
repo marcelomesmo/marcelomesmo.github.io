@@ -2,6 +2,9 @@
 layout: default
 ---
 
+LINK DO DROPBOX DAS AULAS ENQUANTO A PAGINA ESTA DESATUALIZADA:
+https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0
+
 Criando **minha** _página_ ~~principal~~.
 
 # Quem sou eu
