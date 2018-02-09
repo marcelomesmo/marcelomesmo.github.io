@@ -13,7 +13,7 @@ Sou um estudante de jogos que gosta muito DAS AULAS DO PROF MARCELO.
 ## Games
 
 [Jogo 1 Oficina : SUPER](https://zevictor.github.io/CapWhite/)  
-[Love&Code](https://zevictor.github.io/Love&Code/)  
+[![](jogo1.png)](https://zevictor.github.io/Love&Code/)  
 
 ## Artes
 
