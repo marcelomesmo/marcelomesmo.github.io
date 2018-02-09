@@ -12,20 +12,13 @@ Aluninho de jogos aprendendo a fazer um portfólio com prof. maravilhoso Marcelo
 
 ## Games
 
-[Jogo do Ano 2018 - Akili](https://elielton90.github.io/Akili/)
-
-[GTA6](https://marcelomesmo.github.io/GTA6/)
-
-[TEXTO QUE VAI APARECER](link)
-
+[![](akili.png)](https://elielton90.github.io/Akili/)
 
 ## Artes
 
 ![ESTRELA](https://media.cdnandroid.com/69/b2/33/7f/imagen-star-coloring-color-by-number-pixel-art-0thumb.jpg)
 
 ![](https://orig00.deviantart.net/c464/f/2013/292/a/e/pixel_art___v_de_vendetta_by_parrichan-d6k3dj9.png)
-
-![NOME OPCIONAL](link da imagem)
 
 ![](cachorrineo.png)
 
