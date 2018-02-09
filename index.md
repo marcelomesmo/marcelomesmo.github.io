@@ -17,6 +17,10 @@ Sou um estudante de jogos que gosta muito DAS AULAS DO PROF MARCELO.
 
 ## Artes
 
+![IMAGEM1](https://365psd.com/images/istock/previews/1059/105919761-illustration-design-pixel-art-dog-cool.jpg)  
+![](https://365psd.com/images/istock/previews/1059/105919761-illustration-design-pixel-art-dog-cool.jpg)  
+
+
 ## Apresentações
 * Aula de Música
 * Aula de Teatro
