@@ -27,6 +27,7 @@ Aluninho de jogos aprendendo a fazer um portfólio com prof. maravilhoso Marcelo
 
 ![NOME OPCIONAL](link da imagem)
 
+![](cachorrineo.png)
 
 ## Projetos
 * Proj Teatro
