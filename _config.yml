@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
+title: marcelomesmo
+email: marcelo.barbosa@ifrn.edu.br
+url: https://marcelomesmo.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Teacher - Game Developer - (Wanna Be) Pixel Artist"
+meta_author: de Barros Marcelo
 
 # Google webmaster tools
 google_verify:
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 123 Muito Doido
+  - line: Natal, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'LINK DO DROPBOX DAS AULAS ENQUANTO A PAGINA ESTA DESATUALIZADA: <a href="https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0</a>.'
 
 # Build settings
 markdown: kramdown
