@@ -56,7 +56,7 @@ address:
   - line: Natal, CA 90210
 
 # Credits content
-credits: 'LINK DO DROPBOX DAS AULAS ENQUANTO A PAGINA ESTA DESATUALIZADA: <a href="https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0</a>.'
+credits: 'LINK DO DROPBOX: <a href="https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0" </a>.'
 
 # Build settings
 markdown: kramdown
