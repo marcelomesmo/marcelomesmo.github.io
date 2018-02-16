@@ -46,9 +46,17 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+<<<<<<< HEAD
   - line: Sublime Text
   - line: Construct 2/3
   - line: C++ / Java&Groovy / C#
+=======
+  - line: 123 Muito Doido
+  - line: Natal, CA 90210
+
+# Credits content
+credits: 'LINK DO DROPBOX: <a href="https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0"> LINK </a>.'
+>>>>>>> 56ff0bb3c28fc187462c4c52af81ff184c8037be
 
 # Build settings
 markdown: kramdown
