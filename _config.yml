@@ -27,13 +27,13 @@ disqus_shortname: myshortname
 color:
   primary: 18bc9c #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: 4c4147 #FD6E8A
+  secondary-dark: 352b31 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Marcelo de Barros
+  location: Currently using
   social: Around the Web
   credits: Credits
 
@@ -41,22 +41,14 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 123 Muito Doido
-  - line: Natal, CA 90210
-
-# Credits content
-credits: 'LINK DO DROPBOX DAS AULAS ENQUANTO A PAGINA ESTA DESATUALIZADA: <a href="https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0</a>.'
+  - line: Sublime Text
+  - line: Construct 2/3
+  - line: C++ / Java&Groovy / C#
 
 # Build settings
 markdown: kramdown
