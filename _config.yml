@@ -33,30 +33,28 @@ color:
 # Footer settings
 footer:
   copyright: Marcelo de Barros
-  location: Currently using
+  location: Programming
   social: Around the Web
-  credits: Credits
+  credits: Art
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/marcelomesmo
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/marcelomesmo
 
 # Postal address (add as many lines as necessary)
 address:
-<<<<<<< HEAD
   - line: Sublime Text
   - line: Construct 2/3
-  - line: C++ / Java&Groovy / C#
-=======
-  - line: 123 Muito Doido
-  - line: Natal, CA 90210
+  - line: C++ & SDL
+  - line: Java/Groovy [old]
 
 # Credits content
-credits: 'LINK DO DROPBOX: <a href="https://www.dropbox.com/sh/kmzoky9al0zcgck/AAAE4rJRT2VH_-HMkP9TrSKua?dl=0"> LINK </a>.'
->>>>>>> 56ff0bb3c28fc187462c4c52af81ff184c8037be
+credits: 
+  - line: Aseprite
+  - line: Photoshop
 
 # Build settings
 markdown: kramdown
