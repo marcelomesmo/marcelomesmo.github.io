@@ -85,6 +85,12 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.img-hover:hover {
+    
+    color: #{{ site.color.secondary }};
+    background-color: #fff;
+}
+
 header {
     text-align: center;
     color: #fff;
