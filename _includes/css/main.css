@@ -87,7 +87,7 @@ hr.star-primary:after {
 
 .img-hover:hover {
     color: white;
-    filter: opacity(60%);
+    filter: opacity(80%);
 }
 
 header {
