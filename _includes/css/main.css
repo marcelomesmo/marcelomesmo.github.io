@@ -230,7 +230,6 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
-    box-shadow: inset 0 0 0 0 rgba(200,95,66, 0.4), inset 0 0 0 16px rgba(255,255,255,0.6), 0 1px 2px rgba(0,0,0,0.1);
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -238,6 +237,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
+    background: rgba(0, 0,0,0.8);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
