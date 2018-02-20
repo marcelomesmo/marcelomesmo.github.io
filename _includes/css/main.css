@@ -93,7 +93,6 @@ header {
 
 header .container {
     padding-top: 100px;
-    padding-bottom: 50px;
 }
 
 header img {
@@ -117,7 +116,6 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 50px;
     }
 
     header .intro-text .name {
@@ -181,7 +179,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 section h2 {
@@ -196,11 +194,11 @@ section.success {
 
 @media(max-width:767px) {
     section {
-        padding: 75px 0;
+        padding: 50px 0;
     }
 
     section.first {
-        padding-top: 75px;
+        padding-top: 50px;
     }
 }
 
@@ -218,9 +216,13 @@ section.success {
 {
       position: absolute;
       height: 100%;
-      background: fade-out(#333, 0.5);
+    opacity: 0.3;
+    background: black;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
       text-align: center;
-      transition;
+      transition: .5 ease;
       display:flex;
       align-items:center;
       justify-content:space-around;   
@@ -228,8 +230,8 @@ section.success {
 .portfolio-overlay:hover 
 { 
     position:absolute, 0px 0px null 0px;
-}
 
+}
 .strong
 {
     display: block;
@@ -239,6 +241,7 @@ section.success {
     font.size: 24px;
     font.weight: 300;
 }
+
       
 
 #portfolio .portfolio-item .portfolio-link {
@@ -257,6 +260,7 @@ section.success {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
+     text-align: center;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {

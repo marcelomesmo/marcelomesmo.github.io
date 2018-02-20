@@ -43,10 +43,9 @@ contact:
 # Credits content
 tools: 
   - line: Sublime Text
-  - line: Construct 2/3
+  - line: Construct 3
   - line: Aseprite
   - line: Photoshop
-  - line: C++ C# Groovy
 
 # Build settings
 markdown: kramdown
