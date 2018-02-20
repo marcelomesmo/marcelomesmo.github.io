@@ -93,6 +93,7 @@ header {
 
 header .container {
     padding-top: 100px;
+    padding-bottom: 50px;
 }
 
 header img {
@@ -209,39 +210,16 @@ section.success {
 
 #portfolio .portfolio-text 
 {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
 
 } 
-
-#portfolio .portfolio-overlay 
-{
-      position: absolute;
-      height: 100%;
-    opacity: 0.3;
-    background: black;
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
-    transition: all ease .5s;
-      text-align: center;
-      transition: .5 ease;
-      display:flex;
-      align-items:center;
-      justify-content:space-around;   
-} 
-.portfolio-overlay:hover 
-{ 
-    position:absolute, 0px 0px null 0px;
-
-}
-.strong
-{
-    display: block;
-    padding: 20px;
-    color: white;
-    line-height: 1.2;
-    font.size: 24px;
-    font.weight: 300;
-}
-
       
 
 #portfolio .portfolio-item .portfolio-link {
@@ -256,11 +234,11 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-     text-align: center;
+    text-align: center;
+    display: block;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {

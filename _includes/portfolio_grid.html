@@ -11,9 +11,7 @@
                 {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <strong>{{ post.alt }} <i class="fa fa-gamepad fa-3x" aria-hidden="true"></i></strong>
-                            </div>
+                            <div class="caption"><i class="portfolio-text">{{ post.alt }}</i></div>
                             <!--<div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-gamepad fa-3x"></i>
