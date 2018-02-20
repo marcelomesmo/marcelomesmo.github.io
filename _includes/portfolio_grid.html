@@ -11,11 +11,14 @@
                 {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-gampepad fa-3x"></i>
-                                </div>
+                            <div class="portfolio-overlay">
+                                <strong>{{ post.alt }} <i class="fa fa-gamepad" aria-hidden="true"></i></strong>
                             </div>
+                            <!--<div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-gamepad fa-3x"></i>
+                                </div>
+                            </div>-->
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
