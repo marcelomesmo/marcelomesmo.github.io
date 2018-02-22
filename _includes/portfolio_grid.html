@@ -9,7 +9,8 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
+                <h5>Games</h5>
+                {% for post in site.posts.games %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption"><i class="portfolio-text">{{ post.alt }}</i></div>
@@ -18,6 +19,17 @@
                                     <i class="fa fa-gamepad fa-3x"></i>
                                 </div>
                             </div>-->
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="row">
+                <h5>Projects</h5>
+                {% for post in site.posts.projects %}
+                    <div class="col-sm-4 portfolio-item">
+                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                            <div class="caption"><i class="portfolio-text">{{ post.alt }}</i></div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>

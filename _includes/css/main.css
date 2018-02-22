@@ -83,10 +83,15 @@ hr.star-primary:after {
 
 .img-centered {
     margin: 0 auto;
+    color:transparent;
+}
+
+.img-hover {
+    color:transparent;
 }
 
 .img-hover:hover {
-    color: white;
+    color:transparent;
     filter: opacity(80%);
 }
 
