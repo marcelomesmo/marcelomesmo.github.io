@@ -39,7 +39,7 @@ h6 {
     font-weight: 700;
 }
 
-h5 {
+h5, .h5 {
     padding-left: 15px;
 }
 
