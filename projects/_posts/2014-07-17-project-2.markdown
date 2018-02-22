@@ -1,9 +1,10 @@
 ---
+title: MuSSE
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: cake.png
-alt: image-alt
+alt: MuSSE
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
