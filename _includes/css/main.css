@@ -24,8 +24,10 @@ a.active {
     color: #352b31;
 }
 
+a.hover,
 a:hover {
     outline: 0;
+    color: transparent;
 }
 
 h1,
