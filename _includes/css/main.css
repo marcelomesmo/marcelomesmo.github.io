@@ -17,12 +17,15 @@ p.small {
 }
 
 a,
-a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
     color: #352b31;
+}
+
+a:hover {
+    outline: 0;
 }
 
 h1,
@@ -83,10 +86,6 @@ hr.star-primary:after {
 
 .img-centered {
     margin: 0 auto;
-    color:transparent;
-}
-
-.img-hover {
     color:transparent;
 }
 
