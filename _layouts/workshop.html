@@ -4,7 +4,12 @@
     <body id="page-top" class="index">
     {% include nav.html %}
 
-    {% include ws_themes.html %}
+    <!--{% include ws_themes.html %}-->
+    <h1>{{ ws_themes.title }}</h1>
+    <div class="col-lg-2">
+      {{ content }}
+    </div>
+    <!-- /.article-wrap -->
 
     {% include footer.html %}
     {% include modals.html %}
