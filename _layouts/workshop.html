@@ -1,15 +1,11 @@
+<h1>{{ workshop.title }}</h1>
+
+{{ content }}
+
+{% for post in site.categories.oficina %}
+    <details>
+        <summary> {{post.title}} </summary>
+        { {post.content} }
+</details>        
+{% endfor %}
   
-    <article>    
-        <h1>{{ workshop.title }}</h1>
-        <div class="col-lg-2">
-          {{ content }}
-            
-            {% for post in site.categories.oficina %}
-                <details>
-                    <summary> {{post.title}} </summary>
-                    { {post.content} }
-                </details>        
-            {% endfor %}
-            
-        </div>
-    </article>
