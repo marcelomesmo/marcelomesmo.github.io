@@ -1,5 +1,11 @@
 <section>
   <div class="thumb-container">
+
+      <!-- Header -->
+      
+      <img class="img-responsive" src="img/profile.png" alt="">
+      <h3>Marcelo de Barros</h3>
+
     {% for project in site.data.settings.projects %}
       <a href="{{ site.github.url }}/{{ project.file }}">
         <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
@@ -9,5 +15,17 @@
         </div>
       </a>
     {% endfor %}
+
+      <!-- Link for Games -->
+      <h5>Games</h5>
+      {% for post in site.categories.games %}
+          <div class="col-sm-4 portfolio-item">
+              <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                  <div class="caption"><i class="portfolio-text">{{ post.alt }}</i></div>
+                  <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+              </a>
+          </div>
+      {% endfor %}
+
   </div>
 </section>

@@ -13,7 +13,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Personal portfolio'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -25,7 +25,7 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: #'UA-112060364-3'
 
 #-------------------------------
 # Disqus Section
@@ -33,7 +33,7 @@ google-analytics-ua: 'UA-112060364-3'
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'thathungrymind'
+  disqus_shortname: 'marcelomesmo'
 
 #-------------------------------
 # About Section
@@ -62,8 +62,8 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'artstation', link: '#'}
+- {icon: 'twitter', link: 'http://twitter.com/marcelomesmo'}
+- {icon: 'pencil', link: 'http://www.artstation.com/marcelomesmo'}
 - {icon: 'github', link: 'https://github.com/marcelomesmo'}
 - {icon: 'envelope', link: 'mailto:marcelo.barbosa@ifrn.edu.br'}
 
