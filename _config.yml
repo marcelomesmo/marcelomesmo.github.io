@@ -1,6 +1,5 @@
 # Site settings
 title: marcelomesmo
-email: marcelo.barbosa@ifrn.edu.br
 url: https://marcelomesmo.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
@@ -20,31 +19,19 @@ color:
 google_verify: 
 bing_verify:
 
-# Footer settings
-footer:
-  copyright: Marcelo de Barros
-  contact: Contact Me
-  social: Around the Web
-  tools: Tools
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/marcelomesmo
-  - title: pencil
-    url: http://www.artstation.com/marcelomesmo
-  - title: github
-    url: http://github.com/marcelomesmo
-
-# Postal address (add as many lines as necessary)
-email: marcelo.barbosa [at] ifrn.edu.br
-
-# Credits content
-tools: 
-  - line: Sublime Text
-  - line: Construct 3
-  - line: Aseprite
-  - line: Photoshop
+#  - title: twitter
+#    url: 
+#  - title: pencil
+#    url: 
+#  - title: github
+#    url: 
+#social:
+- {icon: 'twitter', link: 'http://twitter.com/marcelomesmo'}
+- {icon: 'artstation', link: 'http://www.artstation.com/marcelomesmo'}
+- {icon: 'github', link: 'http://github.com/marcelomesmo'}
+- {icon: 'envelope', link: 'mailto:marcelo.barbosa@ifrn.edu.br'}
 
 # Build settings
 markdown: kramdown
