@@ -7,18 +7,27 @@
       <h4>Portfolio</h4>
 
       <h5>Games</h5>
-    {% for project in site.data.settings.projects %}
-      <a href="{{ site.github.url }}/{{ project.file }}">
-        <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
-          <div class="thumb-overlay">
-            <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+      {% for project in site.data.settings.projects %}
+        <a href="{{ site.github.url }}/{{ project.file }}">
+          <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
+            <div class="thumb-overlay">
+              <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+            </div>
           </div>
-        </div>
-      </a>
-    {% endfor %}
+        </a>
+      {% endfor %}
 
       <!-- Link for projects -->
       <h5>Projects</h5>
+      {% for project in site.categories.projects %}
+        <a href="{{ site.github.url }}/{{ project.file }}">
+          <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
+            <div class="thumb-overlay">
+              <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+            </div>
+          </div>
+        </a>
+      {% endfor %}
       {% for post in site.categories.games %}
           <div class="col-sm-4 portfolio-item">
               <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -29,16 +38,10 @@
       {% endfor %}
 
        <!-- IFRN -->
-      <h4>Classroom</h5>
-                <h6>Slides & Material [PT-BR]: </h6><a href="https://www.dropbox.com/sh/166f9p90dmsj4yj/AABJKPkM8yfNz7OLT7cDPtdda?dl=0" target="_blank">
-                    Dropbox.
-                </a>
-                <h6>GameDev Workshop: </h6><a href="https://marcelomesmo.github.io/oficina" target="_blank">
-                    All projects.
-                </a>
-                <h6>Influence Map: </h6><a href="https://marcelomesmo.github.io/img/influencemap/mapa-de-influencia-BIG.gif" target="_blank">
-                    See here.
-                </a>
+      <h4>Classroom</h4>
+      <h6>Slides & Material [PT-BR]: </h6><a href="https://www.dropbox.com/sh/166f9p90dmsj4yj/AABJKPkM8yfNz7OLT7cDPtdda?dl=0" target="_blank"> Dropbox. </a>
+      <h6>GameDev Workshop: </h6><a href="https://marcelomesmo.github.io/oficina" target="_blank"> All projects.</a>
+      <h6>Influence Map: </h6><a href="https://marcelomesmo.github.io/img/influencemap/mapa-de-influencia-BIG.gif" target="_blank">  See here. </a>
 
   </div>
 </section>
