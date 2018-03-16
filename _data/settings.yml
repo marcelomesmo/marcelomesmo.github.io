@@ -51,12 +51,17 @@ contact: >
 #-------------------------------
 # Work Section
 
+games:
+- {name: 'Monsters!', folder: 'game-1', file: 'games/game-1.html'}
+- {name: 'Dr. BloodStrike', folder: 'game-2', file: 'games/game-2.html'}
+- {name: 'Colours (Not available)', folder: 'game-3', file: 'games/game-3.html'}
+- {name: 'NONAME (Not available)', folder: 'game-4', file: 'games/game-4.html'}
+- {name: 'Brawler`s Guild (Not available)', folder: 'game-5', file: 'games/game-5.html'}
+- {name: 'Death Tarot of Memory', folder: 'game-6', file: 'games/game-6.html'}
+
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Reis (Game Engine)', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'MuSSE', folder: 'proj-2', file: 'projects/proj-2.html'}
 
 #-------------------------------
 # Contact Section
