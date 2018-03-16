@@ -1,38 +1,17 @@
-# Site settings
-title: marcelomesmo
-url: https://marcelomesmo.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-meta_author: de Barros Marcelo
-
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: marcelomesmo
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: f46a50 #80B3FF
-  primary-rgb: "244,106,80" #"128,179,255"
-  secondary: 4c4147 #FD6E8A
-  secondary-dark: 352b31 #A2122F
-
-google_verify: 
-bing_verify:
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-#  - title: twitter
-#    url: 
-#  - title: pencil
-#    url: 
-#  - title: github
-#    url: 
-#social:
-- {icon: 'twitter', link: 'http://twitter.com/marcelomesmo'}
-- {icon: 'artstation', link: 'http://www.artstation.com/marcelomesmo'}
-- {icon: 'github', link: 'http://github.com/marcelomesmo'}
-- {icon: 'envelope', link: 'mailto:marcelo.barbosa@ifrn.edu.br'}
-
 # Build settings
+
 markdown: kramdown
-permalink: pretty
+permalink: none
+plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+port: 4000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		           "Portfolio Jekyll Theme"
+description:	       "Powered by Jekyll and GitHub Pages"
+author:              "Paul Le"

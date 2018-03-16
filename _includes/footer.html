@@ -1,22 +1,14 @@
-    <!-- Footer -->
-    <footer class="text-center">
-        <div class="footer-wrap">
-            <!--<div class="footer-tagline">
-                <p>{{ site.data.settings.footer }}</p>
-            </div> -->
-            <div class="social-media">
-                <nav>
-                {% for item in site.social %}
-                  <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-                {% endfor %}
-                </nav>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-    <div class="scroll-top page-scroll visible-xs visible-sm">
-        <a class="btn btn-primary" href="#page-top">
-            <i class="fa fa-chevron-up"></i>
-        </a>
+<footer>
+  <div class="footer-wrap">
+    <div class="footer-tagline">
+      <p>{{ site.data.settings.footer }}</p>
     </div>
+    <div class="social-media">
+      <nav>
+        {% for item in site.data.settings.social %}
+          <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+        {% endfor %}
+      </nav>
+    </div>
+  </div>
+</footer>
