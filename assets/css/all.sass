@@ -4,6 +4,8 @@
 @import '1-tools/-tools-dir'
 
 $projects: {% for project in site.data.settings.projects %} "{{ project.folder }}", {% endfor %}
+$games: {% for games in site.data.settings.games %} "{{ games.folder }}", {% endfor %}
+$oficina: "oficina"
 
 //------------------------------------------------
 // Set some colors as sass variables
