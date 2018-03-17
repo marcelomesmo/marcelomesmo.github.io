@@ -15,9 +15,7 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 > ## 2017
 
-<details>
-	<summary>Tema 1 : Cultura (plataforma)</summary>  
-  
+
 Jogos 3º ano Matutino  
   
 *Clique no nome do jogo para acessar.*  
@@ -40,7 +38,10 @@ Alunos | Jogo | Prêmios
  Guilherme, João Kennedy <br> Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |    
  Matheus Ricardo <br> Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |    
  Lucas <br> João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | ![Melhor Mecânica][mecanica] ![Melhor Uso do Tema][tema]   
-  
+
+<details>
+	<summary>Tema 1 : Cultura (plataforma)</summary>  
+    
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
