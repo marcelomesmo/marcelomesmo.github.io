@@ -9,12 +9,15 @@ layout: default
     	<!--{{ content }}-->
 
     {% for oficina in site.data.settings.oficinas %}
+
+              <strong>{{ oficina.name }} </strong>
+              
         <details>
         	<summary>{{oficina.name}}</summary>
         	{% include {{oficina.file}} %}
         </details>
     {% endfor %}
-teste
+
 	</div>
 
   </div>
