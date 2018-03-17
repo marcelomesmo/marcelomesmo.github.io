@@ -40,8 +40,12 @@ Jogos 3º ano Matutino
  Guilherme, João Kennedy <br> Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |    
  Matheus Ricardo <br> Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |    
  Lucas <br> João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | ![Melhor Mecânica][mecanica] ![Melhor Uso do Tema][tema]   
+<<<<<<< HEAD
 </table>
         
+=======
+          
+>>>>>>> a45539e75ced58a07f57ba730a9ef75e5d6b9794
 Jogos 3º ano Vespertino  
 
 <table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th> </tr>
@@ -63,9 +67,13 @@ Jogos 3º ano Vespertino
 | Bruna <br> Matheus | [Nordeste Adventure](https://mathaugust.github.io/NordesteAdventure) |  |
 </table>
 
+<<<<<<< HEAD
 </details>
 
 <details><summary>Tema 2 : Mensagem (Clique e Toque)</summary>
+=======
+Tema 2 : Mensagem (Clique e Toque)
+>>>>>>> a45539e75ced58a07f57ba730a9ef75e5d6b9794
 
 Jogos 3º ano Matutino  
 
@@ -113,9 +121,13 @@ Jogos 3º ano Vespertino
 | Savio | [SEM LINK]() |  |
 | Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
+<<<<<<< HEAD
 </details>
 
 <details><summary>Tema 3 : Livre</summary>
+=======
+Tema 3 : Livre
+>>>>>>> a45539e75ced58a07f57ba730a9ef75e5d6b9794
 
 Jogos 3º ano Matutino  
 
