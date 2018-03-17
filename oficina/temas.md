@@ -15,14 +15,13 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 > ## 2017
 
-<details>
-	<summary>Tema 1 : Cultura (plataforma)</summary>  
+#### Tema 1 : Cultura (plataforma)
    
 Jogos 3º ano Matutino  
   
 *Clique no nome do jogo para acessar.*  
   
-<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th> </tr>
+Alunos | Jogo | Prêmios  
 :------------- |:-------------|:-------------  
  Hoshana <br> Karine | [United Hungag](https://jeovanahoshana.github.io/UnitedHungag) |    
  Leonardo <br> Tan Hua Yu | [Guerreiros da Escandinávia](https://tanhuayu.github.io/Viking) | ![Melhor Jogo][melhor]   
@@ -40,15 +39,11 @@ Jogos 3º ano Matutino
  Guilherme, João Kennedy <br> Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |    
  Matheus Ricardo <br> Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |    
  Lucas <br> João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | ![Melhor Mecânica][mecanica] ![Melhor Uso do Tema][tema]   
-<<<<<<< HEAD
-</table>
+
         
-=======
-          
->>>>>>> a45539e75ced58a07f57ba730a9ef75e5d6b9794
 Jogos 3º ano Vespertino  
 
-<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th> </tr>
+| Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
 | Vitor Manoel <br> Quemuel | [A Caça ao Mito](https://vitin157.github.io/A%20caça%20ao%20mito) |  |
 | Alvaro <br> Elber | [Super Chef](https://AlvaroMD2016.github.io/Super%20Chef) |  |
@@ -65,21 +60,15 @@ Jogos 3º ano Vespertino
 | Caio <br> Savio | [An Indian Day](https://caioms.github.io/indio) |  |
 | Lucas <br> Thayna | [The Snake Woman](https://lucasrevoredo.github.io/SnakeWoman) |  |
 | Bruna <br> Matheus | [Nordeste Adventure](https://mathaugust.github.io/NordesteAdventure) |  |
-</table>
 
-<<<<<<< HEAD
-</details>
 
-<details><summary>Tema 2 : Mensagem (Clique e Toque)</summary>
-=======
-Tema 2 : Mensagem (Clique e Toque)
->>>>>>> a45539e75ced58a07f57ba730a9ef75e5d6b9794
+#### Tema 2 : Mensagem (Clique e Toque)
 
 Jogos 3º ano Matutino  
 
 *Clique no nome do jogo para acessar.*  
   
-<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th>
+| Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
 | José Victor <br> Karine | [Love&Code](https://zevictor.github.io/Love&Code) | ![Melhor Jogo][melhor]  |
 | Franklin <br> Mychellangello | [Carta: Uma Jornada Frágil](https://Mychellangello.github.io/Carta%20uma%20jornada%20frágil) | ![Destaque][mencao]  |
@@ -102,7 +91,7 @@ Jogos 3º ano Matutino
 
 Jogos 3º ano Vespertino  
 
-<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th>
+| Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
 | Lucas <br> Matheus  | [Run Juliana Run](https://lucasrevoredo.github.io/RunJulianaRun) |  |
 | Joziele <br> Islanne  | [Domination](https://Joozi.github.io/Domination) |  |
@@ -121,19 +110,14 @@ Jogos 3º ano Vespertino
 | Savio | [SEM LINK]() |  |
 | Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
-<<<<<<< HEAD
-</details>
 
-<details><summary>Tema 3 : Livre</summary>
-=======
-Tema 3 : Livre
->>>>>>> a45539e75ced58a07f57ba730a9ef75e5d6b9794
+#### Tema 3 : Livre
 
 Jogos 3º ano Matutino  
 
 *Clique no nome do jogo para acessar.*  
   
-<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th>
+| Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
 
 | Kennedy <br> Jefferson <br> Julio Cesar | [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/) | |
@@ -150,7 +134,7 @@ Jogos 3º ano Matutino
   
 Jogos 3º ano Vespertino  
 
-<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th>
+| Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
 | Caio <br> Álvaro <br> Sâmia | [Elements](https://alvaromd2016.github.io/Elements/) | |
 | Vitor Manoel <br> Elber <br> Elielton | [PUM](https://elielton90.github.io/PUM/) | |
@@ -162,8 +146,6 @@ Jogos 3º ano Vespertino
 | Maria Luiza <br> Joziele <br> Sávio | [Time IF](https://ortegagamer.github.io/GAMES/TimeIF/) | |
 | José Luiz <br> Erikson <br> Victor Rodrigues | [Ardenas Retake](https://jldifrn.github.io/ArdenasRetake/) | |
 | Lucas <br> Matheus | [SEM LINK]() | |
-
-</details>
   
 > ## 2018
 
