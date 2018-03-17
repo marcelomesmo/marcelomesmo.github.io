@@ -1,16 +1,16 @@
 <section>
-  <div class="thumb-container">
-      <!-- Header -->    
-      <img class="img-responsive" src="{{ site.github.url }}/{{site.data.settings.profilepic}}" alt="">
-      
-{% for oficina in site.data.settings.oficinas %}
+	<div class="thumb-container">
+    	<!-- Header -->    
+    	<img class="img-responsive" src="{{ site.github.url }}/{{site.data.settings.profilepic}}" alt="">
 
-          <strong>{{ oficina.name }} </strong>
-          
-    <details>
-    	<summary>{{oficina.name}}</summary>
-    	{% include {{oficina.file}} %}
-    </details>
-{% endfor %}
-  </div>
+		{% for oficina in site.data.settings.oficinas %}
+
+		    <strong>{{ oficina.name }} </strong>
+		          
+		    <details>
+		    	<summary>{{oficina.name}}</summary>
+		    	{% include {{oficina.file}} %}
+		    </details>
+		{% endfor %}
+ 	</div>
 </section>
