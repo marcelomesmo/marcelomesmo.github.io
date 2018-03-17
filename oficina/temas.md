@@ -61,9 +61,7 @@ Jogos 3º ano Vespertino
 | Lucas <br> Thayna | [The Snake Woman](https://lucasrevoredo.github.io/SnakeWoman) |  |
 | Bruna <br> Matheus | [Nordeste Adventure](https://mathaugust.github.io/NordesteAdventure) |  |
 
-</details>
-
-<details><summary>Tema 2 : Mensagem (Clique e Toque)</summary>
+Tema 2 : Mensagem (Clique e Toque)
 
 Jogos 3º ano Matutino  
 
@@ -111,9 +109,7 @@ Jogos 3º ano Vespertino
 | Savio | [SEM LINK]() |  |
 | Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
-</details>
-
-<details><summary>Tema 3 : Livre</summary>
+Tema 3 : Livre
 
 Jogos 3º ano Matutino  
 
