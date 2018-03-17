@@ -40,12 +40,7 @@ Alunos | Jogo | Prêmios
  Guilherme, João Kennedy <br> Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |    
  Matheus Ricardo <br> Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |    
  Lucas <br> João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | ![Melhor Mecânica][mecanica] ![Melhor Uso do Tema][tema]   
-
-</details>
-
-<details>
-	<summary>Tema 1 : Cultura (plataforma)</summary>  
-        
+          
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
@@ -69,7 +64,6 @@ Jogos 3º ano Vespertino
 </details>
 
 <details><summary>Tema 2 : Mensagem (Clique e Toque)</summary>
-<p>
 
 Jogos 3º ano Matutino  
 
@@ -117,11 +111,9 @@ Jogos 3º ano Vespertino
 | Savio | [SEM LINK]() |  |
 | Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
-</p>
 </details>
 
 <details><summary>Tema 3 : Livre</summary>
-<p>
 
 Jogos 3º ano Matutino  
 
