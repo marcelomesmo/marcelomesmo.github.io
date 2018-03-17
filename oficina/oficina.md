@@ -10,6 +10,19 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
   <a title="Prêmios"><img src="/images/oficina/premios2.png"></a>
 </figure>
 
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 
 > ## 2017
 
