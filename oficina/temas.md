@@ -41,7 +41,8 @@ Alunos | Jogo | Prêmios
 
 <details>
 	<summary>Tema 1 : Cultura (plataforma)</summary>  
-    
+  
+<p>      
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
