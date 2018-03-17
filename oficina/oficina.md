@@ -12,7 +12,6 @@ Reis Game Engine
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
 
 
-
 > ## 2017
 
 <details><summary>Tema 1 : Cultura (plataforma)</summary>
@@ -40,6 +39,9 @@ Jogos 3º ano Matutino
 | Guilherme, João Kennedy <br> Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |  |
 | Matheus Ricardo <br> Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |  |
 | Lucas <br> João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | ![Melhor Mecânica][mecanica] ![Melhor Uso do Tema][tema] |
+
+</p>
+</details>
 
 [melhor]: {{site.github.url}}/assets/img/oficina/melhor.png "Melhor Jogo"
 [arte]: {{site.github.url}}/assets/img/oficina/arte.png "Melhor Arte"

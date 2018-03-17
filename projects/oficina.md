@@ -10,3 +10,11 @@ Reis Game Engine
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+
+![teste][melhor]
+
+[melhor]: {{site.github.url}}/assets/img/oficina/melhor.png "Melhor Jogo"
+[arte]: {{site.github.url}}/assets/img/oficina/arte.png "Melhor Arte"
+[tema]: {{site.github.url}}/assets/img/oficina/criatividade.png "Melhor Uso do Tema"
+[mecanica]: {{site.github.url}}/assets/img/oficina/mecanica.png "Melhor Mecânica"
+[mencao]: {{site.github.url}}/assets/img/oficina/mencao.png "Menção Honrosa"
