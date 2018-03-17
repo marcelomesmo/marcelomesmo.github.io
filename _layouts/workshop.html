@@ -5,21 +5,9 @@ layout: default
 <section>
   <div class="work-container">
     <h4 class="project-title">{{ page.title }}</h4>
-    <div class="project-load">
-    	<!--{{ content }}-->
-
-    {% for oficina in site.data.settings.oficinas %}
-
-              <strong>{{ oficina.name }} </strong>
-              
-        <details>
-        	<summary>{{oficina.name}}</summary>
-        	{% include {{oficina.file}} %}
-        </details>
-    {% endfor %}
-
-	</div>
-
+    <div class="project-load">{{ content }}
+     {% include oficinas.html %}	
+    </div>
   </div>
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
