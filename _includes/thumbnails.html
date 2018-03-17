@@ -32,7 +32,7 @@
       <h5>Projects</h5>
       {% for project in site.data.settings.projects %}
         <a href="{{ site.github.url }}/{{ project.file }}">
-          <div class="thumb-unit" data-folder="{{ site.github.url }}/games/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
+          <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
             <div class="thumb-overlay">
               <strong>{{ project.name }} </strong>
             </div>
@@ -46,7 +46,7 @@
        <!-- IFRN -->
       <h4>Classroom</h4>
       <h5>Slides & Material [PT-BR]: <a href="https://www.dropbox.com/sh/166f9p90dmsj4yj/AABJKPkM8yfNz7OLT7cDPtdda?dl=0" target="_blank"> Get it here. </a></h5>
-      <h5>GameDev Workshop: <a href="https://marcelomesmo.github.io/oficina/oficina.html" target="_blank"> Find all projects.</a></h5>
+      <h5>GameDev Workshop: <a href="{{ site.github.url }}/oficina/oficina.html" target="_blank"> Find all projects.</a></h5>
       <h5>Influence Map: <a href="https://marcelomesmo.github.io/assets/img/influencemap/mapa-de-influencia-BIG.gif" target="_blank"> Get it here. </a></h5>
   </div>
 </section>
