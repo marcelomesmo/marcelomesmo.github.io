@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: workshop
 title: Oficina de Criação de Jogos Digitais
 tags: [temas]
 ---
@@ -9,14 +9,6 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 <figure>
   <a title="Prêmios"><img src="/images/oficina/premios2.png"></a>
 </figure>
-
-
-{% for year in site.categories.oficina %}
-    <details>
-		<summary>{{year.title}}</summary>
-		{{year.content}}
-	</details>
-{% endfor %}
 
 
 > ## 2017

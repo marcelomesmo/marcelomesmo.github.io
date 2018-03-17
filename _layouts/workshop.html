@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section>
+  <div class="work-container">
+    <h4 class="project-title">{{ page.title }}</h4>
+    <div class="project-load">{{ content }}</div>
+
+    {% for year in site.categories.oficina %}
+    <details>
+		<summary>{{year.title}}</summary>
+		{{year.content}}
+	</details>
+	{% endfor %}
+	
+  </div>
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</section>
+{% include footer.html %}

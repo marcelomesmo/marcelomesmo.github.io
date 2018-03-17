@@ -63,6 +63,8 @@ projects:
 - {name: 'Reis', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'MuSSE', folder: 'proj-2', file: 'projects/proj-2.html'}
 
+profilepic: 'assets/img/profile.png'
+
 #-------------------------------
 # Contact Section
 
