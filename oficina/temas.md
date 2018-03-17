@@ -7,6 +7,8 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 ![Prêmios]({{site.github.url}}/assets/img/oficina/premios2.png)
 
+![teste][melhor]
+
 [melhor]: {{site.github.url}}/assets/img/oficina/melhor.png "Melhor Jogo"
 [arte]: {{site.github.url}}/assets/img/oficina/arte.png "Melhor Arte"
 [tema]: {{site.github.url}}/assets/img/oficina/criatividade.png "Melhor Uso do Tema"
