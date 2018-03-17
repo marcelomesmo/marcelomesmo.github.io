@@ -39,8 +39,8 @@ Alunos | Jogo | Prêmios
  Guilherme, João Kennedy <br> Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |    
  Matheus Ricardo <br> Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |    
  Lucas <br> João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | ![Melhor Mecânica][mecanica] ![Melhor Uso do Tema][tema]   
+  
 
-        
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
@@ -88,6 +88,7 @@ Jogos 3º ano Matutino
 | Alexsandro | [Acerte o Desafio](https://alex-alves.github.io/AOD) |  |
 | Iara | [SEM LINK](https://link.github.io/nome) |  |
 | Maria Alice | [Recicle](https://Alicinhaa.github.io/Recicle) |  |
+  
 
 Jogos 3º ano Vespertino  
 
@@ -119,7 +120,6 @@ Jogos 3º ano Matutino
   
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:-------------|
-
 | Kennedy <br> Jefferson <br> Julio Cesar | [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/) | |
 | Guilherme <br> Franklin <br> Mychellangelo | [The Darkness Ascension](https://mychellangello.github.io/tdaf) | |
 | Karine <br> Zé Victor <br> Arnóbio | [Capacete Branco](https://zevictor.github.io/CapWhite/) | |
@@ -132,6 +132,7 @@ Jogos 3º ano Matutino
 | Maria Alice <br> Elicia <br> Ruth | [PerGame](https://eliciaa.github.io/Pergame) | |
 | Lucas <br> João Victor | [Invoke](https://lucas-manolo.github.io/Invoke) | |
   
+
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
@@ -146,6 +147,7 @@ Jogos 3º ano Vespertino
 | Maria Luiza <br> Joziele <br> Sávio | [Time IF](https://ortegagamer.github.io/GAMES/TimeIF/) | |
 | José Luiz <br> Erikson <br> Victor Rodrigues | [Ardenas Retake](https://jldifrn.github.io/ArdenasRetake/) | |
 | Lucas <br> Matheus | [SEM LINK]() | |
+  
   
 > ## 2018
 
