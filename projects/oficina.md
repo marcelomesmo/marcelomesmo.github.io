@@ -14,11 +14,12 @@ Reis Game Engine
 ![teste][melhor]
 
 <details>
-	<summary>Tema 1 : Cultura (plataforma)</summary>
+	<summary>Tema 1 : Cultura (plataforma)</summary>  
+  
 Jogos 3º ano Matutino  
-
-*Clique no nome do jogo para acessar.*
-
+  
+*Clique no nome do jogo para acessar.*  
+  
 | Alunos | Jogo | Prêmios |  
 |:------------- |:-------------|:-------------|  
 | Hoshana <br> Karine | [United Hungag](https://jeovanahoshana.github.io/UnitedHungag) |  |  
