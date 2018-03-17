@@ -22,7 +22,7 @@ Jogos 3º ano Matutino
   
 *Clique no nome do jogo para acessar.*  
   
-Alunos | Jogo | Prêmios  
+<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th> </tr>
 :------------- |:-------------|:-------------  
  Hoshana <br> Karine | [United Hungag](https://jeovanahoshana.github.io/UnitedHungag) |    
  Leonardo <br> Tan Hua Yu | [Guerreiros da Escandinávia](https://tanhuayu.github.io/Viking) | ![Melhor Jogo][melhor]   
@@ -40,10 +40,15 @@ Alunos | Jogo | Prêmios
  Guilherme, João Kennedy <br> Jefferson | [Faster than Song](https://guiegle.github.io/fullfaster) |    
  Matheus Ricardo <br> Felipe | [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino) |    
  Lucas <br> João Victor | [Bom apetite?](https://Lucas-Manolo.github.io/Bom%20Apetite!) | ![Melhor Mecânica][mecanica] ![Melhor Uso do Tema][tema]   
+<<<<<<< HEAD
+</table>
+        
+=======
           
+>>>>>>> a45539e75ced58a07f57ba730a9ef75e5d6b9794
 Jogos 3º ano Vespertino  
 
-| Alunos | Jogo | Prêmios |
+<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th> </tr>
 |:------------- |:-------------|:---:|
 | Vitor Manoel <br> Quemuel | [A Caça ao Mito](https://vitin157.github.io/A%20caça%20ao%20mito) |  |
 | Alvaro <br> Elber | [Super Chef](https://AlvaroMD2016.github.io/Super%20Chef) |  |
@@ -60,14 +65,21 @@ Jogos 3º ano Vespertino
 | Caio <br> Savio | [An Indian Day](https://caioms.github.io/indio) |  |
 | Lucas <br> Thayna | [The Snake Woman](https://lucasrevoredo.github.io/SnakeWoman) |  |
 | Bruna <br> Matheus | [Nordeste Adventure](https://mathaugust.github.io/NordesteAdventure) |  |
+</table>
 
+<<<<<<< HEAD
+</details>
+
+<details><summary>Tema 2 : Mensagem (Clique e Toque)</summary>
+=======
 Tema 2 : Mensagem (Clique e Toque)
+>>>>>>> a45539e75ced58a07f57ba730a9ef75e5d6b9794
 
 Jogos 3º ano Matutino  
 
 *Clique no nome do jogo para acessar.*  
   
-| Alunos | Jogo | Prêmios |
+<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th>
 |:------------- |:-------------|:-------------|
 | José Victor <br> Karine | [Love&Code](https://zevictor.github.io/Love&Code) | ![Melhor Jogo][melhor]  |
 | Franklin <br> Mychellangello | [Carta: Uma Jornada Frágil](https://Mychellangello.github.io/Carta%20uma%20jornada%20frágil) | ![Destaque][mencao]  |
@@ -90,7 +102,7 @@ Jogos 3º ano Matutino
 
 Jogos 3º ano Vespertino  
 
-| Alunos | Jogo | Prêmios |
+<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th>
 |:------------- |:-------------|:-------------|
 | Lucas <br> Matheus  | [Run Juliana Run](https://lucasrevoredo.github.io/RunJulianaRun) |  |
 | Joziele <br> Islanne  | [Domination](https://Joozi.github.io/Domination) |  |
@@ -109,13 +121,19 @@ Jogos 3º ano Vespertino
 | Savio | [SEM LINK]() |  |
 | Sâmia | [Froppy](https://samiakarima.github.io/Froppy) |  |
 
+<<<<<<< HEAD
+</details>
+
+<details><summary>Tema 3 : Livre</summary>
+=======
 Tema 3 : Livre
+>>>>>>> a45539e75ced58a07f57ba730a9ef75e5d6b9794
 
 Jogos 3º ano Matutino  
 
 *Clique no nome do jogo para acessar.*  
   
-| Alunos | Jogo | Prêmios |
+<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th>
 |:------------- |:-------------|:-------------|
 
 | Kennedy <br> Jefferson <br> Julio Cesar | [Pense se você puder](https://jefferson141.github.io/Pense%20se%20voc%C3%AA%20puder/) | |
@@ -132,7 +150,7 @@ Jogos 3º ano Matutino
   
 Jogos 3º ano Vespertino  
 
-| Alunos | Jogo | Prêmios |
+<table> <tr> <th>Alunos</th> <th>Jogo</th> <th>Prêmios</th>
 |:------------- |:-------------|:-------------|
 | Caio <br> Álvaro <br> Sâmia | [Elements](https://alvaromd2016.github.io/Elements/) | |
 | Vitor Manoel <br> Elber <br> Elielton | [PUM](https://elielton90.github.io/PUM/) | |
