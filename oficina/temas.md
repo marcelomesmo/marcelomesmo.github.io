@@ -45,8 +45,7 @@ Alunos | Jogo | Prêmios
 
 <details>
 	<summary>Tema 1 : Cultura (plataforma)</summary>  
-  
-<p>      
+        
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
@@ -158,7 +157,6 @@ Jogos 3º ano Vespertino
 | José Luiz <br> Erikson <br> Victor Rodrigues | [Ardenas Retake](https://jldifrn.github.io/ArdenasRetake/) | |
 | Lucas <br> Matheus | [SEM LINK]() | |
 
-</p>
 </details>
   
 > ## 2018
