@@ -8,12 +8,11 @@ layout: default
     <div class="project-load">
     	<!--{{ content }}-->
 
-    {% for year in site.categories.oficina %}
-    <details>
-		<summary>{{year.title}}</summary>
-		{{year.content}}
-	</details>
-	{% endfor %}
+    {% for oficina in site.data.settings.oficinas %}
+        <details>
+        	<summary>{{oficina.name}}</summary>
+        	{% include {{oficina.file}} %}
+    {% endfor %}
 
 	</div>
 
