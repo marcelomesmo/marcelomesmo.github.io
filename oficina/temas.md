@@ -17,8 +17,7 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 <details>
 	<summary>Tema 1 : Cultura (plataforma)</summary>  
-  
-<span>   
+   
 Jogos 3º ano Matutino  
   
 *Clique no nome do jogo para acessar.*  
