@@ -7,11 +7,11 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 
 ![Prêmios]({{site.github.url}}/assets/img/oficina/premios2.png)
 
-[melhor]: {{site.github.url}}/assets/img/oficina/melhor.png
-[arte]: {{site.github.url}}/assets/img/oficina/arte.png
-[tema]: assets/img/oficina/criatividade.png
-[mecanica]: assets/img/oficina/mecanica.png
-[mencao]: assets/img/oficina/mencao.png
+[melhor]: {{site.github.url}}/assets/img/oficina/melhor.png "Melhor Jogo"
+[arte]: {{site.github.url}}/assets/img/oficina/arte.png "Melhor Arte"
+[tema]: {{site.github.url}}/assets/img/oficina/criatividade.png "Melhor Uso do Tema"
+[mecanica]: {{site.github.url}}/assets/img/oficina/mecanica.png "Melhor Mecânica"
+[mencao]: {{site.github.url}}/assets/img/oficina/mencao.png "Menção Honrosa"
 
 > ## 2017
 
@@ -161,3 +161,9 @@ Jogos 3º ano Vespertino
 
 > ## 2019
 
+
+[melhor]: {{site.github.url}}/assets/img/oficina/melhor.png "Melhor Jogo"
+[arte]: {{site.github.url}}/assets/img/oficina/arte.png "Melhor Arte"
+[tema]: {{site.github.url}}/assets/img/oficina/criatividade.png "Melhor Uso do Tema"
+[mecanica]: {{site.github.url}}/assets/img/oficina/mecanica.png "Melhor Mecânica"
+[mencao]: {{site.github.url}}/assets/img/oficina/mencao.png "Menção Honrosa"
