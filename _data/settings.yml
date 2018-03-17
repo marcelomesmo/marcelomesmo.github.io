@@ -65,9 +65,6 @@ projects:
 
 profilepic: 'assets/img/profile.png'
 
-oficinas:
-- {name: '2017', file: 'oficina/oficina-1.html'}
-- {name: '2018', file: 'oficina/oficina-2.html'}
 
 #-------------------------------
 # Contact Section

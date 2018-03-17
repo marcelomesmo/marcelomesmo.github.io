@@ -1,5 +1,5 @@
 ---
-layout: workshop
+layout: post
 title: Oficina de Criação de Jogos Digitais
 ---
 
