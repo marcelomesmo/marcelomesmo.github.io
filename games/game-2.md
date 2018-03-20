@@ -17,7 +17,7 @@ Unlock new monsters as your score increases.
    
 [Download at Google Play](#)  
    
-![](assets/img/games/game-2/monsters1.png)  
+![](https://marcelomesmo.github.io/assets/img/games/game-2/monsters1.png)  
   
 
-![](assets/img/games/game-2/monsters2.png)  
+![](https://marcelomesmo.github.io/assets/img/games/game-2/monsters2.png)  
