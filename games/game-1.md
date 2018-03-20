@@ -1,13 +1,16 @@
 ---
-title: TESTE
-layout: default
-modal-id: 1
-date: 2018-02-22
-img: cabin.png
-alt: Dr. BloodStrike
-project-date: April 2018
-client: 
-category: Game Development
-description: A mix of strategy and platform shooter. Have fun! <a href="https://marcelomesmo.github.io/DrBS">Play Online</a>. <a href="https://marcelomesmo.github.io/DrBS">Download at Google Play!</a>
-
+layout: post
+title: 'Dr. BloodStrike'
 ---
+
+A mix of strategy and platform shooter.    
+  
+[Play Online](#)  
+   
+[Download at Google Play](#)  
+   
+Create your own strategy to win over than 30 levels.  
+{% include image.html url="#" image="projects/game-1/dr2.png" text="Play demo" %}  
+  
+Carefully place powerups on the scenario to defeat enemies.  
+{% include image.html url="#" image="projects/game-1/dr3.png" text="Play demo" %}  

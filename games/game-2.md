@@ -1,13 +1,23 @@
 ---
-title: MONSTERS!
-layout: default
-modal-id: 2
-date: 2018-02-22
-img: cake.png
-alt: Monsters!
-project-date: April 2018
-client: 
-category: Game Development
-description: Create Monsters, go nuts <a href="https://marcelomesmo.github.io/Monsters">Play Online</a>. <a href="https://marcelomesmo.github.io/Monsters">Download at Google Play!</a>
-
+layout: post
+title: 'MONSTERS!'
 ---
+  
+MONSTERS! at my living room  
+  
+Death accidentally handed all his powers to you. Now you are his slave.  
+  
+Create monsters and mysterious creatures in this awesome mix of memory match and rithm game.    
+  
+Use magic ingredients to make the best mixes.  
+  
+Unlock new monsters as your score increases.  
+
+[Play Online](#)  
+   
+[Download at Google Play](#)  
+   
+![](assets/games/game-2/monsters1.png)  
+  
+
+![](assets/games/game-2/monsters2.png)  

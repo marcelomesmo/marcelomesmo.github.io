@@ -3,8 +3,12 @@ layout: post
 title: 'MuSSE'
 ---
 
-MuSSE: Multisized SpriteSheet Exporter
-
-
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+MuSSE: Multi-sized SpriteSheet meta-data Exporter  
+  
+MuSSE is a tool developed to extract XML data from sprite sheet images with non-uniform – multi-sized – sprites.
+MuSSE (Multi-sized Sprite Sheet meta-data Exporter) is based on a Blob detection algorithm that incorporates a connected-component labeling system.  
+  
+  
+You can check my published paper [here](http://www.sbgames.org/sbgames2015/anaispdf/computacao-full/147508.pdf).  
+  
+You can follow it on [Github](https://github.com/marcelomesmo/MuSSE).  
