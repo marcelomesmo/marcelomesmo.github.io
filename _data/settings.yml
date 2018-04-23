@@ -64,7 +64,7 @@ projects:
 - {name: 'MuSSE', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'HEEG', folder: 'proj-3', file: 'projects/proj-3.html'}
 
-profilepic: 'assets/img/profile.png'
+profilepic: 'assets/img/profile3.png'
 
 #-------------------------------
 # Contact Section
