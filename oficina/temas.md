@@ -28,7 +28,7 @@ Alunos | Jogo | Prêmios
  Ruana <br> Eriky <br> Claudia | [Dog Challenge](https://ruanaffff.github.io/CAOZINHOGUB) |    
  Hádssa <br> Raíssa de Jesus <br> Raíssa Martins | [Astral Plane](https://raixasantos.github.io/AstralPlane) |    
   
-
+  
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
@@ -39,11 +39,32 @@ Jogos 3º ano Vespertino
 | Victória <br> Maria Alexsandra | [Differential Parachuting](http://armindaa.github.io/JogoDeParaquedismo) |  |
 | Maria Vitória <br> Wesley Billy | [Against the Flow](http://MaviCampos.github.io/ATF) |  |
 | Isaque <br> Pedro Lopes | [Soul Archer](https://ronaque.github.io/SoulArcher) |  |
-| Anthony <br> William | [SEM NOME](SEM LINK) |  |
-| Cicero <br> João Paulo | [SEM NOME](SEM LINK) |  |
-| Lemuel <br> Gabriel Galvão | [SEM NOME](SEM LINK) |  |
+| Anthony <br> William | [SuperDino](https://lemuelmarques.github.io/SUPERDINO/) |  |
+| Cicero <br> João Paulo | [Fruts](https://ciceroc.github.io/Game%20fruts/) |  |
+| Lemuel <br> Gabriel Galvão | [NSM](https://lemuelmarques.github.io/NSMTHEGAME) |  |
 | Maria Alice | [Climbing Courage](https://alicinhaa.github.io/Climbcou) |  |
   
+  
+#### Tema 1 : Coragem (mobile)  
+   
+Jogos 3º ano Matutino  
+  
+*Clique no nome do jogo para acessar.*  
+  
+Alunos | Jogo | Prêmios  
+:------------- |:-------------|:-------------  
+ Danilo <br> Wanderson <br> Claudia | [Nome](https://LINK.github.io/Nome) |    
+ Pedro <br> Raíssa de Jesus <br> Sebastião | [Nome](https://LINK.github.io/Nome) |    
+ Tawan <br> Ruana <br> Raíssa Martins | [Dog Challenge](https://LINK.github.io/Nome) |    
+ Hádssa <br> Eriky | [Nome](https://LINK.github.io/Nome) |  
+ Sávio | [Nome](https://LINK.github.io/Nome) |   
+  
+  
+Jogos 3º ano Vespertino  
+
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:---:|
+| x <br> y <br> z | [Nome](https://LINK.github.io/Nome) |  |  
   
 > ## 2017
 
