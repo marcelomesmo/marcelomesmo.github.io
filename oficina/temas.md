@@ -12,7 +12,39 @@ Objetivo do curso é desenvolver jogos utilizando motores de baixo esforço, com
 [tema]: {{site.github.url}}/assets/img/oficina/criatividade.png "Melhor Uso do Tema"
 [mecanica]: {{site.github.url}}/assets/img/oficina/mecanica.png "Melhor Mecânica"
 [mencao]: {{site.github.url}}/assets/img/oficina/mencao.png "Menção Honrosa"
+  
+## 2018  
+  
+#### Tema 1 : Coragem (mobile)  
+   
+Jogos 3º ano Matutino  
+  
+*Clique no nome do jogo para acessar.*  
+  
+Alunos | Jogo | Prêmios  
+:------------- |:-------------|:-------------  
+ Danilo <br> Sebastião | [CrocoBite](https://danilo25.github.io/CrocoBite) |    
+ Wanderson <br> Pedro <br> Tawan | [Midnight Despair](https://scarlleon.github.io/MidnightDespair) |    
+ Ruana <br> Eriky <br> Claudia | [Dog Challenge](https://ruanaffff.github.io/CAOZINHOGUB) |    
+ Hádssa <br> Raíssa de Jesus <br> Raíssa Martins | [Astral Plane](https://raixasantos.github.io/AstralPlane) |    
+  
 
+Jogos 3º ano Vespertino  
+
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:---:|
+| Maciel <br> Eloisa <br> Pedro Galdino | [Vou Contar até 3!](https://maciellima.github.io/VouContarAte3) |  |
+| Elionilton <br> Marcelo | [Death Knife]( https://mestredosmagos.github.io/jogodafaca) |  |
+| João Vitor <br> Gabriel Félix | [Beware of the Darkness](https://beladona-games.github.io/botd-j1) |  |
+| Victória <br> Maria Alexsandra | [Differential Parachuting](http://armindaa.github.io/JogoDeParaquedismo) |  |
+| Maria Vitória <br> Wesley Billy | [Against the Flow](http://MaviCampos.github.io/ATF) |  |
+| Isaque <br> Pedro Lopes | [Soul Archer](https://ronaque.github.io/SoulArcher) |  |
+| Anthony <br> William | [SEM NOME](SEM LINK) |  |
+| Cicero <br> João Paulo | [SEM NOME](SEM LINK) |  |
+| Lemuel <br> Gabriel Galvão | [SEM NOME](SEM LINK) |  |
+| Maria Alice | [Climbing Courage](https://alicinhaa.github.io/Climbcou) |  |
+  
+  
 > ## 2017
 
 #### Tema 1 : Cultura (plataforma)
