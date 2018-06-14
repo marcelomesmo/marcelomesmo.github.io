@@ -45,7 +45,7 @@ Jogos 3º ano Vespertino
 | Maria Alice | [Climbing Courage](https://alicinhaa.github.io/Climbcou) |  |
   
   
-#### Tema 1 : Coragem (mobile)  
+#### Tema 2 : Coragem (mobile)  
    
 Jogos 3º ano Matutino  
   
@@ -64,8 +64,17 @@ Jogos 3º ano Vespertino
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| x <br> y <br> z | [Nome](https://LINK.github.io/Nome) |  |  
+| Maria Eloisa <br> Cicero | [Nome](https://LINK.github.io/Nome) |  
+| Maria Vitoria <br> Maciel | [Nome](https://LINK.github.io/Nome) |    
+| João Paulo <br> Wesley | [Nome](https://LINK.github.io/Nome) |  
+| Lemuel <br> Elionilton | [Nome](https://LINK.github.io/Nome) |  
+| Pedro Lopes <br> Sandrinha | [Nome](https://LINK.github.io/Nome) |  
+| Marcelo <br> Gabriel Galvão | [Nome](https://LINK.github.io/Nome) |  
+| Anthony <br> Gabriel Felix | [Nome](https://LINK.github.io/Nome) |    
+| Victória <br> Isaque | [Nome](https://LINK.github.io/Nome) |    
+| William <br> João Vitor <br> Pedro Galdino | [Nome](https://LINK.github.io/Nome) |  
   
+
 > ## 2017
 
 #### Tema 1 : Cultura (plataforma)
