@@ -23,26 +23,26 @@ Jogos 3º ano Matutino
   
 Alunos | Jogo | Prêmios  
 :------------- |:-------------|:-------------  
- Danilo <br> Sebastião | [CrocoBite](https://danilo25.github.io/CrocoBite) |    
+ Danilo <br> Sebastião | [CrocoBite](https://danilo25.github.io/CrocoBite) | ![Melhor Arte][arte] ![Melhor Uso do Tema][tema]       
  Wanderson <br> Pedro <br> Tawan | [Midnight Despair](https://scarlleon.github.io/MidnightDespair) |    
- Ruana <br> Eriky <br> Claudia | [Dog Challenge](https://ruanaffff.github.io/CAOZINHOGUB) |    
- Hádssa <br> Raíssa de Jesus <br> Raíssa Martins | [Astral Plane](https://raixasantos.github.io/AstralPlane) |    
+ Ruana <br> Eriky <br> Claudia | [Dog Challenge](https://ruanaffff.github.io/CAOZINHOGUB) | ![Melhor Jogo][melhor]    
+ Hádssa <br> Raíssa de Jesus <br> Raíssa Martins | [Astral Plane](https://raixasantos.github.io/AstralPlane) | ![Melhor Mecânica][mecanica]  
   
   
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| Maciel <br> Eloisa <br> Pedro Galdino | [Vou Contar até 3!](https://maciellima.github.io/VouContarAte3) |  |
-| Elionilton <br> Marcelo | [Death Knife]( https://mestredosmagos.github.io/jogodafaca) |  |
-| João Vitor <br> Gabriel Félix | [Beware of the Darkness](https://beladona-games.github.io/botd-j1) |  |
-| Victória <br> Maria Alexsandra | [Differential Parachuting](http://armindaa.github.io/JogoDeParaquedismo) |  |
-| Maria Vitória <br> Wesley Billy | [Against the Flow](http://MaviCampos.github.io/ATF) |  |
-| Isaque <br> Pedro Lopes | [Soul Archer](https://ronaque.github.io/SoulArcher) |  |
-| Anthony <br> William | [SuperDino](https://lemuelmarques.github.io/SUPERDINO/) |  |
-| Cicero <br> João Paulo | [Fruts](https://ciceroc.github.io/Game%20fruts/) |  |
-| Lemuel <br> Gabriel Galvão | [NSM](https://lemuelmarques.github.io/NSMTHEGAME) |  |
-| Maria Alice | [Climbing Courage](https://alicinhaa.github.io/Climbcou) |  |
+| Maciel <br> Eloisa <br> Pedro Galdino | [Vou Contar até 3!](https://maciellima.github.io/VouContarAte3) | ![Melhor Jogo][melhor] ![Melhor Uso do Tema][tema]  
+| Elionilton <br> Marcelo | [Death Knife]( https://mestredosmagos.github.io/jogodafaca) |  
+| João Vitor <br> Gabriel Félix | [Beware of the Darkness](https://beladona-games.github.io/botd-j1) | ![Melhor Mecânica][mecanica]   
+| Victória <br> Maria Alexsandra | [Differential Parachuting](http://armindaa.github.io/JogoDeParaquedismo) |  
+| Maria Vitória <br> Wesley Billy | [Against the Flow](http://MaviCampos.github.io/ATF) |  
+| Isaque <br> Pedro Lopes | [Soul Archer](https://ronaque.github.io/SoulArcher) | ![Melhor Arte][arte]  
+| Anthony <br> William | [SuperDino](https://lemuelmarques.github.io/SUPERDINO/) |  
+| Cicero <br> João Paulo | [Fruts](https://ciceroc.github.io/Game%20fruts/) |  
+| Lemuel <br> Gabriel Galvão | [NSM](https://lemuelmarques.github.io/NSMTHEGAME) | ![Destaque][mencao]  
+| Maria Alice | [Climbing Courage](https://alicinhaa.github.io/Climbcou) |  
   
   
 #### Tema 2 : Coragem (mobile)  
@@ -55,7 +55,7 @@ Alunos | Jogo | Prêmios
 :------------- |:-------------|:-------------  
  Danilo <br> Wanderson <br> Claudia | [Nome](https://LINK.github.io/Nome) |    
  Pedro <br> Raíssa de Jesus <br> Sebastião | [Nome](https://LINK.github.io/Nome) |    
- Tawan <br> Ruana <br> Raíssa Martins | [Dog Challenge](https://LINK.github.io/Nome) |    
+ Tawan <br> Ruana <br> Raíssa Martins | [Nome](https://LINK.github.io/Nome) |    
  Hádssa <br> Eriky | [Nome](https://LINK.github.io/Nome) |  
  Sávio | [Nome](https://LINK.github.io/Nome) |   
   
@@ -74,7 +74,7 @@ Jogos 3º ano Vespertino
 | Victória <br> Isaque | [Nome](https://LINK.github.io/Nome) |    
 | William <br> João Vitor <br> Pedro Galdino | [Nome](https://LINK.github.io/Nome) |  
   
-
+  
 > ## 2017
 
 #### Tema 1 : Cultura (plataforma)
