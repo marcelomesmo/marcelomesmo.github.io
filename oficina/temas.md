@@ -45,7 +45,7 @@ Jogos 3º ano Vespertino
 | Maria Alice | [Climbing Courage](https://alicinhaa.github.io/Climbcou) |  
   
   
-#### Tema 2 : Coragem (mobile)  
+#### Tema 2 : Companheirismo (plataforma)  
    
 Jogos 3º ano Matutino  
   
