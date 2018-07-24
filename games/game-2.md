@@ -10,4 +10,4 @@ A horror themed memory game.
   
 [Play Online](https://marcelomesmo.itch.io/dark-tarot-of-memory)   
    
-[Download at Google Play](#)(SOON)  
+[Download at Google Play](https://play.google.com/store/apps/details?id=com.tapiocastudio.dtm)  

@@ -3,11 +3,10 @@ layout: post
 title: 'MONSTERS!'
 ---
   
-MONSTERS! at my living room  
+MONSTERS! at My Living Room  
   
-  
-![](/assets/img/games/game-4/monstersshowcase.gif)  
 Death accidentally gave all his powers to you. Now you are his slave.  
+![](/assets/img/games/game-4/monstersshowcase.gif)  
   
 Create monsters and mysterious creatures in this awesome mix of memory match and rhythm game.  
   

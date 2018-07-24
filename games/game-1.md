@@ -3,8 +3,6 @@ layout: post
 title: 'Hekura'
 ---
   
-Hekura  
-  
 Lost souls and ancestral spirits wander this land.  
 
 When corruption reigns, ghosts from the pasts help us clean the evil growing.  
@@ -16,5 +14,3 @@ Find different ghosts to get new abilities.
 Use their power to find your way out.  
     
 [Play Online](#)(SOON)  
-   
-[Download at Google Play](#)(SOON)  
