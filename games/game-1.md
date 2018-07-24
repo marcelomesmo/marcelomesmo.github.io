@@ -5,9 +5,16 @@ title: 'Hekura'
   
 Hekura  
   
-![](/assets/img/games/game-1/example1.png)  
-Description.  
+Lost souls and ancestral spirits wander this land.  
+
+When corruption reigns, ghosts from the pasts help us clean the evil growing.  
+
+![](/assets/img/games/game-1/hekura1.gif)  
+Find different ghosts to get new abilities.  
   
-[Play Online](https://marcelomesmo.itch.io/hekura)   
+![](/assets/img/games/game-1/hekura2.gif)  
+Use their power to find your way out.  
+    
+[Play Online](#)(SOON)  
    
 [Download at Google Play](#)(SOON)  
