@@ -53,10 +53,10 @@ Jogos 3º ano Matutino
   
 Alunos | Jogo | Prêmios  
 :------------- |:-------------|:-------------  
- Danilo <br> Wanderson <br> Claudia | [Nome](https://LINK.github.io/Nome) |    
- Pedro <br> Raíssa de Jesus <br> Sebastião | [Nome](https://LINK.github.io/Nome) |    
- Tawan <br> Ruana <br> Raíssa Martins | [Nome](https://LINK.github.io/Nome) |    
- Hádssa <br> Eriky | [Nome](https://LINK.github.io/Nome) |  
+ Danilo <br> Wanderson <br> Claudia | [Size Companions](https://LINK.github.io/Nome) |    
+ Pedro <br> Raíssa de Jesus <br> Sebastião | [ForU](https://LINK.github.io/Nome) |    
+ Tawan <br> Ruana <br> Raíssa Martins | [The Sweet Escape](https://LINK.github.io/Nome) |    
+ Hádssa <br> Eriky | [Earth Half](https://LINK.github.io/Nome) |  
  Sávio | [Nome](https://LINK.github.io/Nome) |   
   
   
@@ -64,15 +64,15 @@ Jogos 3º ano Vespertino
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| Maria Eloisa <br> Cicero | [Nome](https://LINK.github.io/Nome) |  
-| Maria Vitoria <br> Maciel | [Nome](https://LINK.github.io/Nome) |    
-| João Paulo <br> Wesley | [Nome](https://LINK.github.io/Nome) |  
-| Lemuel <br> Elionilton | [Nome](https://LINK.github.io/Nome) |  
-| Pedro Lopes <br> Sandrinha | [Nome](https://LINK.github.io/Nome) |  
-| Marcelo <br> Gabriel Galvão | [Nome](https://LINK.github.io/Nome) |  
-| Anthony <br> Gabriel Felix | [Nome](https://LINK.github.io/Nome) |    
-| Victória <br> Isaque | [Nome](https://LINK.github.io/Nome) |    
-| William <br> João Vitor <br> Pedro Galdino | [Nome](https://LINK.github.io/Nome) |  
+| Maria Eloisa <br> Cicero | [Gloomy Camp](https://LINK.github.io/Nome) |  
+| Maria Vitoria <br> Maciel | [Ecological Relantionships](https://LINK.github.io/Nome) |    
+| João Paulo <br> Wesley | [The Future Day](https://LINK.github.io/Nome) |  
+| Lemuel <br> Elionilton | [World Blocks](https://LINK.github.io/Nome) |  
+| Pedro Lopes <br> Sandrinha | [Survival Apocalipse](https://LINK.github.io/Nome) |  
+| Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://LINK.github.io/Nome) |  
+| Anthony <br> Gabriel Felix | [The Legend of Zestria](https://LINK.github.io/Nome) |    
+| Victória <br> Isaque | [The Wizard](https://LINK.github.io/Nome) |    
+| William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://LINK.github.io/Nome) |  
   
   
 > ## 2017

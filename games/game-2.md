@@ -1,20 +1,13 @@
 ---
 layout: post
-title: 'MONSTERS!'
+title: 'DTM'
 ---
   
-MONSTERS! at my living room  
+Dark Tarot of Memory  
   
-[Play Online](#)  
+![](/assets/img/games/game-2/example1.png)  
+A horror themed memory game.  
+  
+[Play Online](https://marcelomesmo.itch.io/death-tarot-of-memory)   
    
-[Download at Google Play](#)  
-  
-Death accidentally gave all his powers to you. Now you are his slave.  
-  
-Create monsters and mysterious creatures in this awesome mix of memory match and rhythm game.  
-  
-![](/assets/img/games/game-2/monsters1.png)  
-Use magic ingredients to make the best mixes.  
-  
-![](/assets/img/games/game-2/monsters1.png)  
-Unlock new monsters as your score increases.  
+[Download at Google Play](#)(SOON)  
