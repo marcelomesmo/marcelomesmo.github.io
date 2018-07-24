@@ -54,8 +54,8 @@ contact: >
 games:
 - {name: 'Hekura', folder: 'game-1', file: 'games/game-1.html'}
 - {name: 'Dark Tarot of Memory', folder: 'game-2', file: 'games/game-2.html'}
-- {name: 'MONSTERS!', folder: 'game-3', file: 'games/game-3.html'}
-- {name: 'Dr. BloodStrike', folder: 'game-4', file: 'games/game-4.html'}
+- {name: 'Dr. BloodStrike', folder: 'game-3', file: 'games/game-3.html'}
+- {name: 'MONSTERS!', folder: 'game-4', file: 'games/game-4.html'}
 
 projects:
 - {name: 'Reis', folder: 'proj-1', file: 'projects/proj-1.html'}
