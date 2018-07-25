@@ -11,5 +11,5 @@ MuSSE (Multi-sized Sprite Sheet meta-data Exporter) is based on a Blob detection
   
 You can follow it on [Github](https://github.com/marcelomesmo/MuSSE).  
 
-You can check my article for more detailed explanation [here](http://www.sbgames.org/sbgames2015/anaispdf/computacao-full/147508.pdf).  
+You can check my article for more detailed explanation [here](https://www.sbgames.org/sbgames2015/anaispdf/computacao-full/147508.pdf).  
   

@@ -36,8 +36,8 @@ Jogos 3º ano Vespertino
 | Maciel <br> Eloisa <br> Pedro Galdino | [Vou Contar até 3!](https://maciellima.github.io/VouContarAte3) | ![Melhor Jogo][melhor] ![Melhor Uso do Tema][tema]  
 | Elionilton <br> Marcelo | [Death Knife]( https://mestredosmagos.github.io/jogodafaca) |  
 | João Vitor <br> Gabriel Félix | [Beware of the Darkness](https://beladona-games.github.io/botd-j1) | ![Melhor Mecânica][mecanica]   
-| Victória <br> Maria Alexsandra | [Differential Parachuting](http://armindaa.github.io/JogoDeParaquedismo) |  
-| Maria Vitória <br> Wesley Billy | [Against the Flow](http://MaviCampos.github.io/ATF) |  
+| Victória <br> Maria Alexsandra | [Differential Parachuting](https://armindaa.github.io/JogoDeParaquedismo) |  
+| Maria Vitória <br> Wesley Billy | [Against the Flow](https://MaviCampos.github.io/ATF) |  
 | Isaque <br> Pedro Lopes | [Soul Archer](https://ronaque.github.io/SoulArcher) | ![Melhor Arte][arte]  
 | Anthony <br> William | [SuperDino](https://lemuelmarques.github.io/SUPERDINO/) |  
 | Cicero <br> João Paulo | [Fruts](https://ciceroc.github.io/Game%20fruts/) |  
