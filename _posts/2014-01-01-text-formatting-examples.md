@@ -36,7 +36,7 @@ Sometimes it is useful to have different levels of headings to structure your do
 
 ## Links
 
-You can create an inline link by wrapping link text in square brackets `[ ]`, and then wrapping the URL in parentheses `( )`. For example, it is very easy to [link to Google!](http://google.com).
+You can create an inline link by wrapping link text in square brackets `[ ]`, and then wrapping the URL in parentheses `( )`. For example, it is very easy to [link to Google!](https://google.com).
 
 ## Blockquotes
 
@@ -147,7 +147,7 @@ HTML defines a long list of available inline tags, which you can mix with Markdo
 More information on Markdown can be found at the following links:
 
 - [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#code)
-- [Quick Markdown Example](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
+- [Quick Markdown Example](https://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
 - [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
 - [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)

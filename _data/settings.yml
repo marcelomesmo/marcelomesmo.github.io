@@ -21,7 +21,7 @@ seo:
 # Google Analytics Section
 
 # Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
+# Learn more at: https://support.google.com/analytics/answer/1008065
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
@@ -41,7 +41,7 @@ disqus:
 about: >
   # Portfolio Jekyll Theme
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](https://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
 
 contact: >
   # Contact
@@ -68,8 +68,8 @@ profilepic: 'assets/img/profile3.png'
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'http://twitter.com/marcelomesmo'}
-- {icon: 'pencil', link: 'http://www.artstation.com/marcelomesmo'}
+- {icon: 'twitter', link: 'https://twitter.com/marcelomesmo'}
+- {icon: 'pencil', link: 'https://www.artstation.com/marcelomesmo'}
 - {icon: 'github', link: 'https://github.com/marcelomesmo'}
 - {icon: 'envelope', link: 'mailto:marcelo.barbosa@ifrn.edu.br'}
 
