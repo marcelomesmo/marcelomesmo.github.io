@@ -9,12 +9,12 @@ A mix of strategy and platform shooter.
   
 Send power-ups and weapons to help our crazy scientist save the world.  
   
-{% include image.html url="https://marcelomesmo.itch.io/dr-bloodstrike" image="games/game-3/dr2.png" text="Play demo" %}  
+![](/assets/img/games/game-3/dr2.png)  
 Carefully place powerups on scenario to defeat enemies.  
-
-{% include image.html url="https://marcelomesmo.itch.io/dr-bloodstrike" image="games/game-3/dr1.png" text="Play demo" %}     
+  
+![](/assets/img/games/game-3/dr1.png)  
 Create your own strategy to win over than 30 levels.  
   
 [Play Online](https://marcelomesmo.itch.io/dr-bloodstrike)   
    
-[Download at Google Play](#)(SOON)  
+[Download at Google Play](https://play.google.com/store/apps/details?id=com.tapiocastudio.drbloodstrike)  
