@@ -17,4 +17,4 @@ Unlock new monsters as your score increases.
   
 [Play Online](https://marcelomesmo.itch.io/monsters)   
    
-[Download at Google Play](#)(SOON)  
+[Download at Google Play](https://play.google.com/store/apps/details?id=com.tapiocastudio.monsters)  
