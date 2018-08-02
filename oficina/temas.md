@@ -63,15 +63,15 @@ Jogos 3º ano Vespertino
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| Maria Eloisa <br> Cicero | [Gloomy Camp](https://ciceroc.github.io/GloomyCamp) |  
-| Maria Vitoria <br> Maciel | [Ecological Relantionships](https://mavicampos.github.io/ERS) |    
-| João Paulo <br> Wesley | [The Future Day](https://wesleybilly27.github.io/TFD) |  
-| Lemuel <br> Elionilton | [World Blocks](https://lemuelmarques.github.io/WORLDBLOCKS) |  
-| Pedro Lopes <br> Sandrinha | [Survival Apocalipse](https://pedoronn.github.io/SurvivalApocalipe) |  
-| Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://ronaque.github.io/MCWWF) |  
-| Anthony <br> Gabriel Felix | [The Legend of Zestria](https://gabfelix.github.io/The%20legend%20of%20zestria) |    
-| Victória <br> Isaque | [The Wizard](https://ronaque.github.io/The%20Wizard) |    
-| William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://vitor77ferreira.github.io/ED_10) |  
+| Maria Eloisa <br> Cicero | [Gloomy Camp](https://ciceroc.github.io/GOOMY%20CAMP/GloomyCamp/) |  
+| Maria Vitoria <br> Maciel | [Ecological Relantionships](https://mavicampos.github.io/ERS/) |    
+| João Paulo <br> Wesley | [The Future Day](https://wesleybilly27.github.io/TFD/) |  
+| Lemuel <br> Elionilton | [World Blocks](https://lemuelmarques.github.io/WORLDBLOCKS/) |  
+| Pedro Lopes <br> Sandrinha | [Survival Apocalipse](https://pedoronn.github.io/Survival%20Apocalype/) |  
+| Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://ronaque.github.io/MCWWF/) |  
+| Anthony <br> Gabriel Felix | [The Legend of Zestria](https://gabfelix.github.io/The%20legend%20of%20zestria/) |    
+| Victória <br> Isaque | [The Wizard](https://ronaque.github.io/The%20Wizard/) |    
+| William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://vitor77ferreira.github.io/ED_10/) |  
   
   
 #### Tema 2 : Temperatura (plataforma)  
