@@ -28,9 +28,9 @@ Alunos | Jogo | Prêmios
  Ruana <br> Eriky <br> Claudia | [Dog Challenge](https://ruanaffff.github.io/CAOZINHOGUB) | ![Melhor Jogo][melhor]    
  Hádssa <br> Raíssa de Jesus <br> Raíssa Martins | [Astral Plane](https://raixasantos.github.io/AstralPlane) | ![Melhor Mecânica][mecanica]  
   
-  
-Jogos 3º ano Vespertino  
 
+Jogos 3º ano Vespertino  
+  
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
 | Maciel <br> Eloisa <br> Pedro Galdino | [Vou Contar até 3!](https://maciellima.github.io/VouContarAte3) | ![Melhor Jogo][melhor] ![Melhor Uso do Tema][tema]  
@@ -63,6 +63,36 @@ Jogos 3º ano Vespertino
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
+| Maria Eloisa <br> Cicero | [Gloomy Camp](https://ciceroc.github.io/GloomyCamp) |  
+| Maria Vitoria <br> Maciel | [Ecological Relantionships](https://mavicampos.github.io/ERS) |    
+| João Paulo <br> Wesley | [The Future Day](https://wesleybilly27.github.io/TFD) |  
+| Lemuel <br> Elionilton | [World Blocks](https://lemuelmarques.github.io/WORLDBLOCKS) |  
+| Pedro Lopes <br> Sandrinha | [Survival Apocalipse](https://pedoronn.github.io/SurvivalApocalipe) |  
+| Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://LINK.github.io/Nome) |  
+| Anthony <br> Gabriel Felix | [The Legend of Zestria](https://gabfelix.github.io/The%20legend%20of%20zestria) |    
+| Victória <br> Isaque | [The Wizard](https://ronaque.github.io/The%20Wizard) |    
+| William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://vitor77ferreira.github.io/ED_10) |  
+  
+    
+#### Tema 2 : Temperatura (plataforma)  
+   
+Jogos 3º ano Matutino  
+  
+*Clique no nome do jogo para acessar.*  
+  
+Alunos | Jogo | Prêmios  
+:------------- |:-------------|:-------------  
+ Danilo <br> Raíssa de Jesus <br> Raíssa Martins | [NOME](https://LINK.github.io/NOME) |    
+ Pedro <br> Eriky | [NOME](https://LINK.github.io/NOME) |    
+ Tawan <br> Sebastião | [NOME](https://LINK.github.io/NOME) |    
+ Ruana <br> Claudia | [NOME](https://LINK.github.io/NOME) |    
+ Hádssa <br> Wanderson | [NOME](https://LINK.github.io/NOME) |    
+  
+  
+Jogos 3º ano Vespertino  
+
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:---:|
 | Maria Eloisa <br> Cicero | [Gloomy Camp](https://LINK.github.io/Nome) |  
 | Maria Vitoria <br> Maciel | [Ecological Relantionships](https://LINK.github.io/Nome) |    
 | João Paulo <br> Wesley | [The Future Day](https://LINK.github.io/Nome) |  
@@ -73,7 +103,7 @@ Jogos 3º ano Vespertino
 | Victória <br> Isaque | [The Wizard](https://LINK.github.io/Nome) |    
 | William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://LINK.github.io/Nome) |  
   
-  
+
 > ## 2017
 
 #### Tema 1 : Cultura (plataforma)
