@@ -73,7 +73,7 @@ Jogos 3º ano Vespertino
 | Victória <br> Isaque | [The Wizard](https://ronaque.github.io/The%20Wizard) |    
 | William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://vitor77ferreira.github.io/ED_10) |  
   
-    
+  
 #### Tema 2 : Temperatura (plataforma)  
    
 Jogos 3º ano Matutino  
