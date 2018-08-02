@@ -68,7 +68,7 @@ Jogos 3º ano Vespertino
 | João Paulo <br> Wesley | [The Future Day](https://wesleybilly27.github.io/TFD) |  
 | Lemuel <br> Elionilton | [World Blocks](https://lemuelmarques.github.io/WORLDBLOCKS) |  
 | Pedro Lopes <br> Sandrinha | [Survival Apocalipse](https://pedoronn.github.io/SurvivalApocalipe) |  
-| Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://LINK.github.io/Nome) |  
+| Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://ronaque.github.io/MCWWF) |  
 | Anthony <br> Gabriel Felix | [The Legend of Zestria](https://gabfelix.github.io/The%20legend%20of%20zestria) |    
 | Victória <br> Isaque | [The Wizard](https://ronaque.github.io/The%20Wizard) |    
 | William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://vitor77ferreira.github.io/ED_10) |  
