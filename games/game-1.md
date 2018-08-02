@@ -13,4 +13,4 @@ Find different ghosts to get new abilities.
 ![](/assets/img/games/game-1/hekura2.gif)  
 Use their power to find your way out.  
     
-[Play Online](https://marcelomesmo.itch.io/hekura)  
+[Play Online NOW](https://marcelomesmo.itch.io/hekura)  

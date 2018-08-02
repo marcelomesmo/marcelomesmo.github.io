@@ -15,6 +15,6 @@ Create monsters and mysterious creatures in this awesome mix of memory match and
 Use magic ingredients to make the best mixes.  
 Unlock new monsters as your score increases.  
   
-[Play Online](https://marcelomesmo.itch.io/monsters)   
+[Play Online NOW](https://marcelomesmo.itch.io/monsters)   
    
 [Download at Google Play](https://play.google.com/store/apps/details?id=com.tapiocastudio.monsters)  

@@ -53,11 +53,10 @@ Jogos 3º ano Matutino
   
 Alunos | Jogo | Prêmios  
 :------------- |:-------------|:-------------  
- Danilo <br> Wanderson <br> Claudia | [Size Companions](https://LINK.github.io/Nome) |    
- Pedro <br> Raíssa de Jesus <br> Sebastião | [ForU](https://LINK.github.io/Nome) |    
- Tawan <br> Ruana <br> Raíssa Martins | [The Sweet Escape](https://LINK.github.io/Nome) |    
- Hádssa <br> Eriky | [Earth Half](https://LINK.github.io/Nome) |  
- Sávio | [Nome](https://LINK.github.io/Nome) |   
+ Danilo <br> Wanderson <br> Claudia | [Size Companions](https://danilo25.github.io/SizeCompanions2) |    
+ Pedro <br> Raíssa de Jesus <br> Sebastião | [ForU](https://raixasantos.github.io/ForU) |    
+ Tawan <br> Ruana <br> Raíssa Martins | [The Sweet Escape](https://ruanaffff.github.io/DOCEFUGA) |    
+ Hádssa <br> Eriky | [Earth Half](https://hadssajordana7.github.io/earthhalf) |    
   
   
 Jogos 3º ano Vespertino  
