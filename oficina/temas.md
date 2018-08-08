@@ -63,18 +63,19 @@ Jogos 3º ano Vespertino
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| Maria Eloisa <br> Cicero | [Gloomy Camp](https://ciceroc.github.io/GOOMY%20CAMP/GloomyCamp/) |  
+| Maria Eloisa <br> Cicero | [Gloomy Camp](https://ciceroc.github.io/GLOOMY%20CAMP/) |  
 | Maria Vitoria <br> Maciel | [Ecological Relantionships](https://mavicampos.github.io/ERS/) |    
 | João Paulo <br> Wesley | [The Future Day](https://wesleybilly27.github.io/TFD/) |  
 | Lemuel <br> Elionilton | [World Blocks](https://lemuelmarques.github.io/WORLDBLOCKS/) |  
 | Pedro Lopes <br> Sandrinha | [Survival Apocalipse](https://pedoronn.github.io/Survival%20Apocalype/) |  
 | Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://ronaque.github.io/MCWWF/) |  
-| Anthony <br> Gabriel Felix | [The Legend of Zestria](https://gabfelix.github.io/The%20legend%20of%20zestria/) |    
+| Anthony <br> Gabriel Felix | [The Legend of Zestria](https://gabfelix.github.io/The%20legend%20of%20zestria%202.0/) |    
 | Victória <br> Isaque | [The Wizard](https://ronaque.github.io/The%20Wizard/) |    
-| William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://vitor77ferreira.github.io/ED_10/) |  
+| William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://vitor77ferreira.github.io/ED_11/) |  
+| Maria Alice | [Elementary Dinasty](https://alicinhaa.github.io/STP/) |  
   
   
-#### Tema 2 : Temperatura (plataforma)  
+#### Tema 3 : Temperatura (plataforma e/ou mobile)  
    
 Jogos 3º ano Matutino  
   
