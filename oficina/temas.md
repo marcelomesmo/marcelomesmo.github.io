@@ -53,10 +53,10 @@ Jogos 3º ano Matutino
   
 Alunos | Jogo | Prêmios  
 :------------- |:-------------|:-------------  
- Danilo <br> Wanderson <br> Claudia | [Size Companions](https://danilo25.github.io/SizeCompanions2) |    
- Pedro <br> Raíssa de Jesus <br> Sebastião | [ForU](https://raixasantos.github.io/ForU) |    
- Tawan <br> Ruana <br> Raíssa Martins | [The Sweet Escape](https://ruanaffff.github.io/DOCEFUGA) |    
- Hádssa <br> Eriky | [Earth Half](https://hadssajordana7.github.io/earthhalf) |    
+ Danilo <br> Wanderson <br> Claudia | [Size Companions](https://danilo25.github.io/SizeCompanions2) | ![Melhor Jogo][melhor]  
+ Pedro <br> Raíssa de Jesus <br> Sebastião | [ForU](https://raixasantos.github.io/ForU) | ![Melhor Mecânica][mecanica]  
+ Tawan <br> Ruana <br> Raíssa Martins | [The Sweet Escape](https://ruanaffff.github.io/DOCEFUGA) | ![Melhor Arte][arte]  
+ Hádssa <br> Eriky | [Earth Half](https://hadssajordana7.github.io/earthhalf) | ![Melhor Uso do Tema][tema]  
   
   
 Jogos 3º ano Vespertino  
@@ -64,15 +64,15 @@ Jogos 3º ano Vespertino
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
 | Maria Eloisa <br> Cicero | [Gloomy Camp](https://ciceroc.github.io/GLOOMY%20CAMP/) |  
-| Maria Vitoria <br> Maciel | [Ecological Relantionships](https://mavicampos.github.io/ERS/) |    
+| Maria Vitoria <br> Maciel | [Ecological Relantionships](https://mavicampos.github.io/ERS/) | ![Melhor Jogo][melhor]    
 | João Paulo <br> Wesley | [The Future Day](https://wesleybilly27.github.io/TFD/) |  
 | Lemuel <br> Elionilton | [World Blocks](https://lemuelmarques.github.io/WORLDBLOCKS/) |  
-| Pedro Lopes <br> Sandrinha | [Survival Apocalipse](https://pedoronn.github.io/Survival%20Apocalype/) |  
-| Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://ronaque.github.io/MCWWF/) |  
-| Anthony <br> Gabriel Felix | [The Legend of Zestria](https://gabfelix.github.io/The%20legend%20of%20zestria%202.0/) |    
-| Victória <br> Isaque | [The Wizard](https://ronaque.github.io/The%20Wizard/) |    
+| Pedro Lopes <br> Sandrinha | [Survival Apocalipse](https://pedoronn.github.io/Survival%20Apocalype/) | ![Melhor Arte][arte]   
+| Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://ronaque.github.io/MCWWF/) | ![Melhor Uso do Tema][tema]  
+| Anthony <br> Gabriel Felix | [The Legend of Zestria](https://gabfelix.github.io/The%20legend%20of%20zestria%202.0/) | ![Melhor Mecânica][mecanica]   
+| Victória <br> Isaque | [The Wizard](https://ronaque.github.io/The%20Wizard/) |  
 | William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://vitor77ferreira.github.io/ED_11/) |  
-| Maria Alice | [Elementary Dinasty](https://alicinhaa.github.io/STP/) |  
+| Maria Alice | [Save the Princess](https://alicinhaa.github.io/STP/) |  
   
   
 #### Tema 3 : Temperatura (plataforma e/ou mobile)  
@@ -94,15 +94,15 @@ Jogos 3º ano Vespertino
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| Maria Eloisa <br> Cicero | [Gloomy Camp](https://LINK.github.io/Nome) |  
-| Maria Vitoria <br> Maciel | [Ecological Relantionships](https://LINK.github.io/Nome) |    
-| João Paulo <br> Wesley | [The Future Day](https://LINK.github.io/Nome) |  
-| Lemuel <br> Elionilton | [World Blocks](https://LINK.github.io/Nome) |  
-| Pedro Lopes <br> Sandrinha | [Survival Apocalipse](https://LINK.github.io/Nome) |  
-| Marcelo <br> Gabriel Galvão | [MC World Without Friendship](https://LINK.github.io/Nome) |  
-| Anthony <br> Gabriel Felix | [The Legend of Zestria](https://LINK.github.io/Nome) |    
-| Victória <br> Isaque | [The Wizard](https://LINK.github.io/Nome) |    
-| William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://LINK.github.io/Nome) |  
+| Maria Eloisa <br> Cicero | [NOME](https://LINK.github.io/Nome) |  
+| Maria Vitoria <br> Maciel | [NOME](https://LINK.github.io/Nome) |    
+| João Paulo <br> Wesley | [NOME](https://LINK.github.io/Nome) |  
+| Lemuel <br> Elionilton | [NOME](https://LINK.github.io/Nome) |  
+| Pedro Lopes <br> Sandrinha | [NOME](https://LINK.github.io/Nome) |  
+| Marcelo <br> Gabriel Galvão | [NOME](https://LINK.github.io/Nome) |  
+| Anthony <br> Gabriel Felix | [NOME](https://LINK.github.io/Nome) |    
+| Victória <br> Isaque | [NOME](https://LINK.github.io/Nome) |    
+| William <br> João Vitor <br> Pedro Galdino | [NOME](https://LINK.github.io/Nome) |  
   
 
 > ## 2017
@@ -241,10 +241,3 @@ Jogos 3º ano Vespertino
 | Lucas <br> Matheus | [SEM LINK]() | |
   
   
-> ## 2018
-
-
-> ## 2019  
-  
-  
-
