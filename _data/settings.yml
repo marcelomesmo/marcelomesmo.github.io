@@ -39,15 +39,13 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # Personal portfolio
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](https://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
-
+  
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
-
+ 
 #-------------------------------
 # Work Section
 
@@ -58,17 +56,17 @@ games:
 - {name: 'MONSTERS!', folder: 'game-4', file: 'games/game-4.html'}
 
 projects:
-- {name: 'Reis', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Reis Game Engine', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'MuSSE', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'HEEG', folder: 'proj-3', file: 'projects/proj-3.html'}
 
-profilepic: 'assets/img/profile3.png'
+profilepic: 'assets/img/profile.png'
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/marcelomesmo'}
+- {icon: 'twitter', link: 'https://twitter.com/pixuarte'}
 - {icon: 'pencil', link: 'https://www.artstation.com/marcelomesmo'}
 - {icon: 'github', link: 'https://github.com/marcelomesmo'}
 - {icon: 'envelope', link: 'mailto:marcelo.barbosa@ifrn.edu.br'}
