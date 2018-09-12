@@ -20,6 +20,8 @@
       position: center center
       repeat: no-repeat
       size: cover
+    &:hover .thumb-unit
+      transform: scale(1.2)
     .thumb-overlay
       +position(absolute, 100% 0px null 0px)
       height: 100%
@@ -46,10 +48,6 @@
     .thumb-unit
       width: 80vw
       height: 40vw
-
-.thumb-unit:hover {
-    transform: scale(1.2)
-}
 
 .img-responsive
   display: block
