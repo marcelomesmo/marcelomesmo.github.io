@@ -57,8 +57,8 @@ games:
 
 projects:
 - {name: 'Reis', subtitle: 'Game Engine', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'MuSSE', subtitle: 'Game Engine', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'HEEG', subtitle: 'Game Engine', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'MuSSE', subtitle: 'SpriteSheet Editor', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'HEEG', subtitle: 'Game Design', folder: 'proj-3', file: 'projects/proj-3.html'}
 
 profilepic: 'assets/img/profile.png'
 
