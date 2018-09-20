@@ -8,5 +8,5 @@ Fungi is a puzzle-platformer game where a tribe of fungi in a macroscopic world 
 ![](/assets/img/games/game-5/fungi1.jpg)   
   
 ![](/assets/img/games/game-5/fungi2.gif)  
-
+  
 [Play Online](https://pippin-games.itch.io/fungi)   
