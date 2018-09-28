@@ -1,15 +1,29 @@
-var gameImages = [];
+/*
+	##########################
+	Preload Manager
+	##########################
 
+	Preload Assets: Images and .
+
+*/
 function Preloader ()
 {
+	// Assets Container
+	var gameImages = [];
 
-	this.load = function(progressCallback) {
-		// Initialise variables	
+	/*
+		Preload Assets at Start.
+	*/
+	this.load = function(progressCallback) 
+	{
+		// Init variables	
 	    var assetCount = Object.keys(imageList).length;
 		var completedCount = 0;
-		// Count Assets
-		//console.log("Total assets: " + assetCount);	
 
+		if(debugMode) console.log("Total assets: " + assetCount);	
+
+		// Load all Assets from "resources.js: imageList" into container
+		// Notes: Add a empty check later.
 		for(let i = 0; i < assetCount; i++)
 		{
 			var path = Object.values(imageList)[i];
@@ -17,35 +31,43 @@ function Preloader ()
 			this.preloadImage(path, reference, function() 
 		 	{
 				completedCount++;
-				//console.log("Asset loaded. Completion: " + (100 / assetCount) * completedCount);
 				progressCallback((100 / assetCount) * completedCount);
 	    	});
 		};
 	}
 
-
-	this.preloadImage = function(path, reference, anImageLoadedCallback){
+	// Preload image callback
+	this.preloadImage = function(path, reference, anImageLoadedCallback)
+	{
+		// Create Image
 	    var anImage = new Image();
 	    anImage.src = path;
 	    anImage.name = reference;
-	    	gameImages.push(anImage);
-	    	console.log("Curr asset " + gameImages.length + " src: " + anImage.src + " named " + anImage.name);
+
+	    // Add image to container
+    	gameImages.push(anImage);
+    	if(debugMode) console.log("Curr asset " + gameImages.length + " src: " + anImage.src + " named " + anImage.name);
+
+    	// Handle Callback
 	    anImage.onload = anImageLoadedCallback;
 	}
 
+	/*
+		Get loaded image from container.
+	*/
 	this.getFile = function(name) 
 	{
-		// Load images
+		// Find image
 		for(let i = 0; i < gameImages.length; i++)
 		{
 			if(gameImages[i].name == name) 
 			{
-				//console.log("File found: " + gameImages[i].name);
 				return gameImages[i];
 			}
 		}
 
-		console.log("Error: Invalid asset name " + name);
+		// Notes: Add a better Exception hadling later.
+		console.log("ERROR: Invalid asset name " + name);
 		return;
 	}
 }

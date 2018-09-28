@@ -1,14 +1,19 @@
+/*
+    ##########################
+    Bullets
+    ##########################
 
+    Bullets used by the Player weapon.
+*/
 function Bullet(x, y) {
 
+	// Image
 	var image = loader.getFile("bullet");
-
-	// Absolute positions
-	var currPosX, currPosY;
-
-	var BULLET_SPEED = Math.random() * (0.302 - 0.301) + (0.301);
-
 	var w, h;
+
+	// Movement
+	var currPosX, currPosY;
+	var BULLET_SPEED = Math.random() * (0.302 - 0.301) + (0.301);
 
 	// Life time
 	var hasHit;
@@ -16,8 +21,6 @@ function Bullet(x, y) {
 	/*
 		Init variables
 	*/
-	// Velocity
-
 	// Init positions
 	this.currPosX = x;
 	this.currPosY = y;
@@ -36,9 +39,7 @@ function Bullet(x, y) {
 	{
 		this.currPosX += BULLET_SPEED * delta;
 
-	    /*
-	    	#### DYING ####
-	    */
+	    // Remove bullets out of screen
 		if(this.currPosX > graph.getWidth())
 		{
 			this.Hit();
@@ -50,9 +51,12 @@ function Bullet(x, y) {
 		graph.Draw(image, this.currPosX, this.currPosY);
 
 		// DEBUG BOX
-		// graph.DrawRect(this.currPosX, this.currPosY, this.w, this.h);
+		if(debugMode) graph.DrawRect(this.currPosX, this.currPosY, this.w, this.h);
 	}
 
+	/*
+		Check if already hit
+	*/
 	this.HasHit = function()
 	{
 		return this.hasHit;
@@ -63,6 +67,9 @@ function Bullet(x, y) {
 		this.hasHit = true;
 	}
 
+	/*
+		UTIL
+	*/
 	this.X = function()
 	{
 		return this.currPosX;

@@ -1,10 +1,14 @@
-
-
 /*
-	This one is a mess. Please don't look.
+    ##########################
+    Parallax BG
+    ##########################
+
+    Simple improvised parallax BG.
 */
+// Notes: This one is a mess. Please don't look.
 function ParallaxBg()
 {
+	// Draw Front, Mid and Back bg.
 	var bg_front = new Image();
 	bg_front = loader.getFile("bg_front");
 	var frontX = 0;
@@ -17,12 +21,14 @@ function ParallaxBg()
 	bg_far = loader.getFile("bg_far");
 	var farX = 0;
 
+	// Default move speed
 	var BG_SPEED = 0.05;
 
 	var screen_height = graph.getHeight();
 
 	this.Update = function(delta)
 	{
+		// Move parallax
 		frontX -= BG_SPEED * delta;
 		midX -= (BG_SPEED-0.005) * delta;
 		farX -= (BG_SPEED-0.0009) * delta;
@@ -33,6 +39,7 @@ function ParallaxBg()
 	}
 	this.Draw = function ()
     {
+    	// Draw FAR -> MID -> FRONT
     	graph.Draw(bg_far, farX, 0);
     	graph.Draw(bg_mid, midX, screen_height - bg_mid.height);
     	graph.Draw(bg_front, frontX, screen_height - bg_front.height);

@@ -1,3 +1,13 @@
+/*
+	##########
+	Input Manager
+	##########
+	
+	Init Inputs: Mouse, Touch and Keyboard.
+
+	Clear Inputs to refresh key/mouse/touch presses.
+*/
+
 var Mouse = new MouseController();
 
 var Touch = new TouchController();
@@ -6,7 +16,6 @@ var Keyboard = new KeyboardController();
 
 var Input = new InputManager();
 
-// Just to encapsulate input
 function InputManager()
 {
 	this.Init = function()

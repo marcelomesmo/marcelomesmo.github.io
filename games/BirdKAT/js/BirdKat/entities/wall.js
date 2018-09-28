@@ -1,12 +1,18 @@
+/*
+    ##########################
+    Wall
+    ##########################
 
+    Special spawn every X ms.
+*/
 
 function Wall() {
 
-	// Position and Movement
+	// Position & Movement
 	var currX;
 	var velX;
 
-	// Images
+	// Image
 	var image = new Image();
 	image = loader.getFile("wall");
 
@@ -36,6 +42,22 @@ function Wall() {
 		graph.Draw(image, this.currX, 0);
 	}
 
+	/*
+		Player Interact
+	*/
+	this.Damage = function()
+	{
+		this.hitpoints--;
+	}
+
+	this.DashKill = function()
+	{
+		this.hitpoints = 0;
+	}
+
+	/*
+		Wall life time
+	*/
 	this.IsDead = function()
 	{
 		if(this.hitpoints <= 0) return true;
@@ -45,16 +67,6 @@ function Wall() {
 	this.IsOutScreen = function()
 	{
 		return this.outScreen;
-	}
-
-	this.Damage = function()
-	{
-		this.hitpoints--;
-	}
-
-	this.DashKill = function()
-	{
-		this.hitpoints = 0;
 	}
 
 	this.Score = function()
@@ -67,6 +79,9 @@ function Wall() {
 		return this.hasScored;
 	}
 
+	/*
+		UTIL
+	*/
 	this.X = function()
 	{
 		return this.currX;

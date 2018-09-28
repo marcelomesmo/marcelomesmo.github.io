@@ -1,27 +1,36 @@
 /*
-	Our pretty much awesome BirdKat shooter.
+    ##########################
+    Player
+    ##########################
 
+	Our pretty much awesome BirdKat shooter.
 */
 function Bird(imgName, sPosX, sPosY) {
 
+	// Image
 	var image = loader.getFile(imgName);
 
-	//var imageDead = loader.getFile("birdDead");
+	// Pop-up after Dead
+	// Notes: Didn't had time to debug.
+	// var imageDead = loader.getFile("birdDead");
 
+	// Fly Animation
 	var animFly = new Animation("birdFly", 47, 51, 300);
+	// Falling Animation
 	var animOff = new Animation("birdOff", 47, 51, 300);
 
+	// Weapon
 	var weapon = new Weapon();
 
+	// Dash power
 	var dash = new Dash();
 	var isDashing;
 	var dashTime;
 
-	// Absolute positions
+	// Position & Movement
 	var startPosX, startPosY;
 	var currPosX, currPosY;
 
-	// CONST
 	var JUMPSTREGHT = -2;
 	var GRAVITY = 0.1;
 
@@ -54,7 +63,7 @@ function Bird(imgName, sPosX, sPosY) {
 	this.isDead = false;
 	this.score = 0;
 
-	// Could handle this better with more time
+	// Notes: Will handle this better later.
 	var boundingBox =
 	{
 		x: 0,
@@ -75,6 +84,7 @@ function Bird(imgName, sPosX, sPosY) {
 		*/
 		this.velX = 0;
 
+		// Notes: Didn't had time to debug Touch.
 		if(/*Touch.HasTouchSwipe(SWIPE.RIGHT) ||*/ Keyboard.IsKeyPressed(KEY.D))
 		{
 			this.Dash();
@@ -131,27 +141,31 @@ function Bird(imgName, sPosX, sPosY) {
 				this.Hover();
 			}
 
+			// Update Weapon
 			weapon.Update(delta);
 		}
 
+		// Update Dash
 		dash.Update(delta);
 
+		// Update animations
 		if(this.velY < 0) animFly.Update(delta);
 		else animOff.Update(delta);
 
-		// Bounding box
+		// Update Bounding box
 		boundingBox.x = this.currPosX + boundingBox.offsetX;
 		boundingBox.y = this.currPosY + boundingBox.offsetY;
 	}
 
 	this.Draw = function ()
 	{
-		//graph.Draw(image, this.currPosX, this.currPosY);
-
+		// Draw animations
 		if(this.velY < 0) animFly.Draw(this.currPosX, this.currPosY);
 		else animOff.Draw(this.currPosX, this.currPosY);
 
+		// Draw Weapon UI icon
 		weapon.Draw(10, 0);
+		// Draw Dash UI icon
 		dash.Draw(10, 28);
 
 		// Dash trail
@@ -166,19 +180,24 @@ function Bird(imgName, sPosX, sPosY) {
 			graph.setAlpha(1);
 		}
 
-		// Could replace this: spawn explosion, change animation, etc...
+		// Notes: Didn't had time to finish. Could also replace this with player explosion, change animation, etc...
 		//if(this.isDead) graph.draw(imageDead, graph.getWidth()/2 - imageDead.width/2, graph.getHeight()/2 - imageDead.height/2)
 
-		// DEBUG MODE : BOUNDING BOX
-		//if(DebugMode) graph.DrawRect(boundingBox.x, boundingBox.y, boundingBox.w, boundingBox.h);
+		if(debugMode) graph.DrawRect(boundingBox.x, boundingBox.y, boundingBox.w, boundingBox.h);
 	}
 
 
+	/*
+		Stop moving on Y
+	*/
 	this.Hover = function()
 	{
 		this.velY = 0;
 	}
 
+	/*
+		FLAP
+	*/
 	this.Flap = function()
 	{
 		this.velY = JUMPSTREGHT;
@@ -187,6 +206,9 @@ function Bird(imgName, sPosX, sPosY) {
 		sfxJump.play();
 	}
 
+	/*
+		Life time
+	*/
 	this.Dead = function()
 	{
 		if(!this.isDead)
@@ -222,6 +244,9 @@ function Bird(imgName, sPosX, sPosY) {
 		this.isDead = false;
 	}
 
+	/*
+		Dash Power
+	*/
 	this.Dash = function()
 	{
 		if(dash.isAvailable())
@@ -239,30 +264,22 @@ function Bird(imgName, sPosX, sPosY) {
 		return this.isDashing;
 	}
 
+	/*
+		Weapon Shoot
+	*/
 	this.Shoot = function()
 	{
 		weapon.Shoot(this.currPosX, this.currPosY);
 	}
 
-	this.getImage = function ()
-	{
-		return image;
-	}
-
-	this.getWidth = function()
-	{
-		return this.w;
-	}
-
-	this.getHeight = function()
-	{
-		return this.h;
-	}
-
+	/*
+		COLLISIONS
+	*/
 	this.checkCollision = function(p)
 	{
 		// Simple straight ahead collision check. 
-        // Would create a separate collision(bird, pipe) if I had more time.
+        // Notes: Create a separate collision(obj, obj) later.
+       
         // Reached pipe
         if(boundingBox.x + boundingBox.w > p.X() && !p.HasScored())
         {
@@ -271,11 +288,9 @@ function Bird(imgName, sPosX, sPosY) {
             if(boundingBox.y > p.getTopY() + p.getHeight() && boundingBox.y + boundingBox.h < p.getBottomY())
             {
             	// cat ('')(*_*)('') this is a cat
-            	//console.log("Is between pipes");
             }
             else
             {
-            	//console.log("Touched pipe");
                 // Isn't between pipes. 
                 // Bird touched pipe.
                 if(this.isDashing) p.DashKill();
@@ -289,29 +304,28 @@ function Bird(imgName, sPosX, sPosY) {
             // Score point
             this.Score();
 
-            // Score pipe
+            // Mark pipe as scored
             p.Score();
         }
-
         //return false;
 	}
 
 	this.checkWallCollision = function(w)
 	{
 		// Simple straight ahead collision check. 
-        // Would create a separate collision(bird, wall) if I had more time.
+        // Notes: Create a separate collision(obj, obj) later.
+      
         // Reached wall
         if(boundingBox.x + boundingBox.w > w.X())
         {
+        	// Destroy wall if dashing
         	if(this.isDashing) w.DashKill();
             else this.Dead();
-
             //return true;
         }
         //return false;
 
-        // Check bullet collissions
-        // Avoid calling another method
+        // Check bullet collissions here to avoid calling another method for the wall
         for(let b of weapon.getBullets())
 		{
 			if(b.X() + b.W() > w.X() && !b.HasHit())
@@ -324,9 +338,9 @@ function Bird(imgName, sPosX, sPosY) {
 
 	this.checkBullets = function(p)
 	{
-		// Simple straight ahead collision check.
-        // Would create a separate collision(obj, obj) if I had more time.
-
+		// Simple straight ahead collision check. 
+        // Notes: Create a separate collision(obj, obj) later.
+      
 		for(let b of weapon.getBullets())
 		{
 			if(b.X() + b.W() > p.X() && !b.HasHit())
@@ -337,7 +351,10 @@ function Bird(imgName, sPosX, sPosY) {
 	            }
 	            else
 	            {
+	            	// Hit pipe
+	            	// Mark bullet as hit
 	            	b.Hit();
+	            	// Damage pipe
 	                p.Damage();
 	            }
 			}
@@ -347,8 +364,9 @@ function Bird(imgName, sPosX, sPosY) {
 	this.checkBossCollision = function(boss)
 	{
 		// Simple straight ahead collision check. 
-        // Would create a separate collision(bird, wall) if I had more time.
-        // Reached wall
+        // Notes: Create a separate collision(obj, obj) later.
+       
+        // Collided with boss during an atack
         if(boundingBox.x < boss.X() + boss.getWidth())
         {
         	this.Dead();
@@ -357,6 +375,9 @@ function Bird(imgName, sPosX, sPosY) {
         //return false;
 	}
 
+	/*
+		Score
+	*/
 	this.Score = function(s = 1)
 	{
  		this.score += s;
@@ -364,6 +385,24 @@ function Bird(imgName, sPosX, sPosY) {
 	this.getScore = function()
 	{
 		return this.score;
+	}
+
+	/*
+		UTIL
+	*/
+	this.getImage = function ()
+	{
+		return image;
+	}
+
+	this.getWidth = function()
+	{
+		return this.w;
+	}
+
+	this.getHeight = function()
+	{
+		return this.h;
 	}
 
 	this.X = function()

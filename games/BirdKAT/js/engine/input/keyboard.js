@@ -1,3 +1,6 @@
+/*
+    KEY Identifiers
+*/
 var KEY = {
     SPACE: 32,
     D: 68,
@@ -5,8 +8,17 @@ var KEY = {
     X: 88
 }
 
+/*
+    ##########
+    Keyboard
+    ##########
+    
+    Keyboard Input.
+
+*/
 function KeyboardController()
 {
+    // Handle key PRESS
     var keyPressed = {
         SPACE: false,
         D: false,
@@ -16,25 +28,25 @@ function KeyboardController()
 
     this.Init = function()
     {
-
-        //graph.getCanvas().addEventListener('keydown', OnKeyDown);
         document.addEventListener("keydown", this.OnKeyDown);
         document.addEventListener("keyup", this.OnKeyUp);
 
-        console.log("Keyboard Input Initialized.");
+        if(debugMode) console.log("Keyboard Input Initialized.");
     }
 
     this.Clear = function()
     {
+        // Clean key presses
         keyPressed.SPACE = false;
         keyPressed.D = false;
         keyPressed.P = false;
         keyPressed.X = false;
     }
 
+    // KEY PRESSED
     this.IsKeyPressed = function(e)
     {
-        // Could handle this better with more time
+        // Notes: Change to switch later
         if(e == KEY.SPACE)
         {
             return keyPressed.SPACE;
@@ -58,6 +70,7 @@ function KeyboardController()
         return false;
     }
 
+    // DOCUMENT INPUT HANDLERS
     this.OnKeyDown = function(e)
     {
         var keyCode = e.keyCode;
@@ -75,7 +88,7 @@ function KeyboardController()
             keyPressed.X = true;
         }
 
-        //console.log("Keyboard pressed: " + String.fromCharCode(e.keyCode));
+        if(debugMode) console.log("Keyboard pressed: " + String.fromCharCode(e.keyCode));
     }
 
     this.OnKeyUp = function(e)
@@ -94,6 +107,7 @@ function KeyboardController()
         else if (keyCode == KEY.X) {
             keyPressed.X = false;
         }
-        //console.log("Keyboard relased: " + String.fromCharCode(e.keyCode));
+        
+        if(debugMode) console.log("Keyboard relased: " + String.fromCharCode(e.keyCode));
     }
 }

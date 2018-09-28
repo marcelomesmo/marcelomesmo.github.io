@@ -1,14 +1,23 @@
+/*
+    ##########################
+    Pipe
+    ##########################
 
+    Spawn pipes every X ms.
 
+    Stop swaping if Wall is created or Player is dashing.
+*/
 function Pipe() {
 
 	// Position and Movement
 	var currX, topY, botY;
 	var velX;
 
+	// Top pipe distance
 	var topDistance;
 	var MIN_TOP_DIST = 20;
 	var MAX_TOP_DIST = 100;
+	// Distance between pipes
 	var gapDistance;
 	var MIN_GAP = 60;
 	var MAX_GAP = 120;
@@ -22,22 +31,19 @@ function Pipe() {
 	// Life time
 	var outScreen;
 	var hasScored;	// Tells if score has already been counted for this pipe
-
 	var hitpoints;
 
 	/*
 		Init variables
 	*/
 	this.topDistance = Math.floor((Math.random() * (MAX_TOP_DIST-MIN_TOP_DIST+1)) + MIN_TOP_DIST);
-	//this.bottom = Math.floor((Math.random() * (MAX_GAP-MIN_GAP+1)) + MIN_GAP);
 	this.gapDistance = Math.floor((Math.random() * (MAX_GAP-MIN_GAP+1)) + MIN_GAP);
 
 	this.currX = graph.getWidth();
-	this.topY = -this.topDistance;									// This could be better
+	this.topY = -this.topDistance;									// Notes: This could be better
 	this.botY = this.topY + pipeTop.height + this.gapDistance;		// "
 
 	this.velX = -0.1;
-
 	
 	this.outScreen = false;
 	this.hasScored = false;
@@ -55,11 +61,32 @@ function Pipe() {
 	{
 		graph.Draw(pipeTop, this.currX, this.topY);
 		graph.Draw(pipeBottom, this.currX, this.botY);
-		// DEBUG BOX
-		// graph.DrawRect(this.currX, this.topY, pipeTop.width, pipeTop.height);
-		// graph.DrawRect(this.currX, this.botY, pipeBottom.width, pipeBottom.height);
+
+		if(debugMode)
+		{	
+			// DEBUG BOX
+			// Notes: Replace by a simple rect instead of filled rect.
+			graph.DrawRect(this.currX, this.topY, pipeTop.width, pipeTop.height);
+			graph.DrawRect(this.currX, this.botY, pipeBottom.width, pipeBottom.height);
+		}
 	}
 
+	/*
+		Player interact
+	*/
+	this.DashKill = function()
+	{
+		this.hitpoints = 0;
+	}
+
+	this.Damage = function()
+	{
+		this.hitpoints--;
+	}
+
+	/*
+		Life time
+	*/
 	this.IsDead = function()
 	{
 		if(this.hitpoints <= 0) return true;
@@ -69,17 +96,6 @@ function Pipe() {
 	this.IsOutScreen = function()
 	{
 		return this.outScreen;
-	}
-
-
-	this.DashKill = function()
-	{
-		this.hitpoints = 0;
-	}
-
-	this.Damage = function()
-	{
-		this.hitpoints--;
 	}
 
 	this.Score = function()
@@ -92,6 +108,9 @@ function Pipe() {
 		return this.hasScored;
 	}
 
+	/*
+		UTIL
+	*/
 	this.X = function()
 	{
 		return this.currX;

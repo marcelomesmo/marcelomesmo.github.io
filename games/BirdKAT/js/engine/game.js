@@ -1,20 +1,40 @@
+/*
+	##########################
+	Game
+	##########################
+
+	Our Game.
+
+	Init, Update and Draw Game.
+	Handle Scenes.
+
+*/
 function Game()
 {
-	console.log("Starting game.");
+	if(debugMode) console.log("Starting game.");
 	
+	/*
+		Init Graphics
+
+		(Notes: Should've made this inside Init())
+	*/
 	graph = new Graphics();
+	// Pixel-perfect resize for larger screens
 	graph.Resize();
 
+	/*
+		Handle Scenes
+	*/
 	var scenes = [];
         
-    // Remove the lastest scene
+    // Remove latest Scene
     this.RemoveScene = function () {
 		var scene = scenes.CurrScene();
-    	console.log("Finished scene " + scene.name);
+    	if(debugMode) console.log("Finished scene " + scene.name);
         scene.onExit();
         return scenes.pop();
     }
-    // Add a new scene
+    // Add new Scene
     this.AddScene = function (scene) {
     	/*if (!this.Empty()) {
       		this.CurrScene().Pause();
@@ -25,23 +45,31 @@ function Game()
     	console.log("Added new scene " + scene.name);
         scene.OnEnter();
     }
-    // Return current scene
+    // Return current Scene
     this.CurrScene = function (){
         return scenes[scenes.length-1];
     }
-
-    this.Empty = function () {
+    // Empty check for handling exceptions
+    /*this.Empty = function () {
     	return scenes.length == 0;
-  	}
+  	}*/
 
+	/*
+		Init Game
+
+		Init Inputs.
+	*/
 	this.Init = function()
 	{
 		// Init Input
 		Input.Init();
 
-		console.log("Game Initialize.");
+		if(debugMode) console.log("Game Initialize.");
 	}
 
+	/*
+		Game Update
+	*/
 	this.Update = function(delta)
 	{
 		var scene = this.CurrScene();
@@ -52,6 +80,9 @@ function Game()
 		}
 	}
 
+	/*
+		Game Draw
+	*/
 	this.Draw = function()
 	{	
 		var scene = this.CurrScene();
@@ -62,23 +93,30 @@ function Game()
 		}
 	}
 
+	/*
+		Game States
+
+		Clean, Pause and Resume Scenes.
+	*/
+	/*
 	this.Quit = function()
 	{
 		// Clean Scenes
 
 	}
 
-	/*this.pauseScene = function (){
-            var scene = scenes.CurrScene();
-            if (scene.onPause){
-                    scene.onPause();
-            }
+	this.pauseScene = function (){
+        var scene = scenes.CurrScene();
+        if (scene.onPause){
+                scene.onPause();
+        }
     }
 
     this.resumeScene = function (){
-            var scene = scenes.CurrScene();
-            if (scene.onResume){
-                    scene.onResume();
-            }
-    }*/
+        var scene = scenes.CurrScene();
+        if (scene.onResume){
+                scene.onResume();
+        }
+    }
+    */
 }

@@ -1,39 +1,52 @@
+/*
+    ##########################
+    Dash power
+    ##########################
 
+    Player Dash.
+*/
 function Dash() {
 
+	// UI Image icon
 	var image = loader.getFile("dash");
 
+	// UI Bar
 	var barImage = new Animation("dashBar", 72, 21, 300);
-
-	var totalCharges = 1;
-	var dashCharges = 1;
 
 	var barWidth = 60;
 	var barHeight = 10;
 
-	var power = 100;
+	// Charges
+	var totalCharges = 1;
+	var dashCharges = 1;
 
 	var reloadTime = 0;
-
 	var RELOAD_CD = 3000; //ms
+
+	// Movement
+	var power = 100;
 
 	this.Update = function(delta)
 	{
 		reloadTime += delta;
 
+		// Reload charges every RELOAD_CD ms
 		if(reloadTime >= RELOAD_CD) 
 		{
 			dashCharges = 1;
 			reloadTime = 0;
 		}
 
+		// Update UI
 		barImage.Update(delta);
 	}
 
 	this.Draw = function(x, y)
 	{
+		// Draw UI icon
 		graph.Draw(image, x, y);
 
+		// Draw UI Bar
 		graph.setColor("#41f3fc");
 		if(dashCharges == totalCharges) 
 		{
@@ -52,6 +65,7 @@ function Dash() {
 
 	this.Use = function()
 	{
+		// Use dash if available
 		if(dashCharges > 0) dashCharges--;
 
 		reloadTime = 0;

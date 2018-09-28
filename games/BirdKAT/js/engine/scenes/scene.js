@@ -1,7 +1,10 @@
 
 /*
     Game Scene 
+
+    Handle Scenes.
 */
+// Notes: 
 function Scene() {
 
     this.name;
@@ -10,7 +13,8 @@ function Scene() {
     this.OnEnter = function (){};
     this.OnExit = function (){};
 
-    // Will do if I have time
-    this.Pause = function (){};
+    // Notes: Will do if I have time
+    /*this.Pause = function (){};
     this.Resume= function (){};
+    */
 }

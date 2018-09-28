@@ -1,37 +1,64 @@
 
+/*
+	##########################
+			Main.js
+	##########################
+
+	Init Game.
+
+	Preload game assets, run first Scene and handle game loop.
+
+*/
+
+/*
+	Our new Game
+*/
 var game = new Game();
 
+var debugMode = false;	// Set Debug Mode
+
+/*
+	Game Loop
+
+	(Notes: Should've made this inside game.js.)
+*/
 var lastFrameTime = 0,
 	maxFPS = 60,
 	timestep = 1000/60,
 	delta = 0;
 
-var initGame = false;
 
+/*
+	Preload Game Assets
+*/
 var loader = new Preloader();
 
-// Load Game assets
-loader.load(function(progress) {
-	console.log("Loading: " + progress + "%");
+loader.load(function(progress) 
+{
+	if(debugMode) console.log("Loading: " + progress + "%");
 
 	// Init Game after Load
 	if(progress == 100) Setup();
 });
 
+/*
+	Init Game
+*/
 function Setup()
 {
+	// Init Game
 	game.Init();
 
-	// First Scene
+	// Run First Scene
 	game.AddScene(new SplashScene());
-	// Debug
-	//game.AddScene(new GameScene());
 
 	// Start Game after Init
 	requestAnimationFrame(MainLoop);
 }
 
-
+/*
+	Main Loop
+*/
 function MainLoop(timestamp)
 {
 	/*
@@ -53,7 +80,7 @@ function MainLoop(timestamp)
     delta += timestamp - lastFrameTime;
     lastFrameTime = timestamp;
 
-    // cap delta
+    // Cap delta
     while(delta >= timestep) {
     	//console.log("Delta time: ", delta);
 		game.Update(timestep);
@@ -64,6 +91,3 @@ function MainLoop(timestamp)
 
 	requestAnimationFrame(MainLoop);
 }
-
-// Start
-//if(startGame) requestAnimationFrame(MainLoop);

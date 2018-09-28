@@ -1,6 +1,13 @@
 
-// NOT USED
+/*
+    ##########################
+    BirdKAT Game Resource list
+    ##########################
+*/
 
+/*
+    Image resources
+*/
 var imageList = {
     // Splash Scene
     splash: "assets/splash.png",
@@ -31,3 +38,9 @@ var imageList = {
     pipeTop: "assets/pipeNorth.png",
     pipeBottom: "assets/pipeSouth.png"
 };
+
+/*
+    Sound resources
+*/
+
+// NOT IMPLEMENTED

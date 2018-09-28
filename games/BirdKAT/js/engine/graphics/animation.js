@@ -1,20 +1,37 @@
+/*
+	##########################
+	Animations
+	##########################
 
+	Game Animations.
 
+	Load SpriteSheet and handle animation Draw and Update.
+
+	name  	SpriteSheet file name
+	sW  	Sprite width
+	sH  	Sprite Height
+	d 		Duration (ms)
+	l 		Loop (True by default)
+*/
 function Animation(name, sW, sH, d, l = true)
 {
+	/*
+		Sprite Sheet
+	*/
+	// Image
 	var image = new Image();
 	image = loader.getFile(name);
-
-	// SpriteSheet
+	// Size
 	var spriteWidth, spriteHeight;
-
+	// Animation Update
 	var frameIndex, numberOfFrames;
 	var elapsedTime, duration;
-
-	// Animation
+	// Animation Loop
 	var loop;
 
-	// Initialize
+	/*
+		Init variables
+	*/
 	this.spriteWidth = sW;
 	this.spriteHeight = sH;
 
@@ -25,6 +42,9 @@ function Animation(name, sW, sH, d, l = true)
 	this.elapsedTime = 0;
 	this.duration = d;
 
+	/*
+		Update Animation
+	*/
 	this.Update = function(delta) 
 	{
 		this.elapsedTime += delta;
@@ -39,16 +59,19 @@ function Animation(name, sW, sH, d, l = true)
         }
 	}
 
+	/*
+		Draw Animation
+	*/
 	this.Draw = function(x, y)
 	{
-		// Draw animation
 		// Gonna use Horizontal Strip sprite sheets to avoid calculating Y
-		// Could make it dynamic if I had more time
+		// Notes: Make this dynamic later and add vertical support.
 		graph.DrawAnimation(image, 
-			this.currFrame * this.spriteWidth, 0, 	// Sprite pos X and Y on Sprite Sheet
+			this.currFrame * this.spriteWidth, 0, 	// Sprite pos on Sprite Sheet
 			this.spriteWidth, this.spriteHeight, 	// Sprite size
 			x, y 									// Sprite pos on screen
 		);
+		// Notes: Not using Target sprite width and height 'cause it ain't supporting resize yet.
 	}
 
 }
