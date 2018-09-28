@@ -72,6 +72,9 @@ function Game()
 	*/
 	this.Update = function(delta)
 	{
+		// Update Input (movement states)
+		Input.Update(delta);
+
 		var scene = this.CurrScene();
 		if(scene)
 		{

@@ -25,6 +25,11 @@ function InputManager()
 		Keyboard.Init();
 	}
 
+	this.Update = function(delta)
+	{
+		Touch.Update(delta);
+	}
+
 	this.Clear = function()
 	{
 		Mouse.Clear();
