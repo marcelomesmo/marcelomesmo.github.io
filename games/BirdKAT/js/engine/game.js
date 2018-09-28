@@ -42,7 +42,7 @@ function Game()
 
 		// Store and init the new scene
         scenes.push(scene);
-    	console.log("Added new scene " + scene.name);
+    	if(debugMode) console.log("Added new scene " + scene.name);
         scene.OnEnter();
     }
     // Return current Scene

@@ -67,6 +67,12 @@ function TouchController()
         }
       );
 
+      graph.getCanvas().addEventListener("touchmove", function(e)
+        {
+            e.preventDefault(); // Prevent scrolling canvas while swiping
+        }
+      );
+
       if(debugMode) console.log("Touch Input Initialized.");
   }
 
@@ -103,6 +109,12 @@ function TouchController()
   this.IsTouching = function()
   {
       return touchControl.DOWN;
+  }
+
+  this.IsSwipingRight = function()
+  {
+    if(swipeDir.RIGHT) return true;
+    return false;
   }
 
   // CANVAS INPUT HANDLERS

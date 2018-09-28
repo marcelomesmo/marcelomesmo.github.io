@@ -85,7 +85,7 @@ function Bird(imgName, sPosX, sPosY) {
 		this.velX = 0;
 
 		// Notes: Didn't had time to debug Touch.
-		if(/*Touch.HasTouchSwipe(SWIPE.RIGHT) ||*/ Keyboard.IsKeyPressed(KEY.D))
+		if(Touch.IsSwipingRight() || Keyboard.IsKeyPressed(KEY.D))
 		{
 			this.Dash();
 		}
