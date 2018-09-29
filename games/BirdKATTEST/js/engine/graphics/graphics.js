@@ -71,6 +71,10 @@ function Graphics()
 		// Disable smoothing to keep pixels pretty (yes, they are)
 		context.imageSmoothingEnabled = false;
 
+		screen.orientation.lock("landscape-primary");
+		screen.msLockOrientation.lock("landscape-primary");
+		screen.mozLockOrientation.lock("landscape-primary");
+
 		/* 
 			NOT USED
 
