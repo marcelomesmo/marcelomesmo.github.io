@@ -82,6 +82,8 @@ function Boss() {
 	this.Draw = function()
 	{
 		graph.Draw(image, this.currX, this.currY);
+
+		if(debugMode) graph.DrawRect(this.currX, this.currY, image.width, image.height);
 	}
 
 	this.IsAtacking = function()

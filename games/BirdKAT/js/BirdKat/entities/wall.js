@@ -40,6 +40,8 @@ function Wall() {
 	this.Draw = function()
 	{
 		graph.Draw(image, this.currX, 0);
+
+		if(debugMode) graph.DrawRect(this.currX, 0, image.width, image.height);
 	}
 
 	/*

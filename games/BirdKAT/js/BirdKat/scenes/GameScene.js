@@ -228,7 +228,7 @@ function GameScene() {
     this.Draw = function ()
     {
         // Draw BG
-        graph.FillScreen("#0095e9");
+        graph.FillScreen("#64b2de");
         bgGame.Draw();
 
         // Draw Pipes
