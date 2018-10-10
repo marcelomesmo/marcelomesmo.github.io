@@ -83,11 +83,11 @@ Jogos 3º ano Matutino
   
 Alunos | Jogo | Prêmios  
 :------------- |:-------------|:-------------  
- Danilo <br> Raíssa de Jesus <br> Raíssa Martins | [NOME](https://LINK.github.io/NOME) |    
+ Danilo <br> Raíssa de Jesus <br> Raíssa Martins | [FLAMBA](https://LINK.github.io/NOME) |    
  Pedro <br> Eriky | [NOME](https://LINK.github.io/NOME) |    
- Tawan <br> Sebastião | [NOME](https://LINK.github.io/NOME) |    
+ Tawan <br> Sebastião | [Geritama](https://LINK.github.io/NOME) |    
  Ruana <br> Claudia | [NOME](https://LINK.github.io/NOME) |    
- Hádssa <br> Wanderson | [NOME](https://LINK.github.io/NOME) |    
+ Hádssa <br> Wanderson | [Cozinha Maluca](https://LINK.github.io/NOME) |    
   
   
 Jogos 3º ano Vespertino  
