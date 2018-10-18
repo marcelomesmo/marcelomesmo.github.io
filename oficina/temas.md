@@ -83,26 +83,26 @@ Jogos 3º ano Matutino
   
 Alunos | Jogo | Prêmios  
 :------------- |:-------------|:-------------  
- Danilo <br> Raíssa de Jesus <br> Raíssa Martins | [FLAMBA](https://LINK.github.io/NOME) |    
- Pedro <br> Eriky | [NOME](https://LINK.github.io/NOME) |    
- Tawan <br> Sebastião | [Geritama](https://LINK.github.io/NOME) |    
- Ruana <br> Claudia | [NOME](https://LINK.github.io/NOME) |    
- Hádssa <br> Wanderson | [Cozinha Maluca](https://LINK.github.io/NOME) |    
+ Danilo <br> Raíssa de Jesus <br> Raíssa Martins | [FLAMBA](https://raixasantos.github.io/Flamba/) |    
+ Pedro <br> Eriky | [Paneboom](https://HanzPeters.github.io/Paneboom/) |    
+ Tawan <br> Sebastião | [Geritama](https://tawanferreira10.github.io/Geritama/) |    
+ Ruana <br> Claudia | [As Aventuras de Chupinga](https://ruanaffff.github.io/Chupinga/) |    
+ Hádssa <br> Wanderson | [Cozinha Maluca](https://hadssajordana7.github.io/cozinhamaluca/) |    
   
   
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| Maria Eloisa <br> Cicero | [NOME](https://LINK.github.io/Nome) |  
-| Maria Vitoria <br> Maciel | [NOME](https://LINK.github.io/Nome) |    
-| João Paulo <br> Wesley | [NOME](https://LINK.github.io/Nome) |  
-| Lemuel <br> Elionilton | [NOME](https://LINK.github.io/Nome) |  
-| Pedro Lopes <br> Sandrinha | [NOME](https://LINK.github.io/Nome) |  
-| Marcelo <br> Gabriel Galvão | [NOME](https://LINK.github.io/Nome) |  
-| Anthony <br> Gabriel Felix | [NOME](https://LINK.github.io/Nome) |    
-| Victória <br> Isaque | [NOME](https://LINK.github.io/Nome) |    
-| William <br> João Vitor <br> Pedro Galdino | [NOME](https://LINK.github.io/Nome) |  
+| Maria Eloisa <br> Maciel | [Deu a Louca nas Estações](https://eloisaliima.github.io/Estacoes/) |  
+| João Paulo <br> Cicero | [?](https://LINK.github.io/Nome) |    
+| Maria Vitoria <br> Wesley | [Thermal Balance](https://wesleybilly27.github.io/TB/) |  
+| Lemuel <br> Pedro Galdino | [NOME](https://LINK.github.io/Nome) |  
+| Pedro Lopes <br> Gabriel Galvão | [The Last Human](https://galva1.github.io/LH/) |  
+| Marcelo <br> Isaque | [Weather Gangs](https://ronaque.github.io/WeatherGangs/) |  
+| Anthony <br> William | [Raposao, a Origem](https://LINK.github.io/Nome) |    
+| Victória <br> Sandra | [The Cowboy's Trip](https://armindaa.github.io/Cowboy/) |    
+| Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb602/) |  
   
 
 > ## 2017
