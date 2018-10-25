@@ -95,14 +95,15 @@ Jogos 3º ano Vespertino
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
 | Maria Eloisa <br> Maciel | [Deu a Louca nas Estações](https://eloisaliima.github.io/Estacoes/) |  
-| João Paulo <br> Cicero | [?](https://LINK.github.io/Nome) |    
+| João Paulo <br> Cicero | [?](https://CICEROC.github.io/jogo3bim/) |    
 | Maria Vitoria <br> Wesley | [Thermal Balance](https://wesleybilly27.github.io/TB/) |  
 | Lemuel <br> Pedro Galdino | [NOME](https://LINK.github.io/Nome) |  
 | Pedro Lopes <br> Gabriel Galvão | [The Last Human](https://galva1.github.io/LH/) |  
 | Marcelo <br> Isaque | [Weather Gangs](https://ronaque.github.io/WeatherGangs/) |  
 | Anthony <br> William | [Raposao, a Origem](https://LINK.github.io/Nome) |    
 | Victória <br> Sandra | [The Cowboy's Trip](https://armindaa.github.io/Cowboy/) |    
-| Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb602/) |  
+| Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb602n/) |    
+| Maria Alice | [Stations of the Year](https://alicinhaa.github.io/SOY/) |    
   
 
 > ## 2017
