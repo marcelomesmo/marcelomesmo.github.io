@@ -83,26 +83,26 @@ Jogos 3º ano Matutino
   
 Alunos | Jogo | Prêmios  
 :------------- |:-------------|:-------------  
- Danilo <br> Raíssa de Jesus <br> Raíssa Martins | [FLAMBA](https://raixasantos.github.io/Flamba/) |    
+ Danilo <br> Raíssa de Jesus <br> Raíssa Martins | [FLAMBA](https://raixasantos.github.io/Flamba/) | ![Melhor Jogo][melhor]    
  Pedro <br> Eriky | [Paneboom](https://HanzPeters.github.io/Paneboom/) |    
- Tawan <br> Sebastião | [Geritama](https://tawanferreira10.github.io/geritama/) |    
+ Tawan <br> Sebastião | [Geritama](https://tawanferreira10.github.io/geritama/) | ![Melhor Arte][arte]    
  Ruana <br> Claudia | [As Aventuras de Chupinga](https://ruanaffff.github.io/Chupinga/) |    
- Hádssa <br> Wanderson | [Cozinha Maluca](https://hadssajordana7.github.io/cozinhamaluca/) |    
+ Hádssa <br> Wanderson | [Cozinha Maluca](https://hadssajordana7.github.io/cozinhamaluca/) | ![Melhor Mecânica][mecanica]    
   
   
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| Maria Eloisa <br> Maciel | [Deu a Louca nas Estações](https://eloisaliima.github.io/Estacoes/) |  
-| João Paulo <br> Cicero | [?](https://CICEROC.github.io/jogo3bim/) |    
-| Maria Vitoria <br> Wesley | [Thermal Balance](https://wesleybilly27.github.io/TB/) |  
-| Lemuel <br> Pedro Galdino | [NOME](https://LINK.github.io/Nome) |  
-| Pedro Lopes <br> Gabriel Galvão | [The Last Human](https://galva1.github.io/LH/) |  
-| Marcelo <br> Isaque | [Weather Gangs](https://ronaque.github.io/WeatherGangs/) |  
+| Maria Eloisa <br> Maciel | [Deu a Louca nas Estações](https://eloisaliima.github.io/Estacoes/) | ![Destaque][mencao]  
+| João Paulo <br> Cicero | - |    
+| Maria Vitoria <br> Wesley | [Thermal Balance](https://wesleybilly27.github.io/TB/) | ![Destaque][mencao]  
+| Lemuel <br> Pedro Galdino | - |  
+| Pedro Lopes <br> Gabriel Galvão | [The Last Human](https://galva1.github.io/LH/) | ![Melhor Arte][arte]  
+| Marcelo <br> Isaque | [Weather Gangs](https://ronaque.github.io/WeatherGangs/) | ![Melhor Mecânica][mecanica] 
 | Anthony <br> William | [Raposao, a Origem](https://LINK.github.io/Nome) |    
 | Victória <br> Sandra | [The Cowboy's Trip](https://armindaa.github.io/Cowboy/) |    
-| Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb-612n/) |    
+| Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb-612n/) | ![Melhor Jogo][melhor]    
 | Maria Alice | [Stations of the Year](https://alicinhaa.github.io/SOY/) |    
   
 
