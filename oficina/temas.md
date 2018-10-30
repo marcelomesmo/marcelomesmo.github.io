@@ -85,7 +85,7 @@ Alunos | Jogo | Prêmios
 :------------- |:-------------|:-------------  
  Danilo <br> Raíssa de Jesus <br> Raíssa Martins | [FLAMBA](https://raixasantos.github.io/Flamba/) |    
  Pedro <br> Eriky | [Paneboom](https://HanzPeters.github.io/Paneboom/) |    
- Tawan <br> Sebastião | [Geritama](https://tawanferreira10.github.io/Geritama/) |    
+ Tawan <br> Sebastião | [Geritama](https://tawanferreira10.github.io/geritama/) |    
  Ruana <br> Claudia | [As Aventuras de Chupinga](https://ruanaffff.github.io/Chupinga/) |    
  Hádssa <br> Wanderson | [Cozinha Maluca](https://hadssajordana7.github.io/cozinhamaluca/) |    
   
@@ -102,7 +102,7 @@ Jogos 3º ano Vespertino
 | Marcelo <br> Isaque | [Weather Gangs](https://ronaque.github.io/WeatherGangs/) |  
 | Anthony <br> William | [Raposao, a Origem](https://LINK.github.io/Nome) |    
 | Victória <br> Sandra | [The Cowboy's Trip](https://armindaa.github.io/Cowboy/) |    
-| Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb602n/) |    
+| Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb-612n/) |    
 | Maria Alice | [Stations of the Year](https://alicinhaa.github.io/SOY/) |    
   
 
