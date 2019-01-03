@@ -125,10 +125,10 @@ Jogos 3º ano Vespertino
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| Maria Eloisa <br> Wesley <br> João Vitor | [Sideway Jump](https://wesleybilly27.github.io/sj/) |  
-| João Paulo <br> Maciel <br> Pedro Galdino | [Sem Padroes](https://maciellima.github.io/sempadroes/) |    
+| Maria Eloisa <br> Wesley <br> João Vitor | [Sideway Jump](https://wesleybilly27.github.io/SJ/) |  
+| João Paulo <br> Maciel <br> Pedro Galdino | [Sem Padroes](https://maciellima.github.io/sempadrao/) |    
 | Maria Vitoria <br> Victória | [Spider Girl](https://mavicampos.github.io/SA/) |  
-| Lemuel <br> Isaac <br> Gabriel Galvão | [Iglu](https://ronakue.github.io/Iglu/) |  
+| Lemuel <br> Isaac <br> Gabriel Galvão | [Igloo](https://ronaque.github.io/Igloo/) |  
 | Pedro Lopes <br> Gabriel Felix | [Wizard Wars](https://gabfelix.github.io/pubb/) |  
 | Anthony | [ ](https://.github.io//) |    
 | William | [Inferno](https://soueuwilliameumesmo.github.io/Inferno/) |    
