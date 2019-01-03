@@ -100,10 +100,41 @@ Jogos 3º ano Vespertino
 | Lemuel <br> Pedro Galdino | - |  
 | Pedro Lopes <br> Gabriel Galvão | [The Last Human](https://galva1.github.io/LH/) | ![Melhor Arte][arte]  
 | Marcelo <br> Isaque | [Weather Gangs](https://ronaque.github.io/WeatherGangs/) | ![Melhor Mecânica][mecanica] 
-| Anthony <br> William | [Raposao, a Origem](https://LINK.github.io/Nome) |    
+| Anthony <br> William | [Raposao, a Origem](https://soueuwilliameumesmo.github.io/Rp/) |    
 | Victória <br> Sandra | [The Cowboy's Trip](https://armindaa.github.io/Cowboy/) |    
 | Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb-612n/) | ![Melhor Jogo][melhor]    
 | Maria Alice | [Stations of the Year](https://alicinhaa.github.io/SOY/) |    
+  
+  
+#### Tema 4 : Livre 
+   
+Jogos 3º ano Matutino  
+  
+*Clique no nome do jogo para acessar.*  
+  
+Alunos | Jogo | Prêmios  
+:------------- |:-------------|:-------------  
+ Eriky <br> Claudia | [Mae, quem apagou a luz?](https://erikyjoseph.github.io/maequemapagou/) |    
+ Pedro <br> Tawan | [GeoMatrix](https://tawanferreira10.github.io/Geo/) |     
+ Hádssa <br> Sebastião | [Fallen Sky](https://hadssajordana7.github.io/fallensky/) |   
+ Raíssa Martins <br> Raíssa de Jesus | [Celeste Star](https://raixasantos.github.io/Celeste/) |    
+ Danilo <br> Wanderson | [Fuja](https://danilo25.github.io/Fuja/) |    
+  
+  
+Jogos 3º ano Vespertino  
+
+| Alunos | Jogo | Prêmios |
+|:------------- |:-------------|:---:|
+| Maria Eloisa <br> Maciel | [Deu a Louca nas Estações](https://eloisaliima.github.io/Estacoes/) | 
+| João Paulo <br> Cicero | - |    
+| Maria Vitoria <br> Wesley | [Thermal Balance](https://wesleybilly27.github.io/TB/) | 
+| Lemuel <br> Pedro Galdino | - |  
+| Pedro Lopes <br> Gabriel Galvão | [The Last Human](https://galva1.github.io/LH/) |  
+| Marcelo <br> Isaque | [Weather Gangs](https://ronaque.github.io/WeatherGangs/) | 
+| Anthony <br> William | [Raposao, a Origem](https://soueuwilliameumesmo.github.io/Rp/) |    
+| Victória <br> Sandra | [The Cowboy's Trip](https://armindaa.github.io/Cowboy/) |    
+| Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb-612n/) |   
+| Maria Alice | [Stations of the Year](https://alicinhaa.github.io/SOY/) |  
   
 
 > ## 2017
