@@ -28,7 +28,7 @@ Alunos | Jogo | Prêmios
  Ruana <br> Eriky <br> Claudia | [Dog Challenge](https://ruanaffff.github.io/CAOZINHOGUB) | ![Melhor Jogo][melhor]    
  Hádssa <br> Raíssa de Jesus <br> Raíssa Martins | [Astral Plane](https://raixasantos.github.io/AstralPlane) | ![Melhor Mecânica][mecanica]  
   
-
+  
 Jogos 3º ano Vespertino  
   
 | Alunos | Jogo | Prêmios |
@@ -43,8 +43,8 @@ Jogos 3º ano Vespertino
 | Cicero <br> João Paulo | [Fruts](https://ciceroc.github.io/Game%20fruts/) |  
 | Lemuel <br> Gabriel Galvão | [NSM](https://lemuelmarques.github.io/NSMTHEGAME) | ![Destaque][mencao]  
 | Maria Alice | [Climbing Courage](https://alicinhaa.github.io/Climbcou) |  
-  
-  
+    
+    
 #### Tema 2 : Companheirismo (plataforma)  
    
 Jogos 3º ano Matutino  
@@ -73,8 +73,8 @@ Jogos 3º ano Vespertino
 | Victória <br> Isaque | [The Wizard](https://ronaque.github.io/The%20Wizard/) |  
 | William <br> João Vitor <br> Pedro Galdino | [Elementary Dinasty](https://vitor77ferreira.github.io/ED_11/) |  
 | Maria Alice | [Save the Princess](https://alicinhaa.github.io/STP/) |  
-  
-  
+    
+    
 #### Tema 3 : Temperatura (plataforma e/ou mobile)  
    
 Jogos 3º ano Matutino  
@@ -88,8 +88,8 @@ Alunos | Jogo | Prêmios
  Tawan <br> Sebastião | [Geritama](https://tawanferreira10.github.io/geritama/) | ![Melhor Arte][arte]    
  Ruana <br> Claudia | [As Aventuras de Chupinga](https://ruanaffff.github.io/Chupinga/) |    
  Hádssa <br> Wanderson | [Cozinha Maluca](https://hadssajordana7.github.io/cozinhamaluca/) | ![Melhor Mecânica][mecanica]    
-  
-  
+    
+    
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
@@ -119,22 +119,21 @@ Alunos | Jogo | Prêmios
  Hádssa <br> Sebastião | [Fallen Sky](https://hadssajordana7.github.io/fallensky/) |   
  Raíssa Martins <br> Raíssa de Jesus | [Celeste Star](https://raixasantos.github.io/Celeste/) |    
  Danilo <br> Wanderson | [Fuja](https://danilo25.github.io/Fuja/) |    
-  
-  
+    
+    
 Jogos 3º ano Vespertino  
 
 | Alunos | Jogo | Prêmios |
 |:------------- |:-------------|:---:|
-| Maria Eloisa <br> Maciel | [Deu a Louca nas Estações](https://eloisaliima.github.io/Estacoes/) | 
-| João Paulo <br> Cicero | - |    
-| Maria Vitoria <br> Wesley | [Thermal Balance](https://wesleybilly27.github.io/TB/) | 
-| Lemuel <br> Pedro Galdino | - |  
-| Pedro Lopes <br> Gabriel Galvão | [The Last Human](https://galva1.github.io/LH/) |  
-| Marcelo <br> Isaque | [Weather Gangs](https://ronaque.github.io/WeatherGangs/) | 
-| Anthony <br> William | [Raposao, a Origem](https://soueuwilliameumesmo.github.io/Rp/) |    
-| Victória <br> Sandra | [The Cowboy's Trip](https://armindaa.github.io/Cowboy/) |    
-| Gabriel Felix  <br> João Vitor | [Blob B-602](https://beladona-games.github.io/bb-612n/) |   
-| Maria Alice | [Stations of the Year](https://alicinhaa.github.io/SOY/) |  
+| Maria Eloisa <br> Wesley <br> João Vitor | [Sideway Jump](https://wesleybilly27.github.io/sj/) |  
+| João Paulo <br> Maciel <br> Pedro Galdino | [Sem Padroes](https://maciellima.github.io/sempadroes/) |    
+| Maria Vitoria <br> Victória | [Spider Girl](https://mavicampos.github.io/SA/) |  
+| Lemuel <br> Isaac <br> Gabriel Galvão | [Iglu](https://ronakue.github.io/Iglu/) |  
+| Pedro Lopes <br> Gabriel Felix | [Wizard Wars](https://gabfelix.github.io/pubb/) |  
+| Anthony | [ ](https://.github.io//) |    
+| William | [Inferno](https://soueuwilliameumesmo.github.io/Inferno/) |    
+| Ruana <br> Sandra | [Privadinha](https://alexsandrasilvaaa.github.io/Privadinha/) |   
+| Maria Alice | [ ](https://alicinhaa.github.io//) |  
   
 
 > ## 2017
