@@ -130,10 +130,10 @@ Jogos 3º ano Vespertino
 | Maria Vitoria <br> Victória | [Spider Girl](https://mavicampos.github.io/SA/) |  
 | Lemuel <br> Isaac <br> Gabriel Galvão | [Igloo](https://ronaque.github.io/Igloo/) |  
 | Pedro Lopes <br> Gabriel Felix | [Wizard Wars](https://gabfelix.github.io/pubb/) |  
-| Anthony | [ ](https://.github.io//) |    
+| Anthony | [Talvez de Certo](https://tryout255.github.io/Talvez-de-muito-certo-/) |    
 | William | [Inferno](https://soueuwilliameumesmo.github.io/Inferno/) |    
 | Ruana <br> Sandra | [Privadinha](https://alexsandrasilvaaa.github.io/Privadinha/) |   
-| Maria Alice | [ ](https://alicinhaa.github.io//) |  
+| Maria Alice | [Food Game](https://alicinhaa.github.io/fg/) |  
   
 
 > ## 2017
