@@ -16,7 +16,7 @@
         </a>
       {% endfor %}-->
       {% for game in site.data.settings.games %}
-        <a href="{{ site.github.url }}/{{ game.file }}">
+        <a href="{{ game.link }}" target="_blank">
           <div class="thumb-unit" data-folder="{{ site.github.url }}/games/{{ game.folder }}" style="background-image: url({{ site.github.url }}/assets/img/games/{{ game.folder }}/thumb.jpg)">
             <div class="thumb-overlay">
               <strong>{{ game.name }} </strong>

@@ -50,11 +50,13 @@ contact: >
 # Work Section
 
 games:
-- {name: 'Fungi', folder: 'game-5', file: 'games/game-5.html'}
-- {name: 'Hekura', folder: 'game-1', file: 'games/game-1.html'}
-- {name: 'Dark Tarot of Memory', folder: 'game-2', file: 'games/game-2.html'}
-- {name: 'Dr. BloodStrike', folder: 'game-3', file: 'games/game-3.html'}
-- {name: 'MONSTERS!', folder: 'game-4', file: 'games/game-4.html'}
+- {name: 'Kawaii Deathu Desu', folder: 'game-6', file: 'games/game-6.html', link: 'https://pippingames.itch.io/kawaii-deathu-desu'}
+- {name: 'Fungi', folder: 'game-5', file: 'games/game-5.html', link: 'https://pippingames.itch.io/fungi'}
+- {name: 'Hekura', folder: 'game-1', file: 'games/game-1.html', link: 'https://marcelomesmo.itch.io/hekura'}
+- {name: 'Dark Tarot of Memory', folder: 'game-2', file: 'games/game-2.html', link: 'https://marcelomesmo/games/game-2.html'}
+- {name: 'Dr. BloodStrike', folder: 'game-3', file: 'games/game-3.html', link: 'https://marcelomesmo/games/game-3.html'}
+- {name: 'MONSTERS!', folder: 'game-4', file: 'games/game-4.html', link: 'https://marcelomesmo/games/game-4.html'}
+- {name: 'RoboCharge', folder: 'game-7', file: 'games/game-7.html', link: 'https://petit-suisse.itch.io/robo-charge'}
 
 projects:
 - {name: 'Reis', folder: 'proj-1', file: 'projects/proj-1.html'}
@@ -67,9 +69,9 @@ profilepic: 'assets/img/profile.png'
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/pixuarte'}
+- {icon: 'twitter', link: 'https://twitter.com/marcelomesmo'}
 - {icon: 'pencil', link: 'https://www.artstation.com/marcelomesmo'}
 - {icon: 'github', link: 'https://github.com/marcelomesmo'}
-- {icon: 'envelope', link: 'mailto:marcelo.barbosa@ifrn.edu.br'}
+- {icon: 'envelope', link: 'mailto:mcelobb@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
