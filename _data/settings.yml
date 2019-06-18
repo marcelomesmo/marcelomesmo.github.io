@@ -50,7 +50,7 @@ contact: >
 # Work Section
 
 games:
-- {name: 'Kawaii Deathu Desu', folder: 'game-6', file: 'games/game-6.html', link: 'https://pippingames.itch.io/kawaii-deathu-desu'}
+- {name: 'Kawaii Deathu Desu', folder: 'game-6', file: 'games/game-6.html', link: 'https://store.steampowered.com/app/1102880/Kawaii_Deathu_Desu/?fbclid=IwAR1ffRz6e9Unxpv0_nNmNpCEe3rdR15gDHcDvusHqa11XNUH3oAOycZf75I'}
 - {name: 'Fungi', folder: 'game-5', file: 'games/game-5.html', link: 'https://pippingames.itch.io/fungi'}
 - {name: 'Hekura', folder: 'game-1', file: 'games/game-1.html', link: 'https://marcelomesmo.itch.io/hekura'}
 - {name: 'Dark Tarot of Memory', folder: 'game-2', file: 'games/game-2.html', link: 'https://marcelomesmo.com/games/game-2.html'}
