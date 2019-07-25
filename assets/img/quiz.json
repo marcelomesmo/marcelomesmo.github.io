@@ -5,7 +5,7 @@
       "questions":[  
          {  
             "id":0,
-            "text":"This is a question:",
+            "text":"Qual o nome do personagem:",
             "trueOrFalse":false,
             "score":100,
             "dataAdress":"https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg",
@@ -20,6 +20,33 @@
             "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
             "answers":["",""],
             "correctAnswer": "True"
+         },
+         {  
+            "id":2,
+            "text":"Quem falou a frase: E por isso que eu procuro errar bastante, para ter muitas oportunidades de reconhecer o meu erro",
+            "trueOrFalse":false,
+            "score":200,
+            "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
+            "answers":["jorel","sir edson", "vovo", "brother of jorel"],
+            "correctAnswer": "sir edson"
+         },
+         {  
+            "id":1,
+            "text":"Quem falou a frase: Vida longa aos vidas loka!",
+            "trueOrFalse":false,
+            "score":200,
+            "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
+            "answers":["lara","sir edson", "jorel", "brother of jorel"],
+            "correctAnswer": "brother of jorel"
+         },
+         {  
+            "id":1,
+            "text":"Quem falou a frase: Voce chama alguem de 'mulherzinha' quando a pessoa e incrivel",
+            "trueOrFalse":false,
+            "score":200,
+            "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
+            "answers":["lara","sir edson", "vovo", "brother of jorel"],
+            "correctAnswer": "brother of jorel"
          }
       ]
    }
