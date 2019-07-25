@@ -8,16 +8,18 @@
             "text":"This is a question:",
             "trueOrFalse":false,
             "score":100,
-            "data_adress":"https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg",
-            "answers":["1","2","3","4"]
+            "dataAdress":"https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg",
+            "answers":["1","2","3","4"],
+            "correctAnswer": "1"
          },
          {  
             "id":1,
             "text":"This is another question:",
             "trueOrFalse":true,
             "score":200,
-            "data_adress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
-            "answers":["1","2"]
+            "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
+            "answers":["1","2"],
+            "correctAnswer": "2"
          }
       ]
    }
