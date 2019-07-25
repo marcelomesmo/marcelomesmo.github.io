@@ -18,6 +18,7 @@
             "trueOrFalse":true,
             "score":200,
             "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
+            "answers":["",""],
             "correctAnswer": "True"
          }
       ]
