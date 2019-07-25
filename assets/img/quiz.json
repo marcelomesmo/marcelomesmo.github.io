@@ -14,12 +14,11 @@
          },
          {  
             "id":1,
-            "text":"This is another question:",
+            "text":"O que faz bem pro cabelo?",
             "trueOrFalse":true,
             "score":200,
             "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
-            "answers":["cenoura","abacate"],
-            "correctAnswer": "abacate"
+            "correctAnswer": "True"
          }
       ]
    }
