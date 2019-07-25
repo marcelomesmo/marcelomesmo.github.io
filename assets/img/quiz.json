@@ -26,7 +26,7 @@
             "text":"Quem falou a frase: E por isso que eu procuro errar bastante, para ter muitas oportunidades de reconhecer o meu erro",
             "trueOrFalse":false,
             "score":200,
-            "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
+            "dataAdress":"",
             "answers":["jorel","sir edson", "vovo", "brother of jorel"],
             "correctAnswer": "sir edson"
          },
@@ -35,7 +35,7 @@
             "text":"Quem falou a frase: Vida longa aos vidas loka!",
             "trueOrFalse":false,
             "score":200,
-            "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
+            "dataAdress":"",
             "answers":["lara","sir edson", "jorel", "brother of jorel"],
             "correctAnswer": "brother of jorel"
          },
@@ -44,7 +44,7 @@
             "text":"Quem falou a frase: Voce chama alguem de 'mulherzinha' quando a pessoa e incrivel",
             "trueOrFalse":false,
             "score":200,
-            "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
+            "dataAdress":"",
             "answers":["lara","sir edson", "vovo", "brother of jorel"],
             "correctAnswer": "brother of jorel"
          }
