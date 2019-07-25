@@ -9,8 +9,8 @@
             "trueOrFalse":false,
             "score":100,
             "dataAdress":"https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg",
-            "answers":["jorel","irmao do jorel","vovo","bicicleta"],
-            "correctAnswer": "irmao do jorel"
+            "answers":["jorel","brother of jorel","vovo","bicicleta"],
+            "correctAnswer": "brother of jorel"
          },
          {  
             "id":1,
