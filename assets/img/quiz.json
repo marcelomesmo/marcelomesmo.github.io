@@ -1,0 +1,58 @@
+{  
+   "quiz":{  
+      "name":"quiztest",
+      "description":"testing my framework",
+      "questions":[  
+         {  
+            "id":0,
+            "text":"Qual o nome do personagem:",
+            "trueOrFalse":false,
+            "timeToAnswer":5,
+            "score":100,
+            "dataAdress":"https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg",
+            "answers":["jorel","brother of jorel","vovo","bicicleta"],
+            "correctAnswer": "brother of jorel"
+         },
+         {  
+            "id":1,
+            "text":"Abacate faz bem pro cabelo?",
+            "trueOrFalse":true,
+            "timeToAnswer":10,
+            "score":200,
+            "dataAdress":"https://aventurasnahistoria.uol.com.br/media/_versions/irmaodoorel_widelg.png",
+            "answers":["",""],
+            "correctAnswer": "True"
+         },
+         {  
+            "id":2,
+            "text":"Quem falou a frase:\n E por isso que eu procuro errar bastante, para ter muitas oportunidades de reconhecer o meu erro",
+            "trueOrFalse":false,
+            "timeToAnswer":5,
+            "score":200,
+            "dataAdress":"",
+            "answers":["jorel","sir edson", "vovo", "brother of jorel"],
+            "correctAnswer": "sir edson"
+         },
+         {  
+            "id":1,
+            "text":"Quem falou a frase:\n Vida longa aos vidas loka!",
+            "trueOrFalse":false,
+            "timeToAnswer":2,
+            "score":200,
+            "dataAdress":"",
+            "answers":["lara","sir edson", "jorel", "brother of jorel"],
+            "correctAnswer": "brother of jorel"
+         },
+         {  
+            "id":1,
+            "text":"Quem falou a frase:\n Voce chama alguem de 'mulherzinha' quando a pessoa e incrivel",
+            "trueOrFalse":false,
+            "timeToAnswer":7,
+            "score":200,
+            "dataAdress":"",
+            "answers":["lara","sir edson", "vovo", "brother of jorel"],
+            "correctAnswer": "lara"
+         }
+      ]
+   }
+}
