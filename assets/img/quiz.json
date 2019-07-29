@@ -5,17 +5,17 @@
       "questions":[  
          {  
             "id":0,
-            "text":"Qual o nome do personagem:",
+            "text":"Best fruit ever:",
             "trueOrFalse":false,
             "timeToAnswer":5,
             "score":100,
             "dataAdress":"https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/07/irmaodojorel.jpg",
-            "answers":["jorel","brother of jorel","vovo","bicicleta"],
-            "correctAnswer": "brother of jorel"
+            "answers":["apple","banana","grapes","chocolate"],
+            "correctAnswer": "chocolate"
          },
          {  
             "id":1,
-            "text":"Abacate faz bem pro cabelo?",
+            "text":"Does potato fries make a complete balanced diet?",
             "trueOrFalse":true,
             "timeToAnswer":10,
             "score":200,
@@ -25,7 +25,7 @@
          },
          {  
             "id":2,
-            "text":"Quem falou a frase:\n E por isso que eu procuro errar bastante, para ter muitas oportunidades de reconhecer o meu erro",
+            "text":"Who said the sentence:\n E por isso que eu procuro errar bastante, para ter muitas oportunidades de reconhecer o meu erro",
             "trueOrFalse":false,
             "timeToAnswer":5,
             "score":200,
@@ -35,23 +35,23 @@
          },
          {  
             "id":1,
-            "text":"Quem falou a frase:\n Vida longa aos vidas loka!",
+            "text":"Who said the sentence:\n Stretch every 30 minutes",
             "trueOrFalse":false,
             "timeToAnswer":2,
             "score":200,
             "dataAdress":"",
-            "answers":["lara","sir edson", "jorel", "brother of jorel"],
-            "correctAnswer": "brother of jorel"
+            "answers":["marcelo","fernando", "diego", "joao"],
+            "correctAnswer": "marcelo"
          },
          {  
             "id":1,
-            "text":"Quem falou a frase:\n Voce chama alguem de 'mulherzinha' quando a pessoa e incrivel",
+            "text":"When traveling, if you buy an international phone chip, one should be aware of:",
             "trueOrFalse":false,
             "timeToAnswer":7,
             "score":200,
             "dataAdress":"",
-            "answers":["lara","sir edson", "vovo", "brother of jorel"],
-            "correctAnswer": "lara"
+            "answers":["not listening to advices", "arriving early at the airport", "calling Oi company first", "not changing phone device"],
+            "correctAnswer": "not changing phone device"
          }
       ]
    }
