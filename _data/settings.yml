@@ -50,6 +50,7 @@ contact: >
 # Work Section
 
 games:
+- {name: 'Looney Tunes: World of Mayhem', folder: 'game-10', file: 'games/game-10.html', link: 'https://looneytuneswom.scopely.com'}
 - {name: 'Kawaii Deathu Desu', folder: 'game-6', file: 'games/game-6.html', link: 'https://store.steampowered.com/app/1102880/Kawaii_Deathu_Desu/?fbclid=IwAR1ffRz6e9Unxpv0_nNmNpCEe3rdR15gDHcDvusHqa11XNUH3oAOycZf75I'}
 - {name: 'Profectus', folder: 'game-9', file: 'games/game-9.html', link: 'https://www.youtube.com/watch?v=KAfMHsuVayw'}
 - {name: 'Realvi', folder: 'game-8', file: 'games/game-8.html', link: 'https://marcelomesmo.com/games/game-8.html'}
@@ -61,6 +62,7 @@ games:
 - {name: 'RoboCharge', folder: 'game-7', file: 'games/game-7.html', link: 'https://petit-suisse.itch.io/robo-charge'}
 
 projects:
+- {name: 'Caieta', folder: 'proj-4', file: 'https://github.com/marcelomesmo/Caieta'}
 - {name: 'Reis', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'MuSSE', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'HEEG', folder: 'proj-3', file: 'projects/proj-3.html'}
