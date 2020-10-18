@@ -50,6 +50,8 @@ contact: >
 # Work Section
 
 games:
+- {name: 'Wolfstride', folder: 'game-12', file: 'games/game-12.html', link: 'https://wolfstridegame.com'}
+- {name: 'Profane MMORPG', folder: 'game-11', file: 'games/game-11.html', link: 'https://www.profanemmo.com'}
 - {name: 'Looney Tunes: World of Mayhem', folder: 'game-10', file: 'games/game-10.html', link: 'https://looneytuneswom.scopely.com'}
 - {name: 'Kawaii Deathu Desu', folder: 'game-6', file: 'games/game-6.html', link: 'https://store.steampowered.com/app/1102880/Kawaii_Deathu_Desu/?fbclid=IwAR1ffRz6e9Unxpv0_nNmNpCEe3rdR15gDHcDvusHqa11XNUH3oAOycZf75I'}
 - {name: 'Profectus', folder: 'game-9', file: 'games/game-9.html', link: 'https://www.youtube.com/watch?v=KAfMHsuVayw'}
